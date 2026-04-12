@@ -1,0 +1,2723 @@
+[{
+  "ecommerce_catalog": {
+    "category": "Men's Fashion",
+    "subcategory": "Clothing",
+    "products": [
+      {
+        "product_id": "MF-CLO-01",
+        "name": "Nike Dri-FIT Legend Sports T-Shirt",
+        "type_filter": "T-Shirt",
+        "brand": "Nike",
+        "rating": 4.8,
+        "price": 30.00,
+        "availability": "In Stock",
+        "overview_desc": "High-performance moisture-wicking training shirt.",
+        "product_page": {
+          "images": [
+            "nike_legend_tee_front.jpg",
+            "nike_legend_tee_back.jpg"
+          ],
+          "description": "The Nike Dri-FIT Legend T-Shirt is built with lightweight, sweat-wicking fabric with an anti-odor finish to help keep you dry and comfortable.",
+          "feature_resolution": "Dri-FIT Technology, 100% Polyester, Standard Fit.",
+          "tags": [
+            "Activewear",
+            "Gym",
+            "Nike",
+            "Moisture-Wicking"
+          ],
+          "available_options": {
+            "colors": [
+              "Black",
+              "White",
+              "Midnight Navy",
+              "University Red"
+            ],
+            "sizes": [
+              "S",
+              "M",
+              "L",
+              "XL",
+              "XXL"
+            ]
+          },
+          "wishlist": "Available",
+          "reviews": [
+            {
+              "user": "Zayn M.",
+              "rating": 5,
+              "comment": "Best gym shirt I own."
+            }
+          ],
+          "shipping_methods": [
+            "Standard",
+            "Express"
+          ]
+        }
+      },
+      {
+        "product_id": "MF-CLO-02",
+        "name": "Adidas Essentials Training T-Shirt",
+        "type_filter": "T-Shirt",
+        "brand": "Adidas",
+        "rating": 4.7,
+        "price": 25.00,
+        "availability": "In Stock",
+        "overview_desc": "Classic 3-stripes training tee for everyday comfort.",
+        "product_page": {
+          "images": [
+            "adidas_training_tee.jpg"
+          ],
+          "description": "A versatile t-shirt designed for your toughest workouts. AEROREADY technology manages moisture to keep you focused.",
+          "feature_resolution": "AEROREADY Fabric, Sustainable Cotton, Crewneck.",
+          "tags": [
+            "Training",
+            "Adidas",
+            "Athleisure"
+          ],
+          "available_options": {
+            "colors": [
+              "Grey",
+              "Black",
+              "Blue"
+            ],
+            "sizes": [
+              "S",
+              "M",
+              "L",
+              "XL"
+            ]
+          },
+          "wishlist": "Available",
+          "reviews": [],
+          "shipping_methods": [
+            "Standard Delivery"
+          ]
+        }
+      },
+      {
+        "product_id": "MF-CLO-03",
+        "name": "Levi’s Trucker Denim Jacket",
+        "type_filter": "Outerwear",
+        "brand": "Levi’s",
+        "rating": 4.9,
+        "price": 89.50,
+        "availability": "In Stock",
+        "overview_desc": "The original denim jacket since 1967.",
+        "product_page": {
+          "images": [
+            "levis_trucker_jacket.jpg",
+            "jacket_detail.jpg"
+          ],
+          "description": "An icon of American style. This standard fit Trucker Jacket is made from non-stretch denim with a button placket and pointed collar.",
+          "feature_resolution": "100% Cotton, Non-stretch, Point Collar.",
+          "tags": [
+            "Denim",
+            "Classic",
+            "Levi's",
+            "Vintage Style"
+          ],
+          "available_options": {
+            "colors": [
+              "Light Wash",
+              "Medium Wash",
+              "Dark Indigo"
+            ],
+            "sizes": [
+              "S",
+              "M",
+              "L",
+              "XL"
+            ]
+          },
+          "wishlist": "Available",
+          "reviews": [
+            {
+              "user": "Umar D.",
+              "rating": 5,
+              "comment": "Timeless piece, fits perfectly."
+            }
+          ],
+          "shipping_methods": [
+            "Standard",
+            "Express"
+          ]
+        }
+      },
+      {
+        "product_id": "MF-CLO-04",
+        "name": "Zara Relaxed Fit Casual Shirt",
+        "type_filter": "Shirt",
+        "brand": "Zara",
+        "rating": 4.5,
+        "price": 45.90,
+        "availability": "In Stock",
+        "overview_desc": "Lightweight linen-blend shirt for a laid-back look.",
+        "product_page": {
+          "images": [
+            "zara_casual_shirt_sand.jpg"
+          ],
+          "description": "Relaxed fit shirt made of a linen and cotton blend. Featuring a spread collar and long sleeves with buttoned cuffs.",
+          "feature_resolution": "Linen Blend, Breathable, Button-down.",
+          "tags": [
+            "Casual",
+            "Linen",
+            "Zara",
+            "Summer Fashion"
+          ],
+          "available_options": {
+            "colors": [
+              "Sand",
+              "Sky Blue",
+              "White"
+            ],
+            "sizes": [
+              "S",
+              "M",
+              "L",
+              "XL"
+            ]
+          },
+          "wishlist": "Available",
+          "reviews": [],
+          "shipping_methods": [
+            "Standard",
+            "Express"
+          ]
+        }
+      },
+      {
+        "product_id": "MF-CLO-05",
+        "name": "Outfitters Graphic Printed T-Shirt",
+        "type_filter": "T-Shirt",
+        "brand": "Outfitters",
+        "rating": 4.4,
+        "price": 12.50,
+        "availability": "In Stock",
+        "overview_desc": "Urban style graphic tee for street-ready outfits.",
+        "product_page": {
+          "images": [
+            "outfitters_graphic_tee.jpg"
+          ],
+          "description": "Cotton jersey t-shirt with a screen-printed graphic on the chest. Designed for a comfortable regular fit.",
+          "feature_resolution": "100% Cotton, Crewneck, Regular Fit.",
+          "tags": [
+            "Streetwear",
+            "Graphic Tee",
+            "Outfitters"
+          ],
+          "available_options": {
+            "colors": [
+              "Charcoal",
+              "Mustard",
+              "Black"
+            ],
+            "sizes": [
+              "S",
+              "M",
+              "L",
+              "XL"
+            ]
+          },
+          "wishlist": "Available",
+          "reviews": [],
+          "shipping_methods": [
+            "Standard Delivery",
+            "Store Pickup"
+          ]
+        }
+      },
+      {
+        "product_id": "MF-CLO-06",
+        "name": "Nike Sportswear Club Fleece Hoodie",
+        "type_filter": "Hoodie",
+        "brand": "Nike",
+        "rating": 4.8,
+        "price": 55.00,
+        "availability": "In Stock",
+        "overview_desc": "Soft fleece hoodie combining classic style with comfort.",
+        "product_page": {
+          "images": [
+            "nike_club_hoodie_black.jpg"
+          ],
+          "description": "A closet staple, the Nike Sportswear Club Fleece Pullover Hoodie combines soft fabric with simple street style for a daily look.",
+          "feature_resolution": "Brushed-back Fleece, Drawstring Hood, Kangaroo Pocket.",
+          "tags": [
+            "Hoodie",
+            "Nike",
+            "Fleece",
+            "Comfort"
+          ],
+          "available_options": {
+            "colors": [
+              "Black",
+              "Grey Heather",
+              "Red"
+            ],
+            "sizes": [
+              "S",
+              "M",
+              "L",
+              "XL",
+              "XXL"
+            ]
+          },
+          "wishlist": "Available",
+          "reviews": [],
+          "shipping_methods": [
+            "Standard",
+            "Express"
+          ]
+        }
+      },
+      {
+        "product_id": "MF-CLO-07",
+        "name": "Adidas Trefoil Crew Sweatshirt",
+        "type_filter": "Sweatshirt",
+        "brand": "Adidas",
+        "rating": 4.7,
+        "price": 50.00,
+        "availability": "In Stock",
+        "overview_desc": "An iconic sweatshirt featuring the classic Trefoil logo.",
+        "product_page": {
+          "images": [
+            "adidas_trefoil_crew.jpg"
+          ],
+          "description": "Celebrate Adidas heritage in this comfortable sweatshirt. Made in soft French Terry for a premium feel.",
+          "feature_resolution": "French Terry Cotton, Ribbed Cuffs, Regular Fit.",
+          "tags": [
+            "Sweatshirt",
+            "Adidas Originals",
+            "Retro"
+          ],
+          "available_options": {
+            "colors": [
+              "Blue",
+              "Black",
+              "Dark Green"
+            ],
+            "sizes": [
+              "S",
+              "M",
+              "L",
+              "XL"
+            ]
+          },
+          "wishlist": "Available",
+          "reviews": [],
+          "shipping_methods": [
+            "Standard Delivery"
+          ]
+        }
+      },
+      {
+        "product_id": "MF-CLO-08",
+        "name": "Levi’s 511 Slim Fit Jeans",
+        "type_filter": "Jeans",
+        "brand": "Levi’s",
+        "rating": 4.8,
+        "price": 69.50,
+        "availability": "In Stock",
+        "overview_desc": "A modern slim with room to move.",
+        "product_page": {
+          "images": [
+            "levis_511_denim.jpg"
+          ],
+          "description": "Between a skinny and a straight fit, our 511 slim fit jeans are cut close without feeling too restrictive.",
+          "feature_resolution": "Stretch Denim, 5-Pocket Styling, Zip Fly.",
+          "tags": [
+            "Jeans",
+            "Slim Fit",
+            "Levi's",
+            "Denim"
+          ],
+          "available_options": {
+            "colors": [
+              "Dark Hollow",
+              "Native Cali",
+              "Black"
+            ],
+            "waist": [
+              "30",
+              "32",
+              "34",
+              "36"
+            ],
+            "length": [
+              "30",
+              "32",
+              "34"
+            ]
+          },
+          "wishlist": "Available",
+          "reviews": [],
+          "shipping_methods": [
+            "Standard",
+            "Express"
+          ]
+        }
+      },
+      {
+        "product_id": "MF-CLO-09",
+        "name": "Zara Textured Formal Shirt",
+        "type_filter": "Shirt",
+        "brand": "Zara",
+        "rating": 4.6,
+        "price": 59.90,
+        "availability": "Limited Stock",
+        "overview_desc": "Slim fit formal shirt with a sophisticated texture.",
+        "product_page": {
+          "images": [
+            "zara_formal_white.jpg"
+          ],
+          "description": "Easy-iron formal shirt featuring a slim fit and a classic collar. Perfect for office and formal events.",
+          "feature_resolution": "Easy Iron, Slim Fit, Spread Collar.",
+          "tags": [
+            "Formal Wear",
+            "Workwear",
+            "Zara",
+            "White Shirt"
+          ],
+          "available_options": {
+            "colors": [
+              "White",
+              "Light Blue",
+              "Pink"
+            ],
+            "sizes": [
+              "S",
+              "M",
+              "L",
+              "XL"
+            ]
+          },
+          "wishlist": "Available",
+          "reviews": [],
+          "shipping_methods": [
+            "Standard",
+            "Express"
+          ]
+        }
+      },
+      {
+        "product_id": "MF-CLO-10",
+        "name": "Outfitters Oversized Essential Hoodie",
+        "type_filter": "Hoodie",
+        "brand": "Outfitters",
+        "rating": 4.5,
+        "price": 24.50,
+        "availability": "In Stock",
+        "overview_desc": "Trendy oversized hoodie for a relaxed urban silhouette.",
+        "product_page": {
+          "images": [
+            "outfitters_oversized_hoodie.jpg"
+          ],
+          "description": "Crafted from heavy fleece, this hoodie features a drop-shoulder design and a spacious front pocket.",
+          "feature_resolution": "Oversized Fit, Heavyweight Fleece, Drop Shoulder.",
+          "tags": [
+            "Hoodie",
+            "Streetwear",
+            "Outfitters",
+            "Winter"
+          ],
+          "available_options": {
+            "colors": [
+              "Olive",
+              "Oatmeal",
+              "Stone"
+            ],
+            "sizes": [
+              "XS",
+              "S",
+              "M",
+              "L",
+              "XL"
+            ]
+          },
+          "wishlist": "Available",
+          "reviews": [],
+          "shipping_methods": [
+            "Standard Delivery"
+          ]
+        }
+      },
+      {
+        "ecommerce_catalog": {
+          "category": "Men's Fashion",
+          "subcategory": "Shoes",
+          "products": [
+            {
+              "product_id": "MF-SH-01",
+              "name": "Nike Air Force 1 '07",
+              "type_filter": "Sneakers",
+              "brand": "Nike",
+              "rating": 4.9,
+              "price": 110.00,
+              "availability": "In Stock",
+              "overview_desc": "The radiance lives on in the basketball original.",
+              "product_page": {
+                "images": [
+                  "nike_af1_white_1.jpg",
+                  "nike_af1_sole.jpg"
+                ],
+                "description": "Crossing hardwood comfort with off-court flair, it puts a fresh spin on what you know best: 80s construction and bold details.",
+                "feature_resolution": "Nike Air Cushioning, Stitched Leather Overlays, Padded Collar.",
+                "tags": [
+                  "Sneakers",
+                  "Iconic",
+                  "Nike",
+                  "Streetwear"
+                ],
+                "available_options": {
+                  "colors": [
+                    "Triple White",
+                    "Black on Black"
+                  ],
+                  "sizes": [
+                    "7",
+                    "8",
+                    "9",
+                    "10",
+                    "11",
+                    "12"
+                  ]
+                },
+                "wishlist": "Available",
+                "reviews": [
+                  {
+                    "user": "Ali R.",
+                    "rating": 5,
+                    "comment": "A classic that goes with every outfit."
+                  }
+                ],
+                "shipping_methods": [
+                  "Standard",
+                  "Express"
+                ]
+              }
+            },
+            {
+              "product_id": "MF-SH-02",
+              "name": "Adidas Ultraboost Light",
+              "type_filter": "Running Shoes",
+              "brand": "Adidas",
+              "rating": 4.8,
+              "price": 190.00,
+              "availability": "In Stock",
+              "overview_desc": "Experience epic energy with our lightest Ultraboost ever.",
+              "product_page": {
+                "images": [
+                  "adidas_ultraboost_side.jpg"
+                ],
+                "description": "The secret is the Light BOOST midsole, a new generation of Adidas BOOST. Its unique molecule design achieves the lightest BOOST foam to date.",
+                "feature_resolution": "Light BOOST Midsole, Primeknit+ Upper, Continental™ Rubber Outsole.",
+                "tags": [
+                  "Running",
+                  "Performance",
+                  "Adidas",
+                  "BOOST"
+                ],
+                "available_options": {
+                  "colors": [
+                    "Cloud White",
+                    "Core Black",
+                    "Solar Red"
+                  ],
+                  "sizes": [
+                    "8",
+                    "9",
+                    "10",
+                    "11"
+                  ]
+                },
+                "wishlist": "Available",
+                "reviews": [],
+                "shipping_methods": [
+                  "Standard Delivery"
+                ]
+              }
+            },
+            {
+              "product_id": "MF-SH-03",
+              "name": "Nike Air Zoom Pegasus 40",
+              "type_filter": "Running Shoes",
+              "brand": "Nike",
+              "rating": 4.7,
+              "price": 130.00,
+              "availability": "In Stock",
+              "overview_desc": "A springy ride for every run, the Peg returns with a familiar feel.",
+              "product_page": {
+                "images": [
+                  "nike_pegasus_40.jpg"
+                ],
+                "description": "The Pegasus 40 provides balanced support and responsive cushioning, making it ideal for both long and short runs.",
+                "feature_resolution": "Nike React Technology, Dual Zoom Air Units, Highly Tuned Single Layer Mesh.",
+                "tags": [
+                  "Running",
+                  "Athletic",
+                  "Nike"
+                ],
+                "available_options": {
+                  "colors": [
+                    "Black/White",
+                    "Blue/Grey"
+                  ],
+                  "sizes": [
+                    "7",
+                    "8",
+                    "9",
+                    "10",
+                    "11",
+                    "12"
+                  ]
+                },
+                "wishlist": "Available",
+                "reviews": [],
+                "shipping_methods": [
+                  "Standard",
+                  "Express"
+                ]
+              }
+            },
+            {
+              "product_id": "MF-SH-04",
+              "name": "Adidas Stan Smith Shoes",
+              "type_filter": "Sneakers",
+              "brand": "Adidas",
+              "rating": 4.6,
+              "price": 100.00,
+              "availability": "In Stock",
+              "overview_desc": "Classic minimalist sneakers with a timeless silhouette.",
+              "product_page": {
+                "images": [
+                  "adidas_stan_smith_main.jpg"
+                ],
+                "description": "Stan Smith shoes have been a staple for decades. This version features the same clean design that made them an icon.",
+                "feature_resolution": "Synthetic Leather Upper, OrthoLite® Sockliner, Perforated 3-Stripes.",
+                "tags": [
+                  "Sneakers",
+                  "Casual",
+                  "Adidas Originals"
+                ],
+                "available_options": {
+                  "colors": [
+                    "White/Green",
+                    "White/Navy"
+                  ],
+                  "sizes": [
+                    "6",
+                    "7",
+                    "8",
+                    "9",
+                    "10"
+                  ]
+                },
+                "wishlist": "Available",
+                "reviews": [],
+                "shipping_methods": [
+                  "Standard Delivery"
+                ]
+              }
+            },
+            {
+              "product_id": "MF-SH-05",
+              "name": "Bata Ambassador Genuine Leather Oxfords",
+              "type_filter": "Formal Shoes",
+              "brand": "Bata",
+              "rating": 4.5,
+              "price": 45.00,
+              "availability": "In Stock",
+              "overview_desc": "Sophisticated formal footwear for the modern professional.",
+              "product_page": {
+                "images": [
+                  "bata_formal_black.jpg"
+                ],
+                "description": "Crafted from high-quality genuine leather, these Oxfords feature a sleek design and cushioned insoles for all-day comfort at the office.",
+                "feature_resolution": "Genuine Leather, Lace-up Closure, Durable TPR Outsole.",
+                "tags": [
+                  "Formal",
+                  "Office Wear",
+                  "Bata",
+                  "Leather"
+                ],
+                "available_options": {
+                  "colors": [
+                    "Black",
+                    "Tan"
+                  ],
+                  "sizes": [
+                    "6",
+                    "7",
+                    "8",
+                    "9",
+                    "10",
+                    "11"
+                  ]
+                },
+                "wishlist": "Available",
+                "reviews": [
+                  {
+                    "user": "Farhan T.",
+                    "rating": 4,
+                    "comment": "Great value for money."
+                  }
+                ],
+                "shipping_methods": [
+                  "Standard Delivery",
+                  "In-store Pickup"
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "ecommerce_catalog": {
+          "category": "Men's Fashion",
+          "subcategory": "Accessories",
+          "products": [
+            {
+              "product_id": "MF-ACC-16",
+              "name": "Fossil Machine Chronograph Stainless Steel Watch",
+              "type_filter": "Watch",
+              "brand": "Fossil",
+              "rating": 4.8,
+              "price": 160.00,
+              "availability": "In Stock",
+              "overview_desc": "A rugged yet refined timepiece with a textured bezel.",
+              "product_page": {
+                "images": [
+                  "fossil_machine_black.jpg",
+                  "fossil_watch_wrist.jpg"
+                ],
+                "description": "Inspired by American industrial design, this oversized chronograph features a black-toned brushed steel case and a matching bracelet.",
+                "feature_resolution": "Quartz Movement, Water Resistant (5 ATM), 45mm Case.",
+                "tags": [
+                  "Watch",
+                  "Chronograph",
+                  "Fossil",
+                  "Formal Accessory"
+                ],
+                "available_options": {
+                  "colors": [
+                    "Black",
+                    "Smoke Grey",
+                    "Silver"
+                  ]
+                },
+                "wishlist": "Available",
+                "reviews": [
+                  {
+                    "user": "Omer Z.",
+                    "rating": 5,
+                    "comment": "Solid weight and looks very premium."
+                  }
+                ],
+                "shipping_methods": [
+                  "Standard",
+                  "Express"
+                ]
+              }
+            },
+            {
+              "product_id": "MF-ACC-17",
+              "name": "Casio G-Shock Classic Digital Watch",
+              "type_filter": "Watch",
+              "brand": "Casio",
+              "rating": 4.9,
+              "price": 99.00,
+              "availability": "In Stock",
+              "overview_desc": "The ultimate tough watch for every environment.",
+              "product_page": {
+                "images": [
+                  "casio_gshock_dw5600.jpg"
+                ],
+                "description": "Shock resistant and 200-meter water resistant, this digital classic features a stopwatch, countdown timer, and EL backlight.",
+                "feature_resolution": "Shock Resistant, 200M Water Resistance, 1/100-sec Stopwatch.",
+                "tags": [
+                  "Digital Watch",
+                  "Casio",
+                  "Sport",
+                  "Durable"
+                ],
+                "available_options": {
+                  "colors": [
+                    "Matte Black",
+                    "Military Green"
+                  ]
+                },
+                "wishlist": "Available",
+                "reviews": [],
+                "shipping_methods": [
+                  "Standard Delivery"
+                ]
+              }
+            },
+            {
+              "product_id": "MF-ACC-18",
+              "name": "Ray-Ban Classic Aviator Sunglasses",
+              "type_filter": "Eyewear",
+              "brand": "Ray-Ban",
+              "rating": 4.7,
+              "price": 175.00,
+              "availability": "In Stock",
+              "overview_desc": "The timeless icon that started it all.",
+              "product_page": {
+                "images": [
+                  "rayban_aviator_gold.jpg"
+                ],
+                "description": "Originally designed for U.S. aviators in 1937, these sunglasses feature iconic G-15 lenses and a classic gold frame for superior clarity.",
+                "feature_resolution": "UV400 Protection, Polarized Options, Metal Frame.",
+                "tags": [
+                  "Eyewear",
+                  "Ray-Ban",
+                  "Summer",
+                  "Iconic"
+                ],
+                "available_options": {
+                  "colors": [
+                    "Gold/Green",
+                    "Silver/Blue",
+                    "Black/Grey"
+                  ],
+                  "sizes": [
+                    "Standard",
+                    "Large"
+                  ]
+                },
+                "wishlist": "Available",
+                "reviews": [],
+                "shipping_methods": [
+                  "Insured Shipping",
+                  "Express"
+                ]
+              }
+            },
+            {
+              "product_id": "MF-ACC-19",
+              "name": "Levi’s Genuine Leather Reversible Belt",
+              "type_filter": "Belt",
+              "brand": "Levi’s",
+              "rating": 4.6,
+              "price": 35.00,
+              "availability": "In Stock",
+              "overview_desc": "Two looks in one with a rotating buckle.",
+              "product_page": {
+                "images": [
+                  "levis_belt_reversible.jpg"
+                ],
+                "description": "Crafted from durable genuine leather, this belt features a swivel buckle that allows you to switch between black and brown effortlessly.",
+                "feature_resolution": "100% Genuine Leather, Rotating Buckle, Gunmetal Finish.",
+                "tags": [
+                  "Belt",
+                  "Leather",
+                  "Levi's",
+                  "Casual"
+                ],
+                "available_options": {
+                  "sizes": [
+                    "32",
+                    "34",
+                    "36",
+                    "38",
+                    "40"
+                  ]
+                },
+                "wishlist": "Available",
+                "reviews": [],
+                "shipping_methods": [
+                  "Standard Delivery"
+                ]
+              }
+            },
+            {
+              "product_id": "MF-ACC-20",
+              "name": "Fossil Derrick RFID Large Coin Pocket Wallet",
+              "type_filter": "Wallet",
+              "brand": "Fossil",
+              "rating": 4.8,
+              "price": 55.00,
+              "availability": "In Stock",
+              "overview_desc": "Premium leather bifold with advanced security.",
+              "product_page": {
+                "images": [
+                  "fossil_wallet_derrick.jpg"
+                ],
+                "description": "High-quality smooth leather featuring a bill compartment, 2 ID windows, and RFID-blocking technology to protect your data.",
+                "feature_resolution": "RFID Blocking, 8 Credit Card Slots, 100% Leather.",
+                "tags": [
+                  "Wallet",
+                  "Leather",
+                  "Premium",
+                  "Fossil"
+                ],
+                "available_options": {
+                  "colors": [
+                    "Dark Brown",
+                    "Black"
+                  ]
+                },
+                "wishlist": "Available",
+                "reviews": [
+                  {
+                    "user": "Mustafa K.",
+                    "rating": 5,
+                    "comment": "Beautiful leather and plenty of space."
+                  }
+                ],
+                "shipping_methods": [
+                  "Standard Delivery"
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "ecommerce_catalog": {
+          "category": "Women's Fashion",
+          "subcategory": "Clothing",
+          "products": [
+            {
+              "product_id": "WF-CLO-01",
+              "name": "Khaadi Essential Printed Kurti",
+              "type_filter": "Kurti",
+              "brand": "Khaadi",
+              "rating": 4.7,
+              "price": 25.00,
+              "availability": "In Stock",
+              "overview_desc": "A vibrant cotton kurti featuring traditional block-print motifs.",
+              "product_page": {
+                "images": [
+                  "khaadi_kurti_front.jpg",
+                  "khaadi_kurti_detail.jpg"
+                ],
+                "description": "Crafted from premium breathable cotton, this kurti showcases Khaadi’s signature fusion of ethnic patterns and modern silhouettes.",
+                "feature_resolution": "100% Cotton, Breathable Fabric, Regular Fit.",
+                "tags": [
+                  "Ethnic",
+                  "Casual Wear",
+                  "Khaadi",
+                  "Traditional"
+                ],
+                "available_options": {
+                  "colors": [
+                    "Mustard",
+                    "Teal",
+                    "Coral"
+                  ],
+                  "sizes": [
+                    "8",
+                    "10",
+                    "12",
+                    "14",
+                    "16"
+                  ]
+                },
+                "wishlist": "Available",
+                "reviews": [
+                  {
+                    "user": "Khadija A.",
+                    "rating": 5,
+                    "comment": "Perfect for daily office wear."
+                  }
+                ],
+                "shipping_methods": [
+                  "Standard",
+                  "Express"
+                ]
+              }
+            },
+            {
+              "product_id": "WF-CLO-02",
+              "name": "Zara Floral Print Maxi Dress",
+              "type_filter": "Dress",
+              "brand": "Zara",
+              "rating": 4.6,
+              "price": 69.90,
+              "availability": "In Stock",
+              "overview_desc": "Flowing long-sleeve maxi dress with a sophisticated floral print.",
+              "product_page": {
+                "images": [
+                  "zara_maxi_dress.jpg"
+                ],
+                "description": "Round neck dress featuring a V-shaped opening with ties. Elasticated cuffs and a ruffled hem for a feminine touch.",
+                "feature_resolution": "Viscose Blend, Elastic Waist, A-line Cut.",
+                "tags": [
+                  "Maxi",
+                  "Bohemian",
+                  "Zara",
+                  "Spring Collection"
+                ],
+                "available_options": {
+                  "colors": [
+                    "Multi-floral"
+                  ],
+                  "sizes": [
+                    "XS",
+                    "S",
+                    "M",
+                    "L"
+                  ]
+                },
+                "wishlist": "Available",
+                "reviews": [],
+                "shipping_methods": [
+                  "Standard Delivery"
+                ]
+              }
+            },
+            {
+              "product_id": "WF-CLO-03",
+              "name": "H&M Ribbed Casual Top",
+              "type_filter": "Tops",
+              "brand": "H&M",
+              "rating": 4.4,
+              "price": 14.99,
+              "availability": "In Stock",
+              "overview_desc": "Soft, ribbed jersey top with a fitted silhouette.",
+              "product_page": {
+                "images": [
+                  "hm_ribbed_top.jpg"
+                ],
+                "description": "A versatile wardrobe essential. Short-sleeved top in soft cotton-blend ribbing with a rounded neckline.",
+                "feature_resolution": "Cotton-Polyester Blend, Stretch Fabric, Slim Fit.",
+                "tags": [
+                  "Casual",
+                  "Basic",
+                  "H&M",
+                  "Essential"
+                ],
+                "available_options": {
+                  "colors": [
+                    "White",
+                    "Black",
+                    "Dusty Rose"
+                  ],
+                  "sizes": [
+                    "XS",
+                    "S",
+                    "M",
+                    "L",
+                    "XL"
+                  ]
+                },
+                "wishlist": "Available",
+                "reviews": [],
+                "shipping_methods": [
+                  "Standard Delivery"
+                ]
+              }
+            },
+            {
+              "product_id": "WF-CLO-04",
+              "name": "Limelight Unstitched Lawn Suit",
+              "type_filter": "Unstitched",
+              "brand": "Limelight",
+              "rating": 4.8,
+              "price": 28.00,
+              "availability": "In Stock",
+              "overview_desc": "High-quality lawn fabric with contemporary digital prints.",
+              "product_page": {
+                "images": [
+                  "limelight_lawn_1.jpg"
+                ],
+                "description": "3-piece unstitched suit including a printed shirt, plain trousers, and a lightweight chiffon dupatta.",
+                "feature_resolution": "Premium Lawn Fabric, Digital Print, 3-Piece Set.",
+                "tags": [
+                  "Lawn",
+                  "Summer Fashion",
+                  "Limelight",
+                  "Unstitched"
+                ],
+                "available_options": {
+                  "patterns": [
+                    "Abstract",
+                    "Geometric",
+                    "Floral"
+                  ]
+                },
+                "wishlist": "Available",
+                "reviews": [],
+                "shipping_methods": [
+                  "Standard Delivery",
+                  "In-store Pickup"
+                ]
+              }
+            },
+            {
+              "product_id": "WF-CLO-05",
+              "name": "Sana Safinaz Muzlin Embroidered Dress",
+              "type_filter": "Ready-to-Wear",
+              "brand": "Sana Safinaz",
+              "rating": 4.9,
+              "price": 75.00,
+              "availability": "In Stock",
+              "overview_desc": "Intricately embroidered ensemble for a luxury look.",
+              "product_page": {
+                "images": [
+                  "ss_muzlin_embroidered.jpg"
+                ],
+                "description": "A stunning ready-to-wear shirt featuring delicate threadwork on the neckline and sleeves, paired with semi-formal trousers.",
+                "feature_resolution": "Slub Cotton, Detailed Embroidery, Designer Cut.",
+                "tags": [
+                  "Luxury",
+                  "Semi-Formal",
+                  "Sana Safinaz",
+                  "Designer"
+                ],
+                "available_options": {
+                  "colors": [
+                    "Midnight Blue",
+                    "Emerald Green"
+                  ],
+                  "sizes": [
+                    "S",
+                    "M",
+                    "L"
+                  ]
+                },
+                "wishlist": "Available",
+                "reviews": [
+                  {
+                    "user": "Zaynab P.",
+                    "rating": 5,
+                    "comment": "The embroidery is absolutely exquisite!"
+                  }
+                ],
+                "shipping_methods": [
+                  "Insured Shipping",
+                  "Express"
+                ]
+              }
+            },
+            {
+              "product_id": "WF-CLO-06",
+              "name": "Khaadi Jacquard Winter Shawl",
+              "type_filter": "Accessories",
+              "brand": "Khaadi",
+              "rating": 4.7,
+              "price": 35.00,
+              "availability": "In Stock",
+              "overview_desc": "Warm and stylish jacquard shawl for the winter season.",
+              "product_page": {
+                "images": [
+                  "khaadi_shawl_winter.jpg"
+                ],
+                "description": "Stay cozy with this elegantly woven shawl, featuring intricate jacquard patterns and a soft finish.",
+                "feature_resolution": "Wool-Acrylic Blend, Jacquard Weave, Overlock Edges.",
+                "tags": [
+                  "Winter",
+                  "Shawl",
+                  "Khaadi",
+                  "Outerwear"
+                ],
+                "available_options": {
+                  "colors": [
+                    "Maroon",
+                    "Charcoal",
+                    "Deep Navy"
+                  ]
+                },
+                "wishlist": "Available",
+                "reviews": [],
+                "shipping_methods": [
+                  "Standard Delivery"
+                ]
+              }
+            },
+            {
+              "product_id": "WF-CLO-07",
+              "name": "Zara Sequin Party Dress",
+              "type_filter": "Dress",
+              "brand": "Zara",
+              "rating": 4.5,
+              "price": 89.90,
+              "availability": "Limited Stock",
+              "overview_desc": "Shimmering mini dress perfect for evening celebrations.",
+              "product_page": {
+                "images": [
+                  "zara_sequin_dress.jpg"
+                ],
+                "description": "Short dress with a V-neckline and thin straps. All-over sequin detail with a comfortable inner lining.",
+                "feature_resolution": "Sequin Overlay, Inner Lining, Side Zip.",
+                "tags": [
+                  "Party",
+                  "Evening Wear",
+                  "Zara",
+                  "Glitzy"
+                ],
+                "available_options": {
+                  "colors": [
+                    "Silver",
+                    "Champagne Gold"
+                  ],
+                  "sizes": [
+                    "S",
+                    "M",
+                    "L"
+                  ]
+                },
+                "wishlist": "Available",
+                "reviews": [],
+                "shipping_methods": [
+                  "Standard",
+                  "Express"
+                ]
+              }
+            },
+            {
+              "product_id": "WF-CLO-08",
+              "name": "H&M Slim High Ankle Jeans",
+              "type_filter": "Jeans",
+              "brand": "H&M",
+              "rating": 4.6,
+              "price": 29.99,
+              "availability": "In Stock",
+              "overview_desc": "High-waisted 5-pocket jeans in slightly stretchy denim.",
+              "product_page": {
+                "images": [
+                  "hm_high_jeans.jpg"
+                ],
+                "description": "Slim fit jeans with a high waist, zip fly, and button. Designed to hit at the ankle for a modern look.",
+                "feature_resolution": "Cotton-Elastane Blend, High Waist, Slim Fit.",
+                "tags": [
+                  "Denim",
+                  "H&M",
+                  "Casual",
+                  "Slim Fit"
+                ],
+                "available_options": {
+                  "colors": [
+                    "Light Denim",
+                    "Black",
+                    "Dark Blue"
+                  ],
+                  "sizes": [
+                    "26",
+                    "28",
+                    "30",
+                    "32"
+                  ]
+                },
+                "wishlist": "Available",
+                "reviews": [],
+                "shipping_methods": [
+                  "Standard Delivery"
+                ]
+              }
+            },
+            {
+              "product_id": "WF-CLO-09",
+              "name": "Limelight Printed 2PC Suit",
+              "type_filter": "Ready-to-Wear",
+              "brand": "Limelight",
+              "rating": 4.7,
+              "price": 32.00,
+              "availability": "In Stock",
+              "overview_desc": "Stylish 2-piece set featuring a printed shirt and trousers.",
+              "product_page": {
+                "images": [
+                  "limelight_2pc_printed.jpg"
+                ],
+                "description": "A coordinated look featuring a mid-length printed shirt and matching tapered trousers. Made from breathable cambric fabric.",
+                "feature_resolution": "Cambric Fabric, 2-Piece Set, Tapered Cut.",
+                "tags": [
+                  "2PC",
+                  "Limelight",
+                  "Daily Wear",
+                  "Co-ords"
+                ],
+                "available_options": {
+                  "colors": [
+                    "Lavender",
+                    "Peach",
+                    "Black"
+                  ],
+                  "sizes": [
+                    "S",
+                    "M",
+                    "L"
+                  ]
+                },
+                "wishlist": "Available",
+                "reviews": [],
+                "shipping_methods": [
+                  "Standard Delivery"
+                ]
+              }
+            },
+            {
+              "product_id": "WF-CLO-10",
+              "name": "Sana Safinaz Silk Formal Dress",
+              "type_filter": "Formal",
+              "brand": "Sana Safinaz",
+              "rating": 4.9,
+              "price": 120.00,
+              "availability": "In Stock",
+              "overview_desc": "Elegant raw silk ensemble for wedding festivities.",
+              "product_page": {
+                "images": [
+                  "ss_formal_silk.jpg"
+                ],
+                "description": "A luxurious raw silk shirt adorned with gold tilla work and hand-embellished crystals, paired with a heavy organza dupatta.",
+                "feature_resolution": "Raw Silk, Tilla Work, Embellished Finish.",
+                "tags": [
+                  "Formal",
+                  "Wedding",
+                  "Sana Safinaz",
+                  "Premium"
+                ],
+                "available_options": {
+                  "colors": [
+                    "Royal Red",
+                    "Gold"
+                  ],
+                  "sizes": [
+                    "S",
+                    "M",
+                    "L"
+                  ]
+                },
+                "wishlist": "Available",
+                "reviews": [],
+                "shipping_methods": [
+                  "Insured Express"
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "ecommerce_catalog": {
+          "category": "Women's Fashion",
+          "subcategory": "Clothing",
+          "products": [
+            {
+              "product_id": "WF-CLO-01",
+              "name": "Khaadi Essential Printed Kurti",
+              "type_filter": "Kurti",
+              "brand": "Khaadi",
+              "rating": 4.7,
+              "price": 25.00,
+              "availability": "In Stock",
+              "overview_desc": "A vibrant cotton kurti featuring traditional block-print motifs.",
+              "product_page": {
+                "images": [
+                  "khaadi_kurti_front.jpg",
+                  "khaadi_kurti_detail.jpg"
+                ],
+                "description": "Crafted from premium breathable cotton, this kurti showcases Khaadi’s signature fusion of ethnic patterns and modern silhouettes.",
+                "feature_resolution": "100% Cotton, Breathable Fabric, Regular Fit.",
+                "tags": [
+                  "Ethnic",
+                  "Casual Wear",
+                  "Khaadi",
+                  "Traditional"
+                ],
+                "available_options": {
+                  "colors": [
+                    "Mustard",
+                    "Teal",
+                    "Coral"
+                  ],
+                  "sizes": [
+                    "8",
+                    "10",
+                    "12",
+                    "14",
+                    "16"
+                  ]
+                },
+                "wishlist": "Available",
+                "reviews": [
+                  {
+                    "user": "Khadija A.",
+                    "rating": 5,
+                    "comment": "Perfect for daily office wear."
+                  }
+                ],
+                "shipping_methods": [
+                  "Standard",
+                  "Express"
+                ]
+              }
+            },
+            {
+              "product_id": "WF-CLO-02",
+              "name": "Zara Floral Print Maxi Dress",
+              "type_filter": "Dress",
+              "brand": "Zara",
+              "rating": 4.6,
+              "price": 69.90,
+              "availability": "In Stock",
+              "overview_desc": "Flowing long-sleeve maxi dress with a sophisticated floral print.",
+              "product_page": {
+                "images": [
+                  "zara_maxi_dress.jpg"
+                ],
+                "description": "Round neck dress featuring a V-shaped opening with ties. Elasticated cuffs and a ruffled hem for a feminine touch.",
+                "feature_resolution": "Viscose Blend, Elastic Waist, A-line Cut.",
+                "tags": [
+                  "Maxi",
+                  "Bohemian",
+                  "Zara",
+                  "Spring Collection"
+                ],
+                "available_options": {
+                  "colors": [
+                    "Multi-floral"
+                  ],
+                  "sizes": [
+                    "XS",
+                    "S",
+                    "M",
+                    "L"
+                  ]
+                },
+                "wishlist": "Available",
+                "reviews": [],
+                "shipping_methods": [
+                  "Standard Delivery"
+                ]
+              }
+            },
+            {
+              "product_id": "WF-CLO-03",
+              "name": "H&M Ribbed Casual Top",
+              "type_filter": "Tops",
+              "brand": "H&M",
+              "rating": 4.4,
+              "price": 14.99,
+              "availability": "In Stock",
+              "overview_desc": "Soft, ribbed jersey top with a fitted silhouette.",
+              "product_page": {
+                "images": [
+                  "hm_ribbed_top.jpg"
+                ],
+                "description": "A versatile wardrobe essential. Short-sleeved top in soft cotton-blend ribbing with a rounded neckline.",
+                "feature_resolution": "Cotton-Polyester Blend, Stretch Fabric, Slim Fit.",
+                "tags": [
+                  "Casual",
+                  "Basic",
+                  "H&M",
+                  "Essential"
+                ],
+                "available_options": {
+                  "colors": [
+                    "White",
+                    "Black",
+                    "Dusty Rose"
+                  ],
+                  "sizes": [
+                    "XS",
+                    "S",
+                    "M",
+                    "L",
+                    "XL"
+                  ]
+                },
+                "wishlist": "Available",
+                "reviews": [],
+                "shipping_methods": [
+                  "Standard Delivery"
+                ]
+              }
+            },
+            {
+              "product_id": "WF-CLO-04",
+              "name": "Limelight Unstitched Lawn Suit",
+              "type_filter": "Unstitched",
+              "brand": "Limelight",
+              "rating": 4.8,
+              "price": 28.00,
+              "availability": "In Stock",
+              "overview_desc": "High-quality lawn fabric with contemporary digital prints.",
+              "product_page": {
+                "images": [
+                  "limelight_lawn_1.jpg"
+                ],
+                "description": "3-piece unstitched suit including a printed shirt, plain trousers, and a lightweight chiffon dupatta.",
+                "feature_resolution": "Premium Lawn Fabric, Digital Print, 3-Piece Set.",
+                "tags": [
+                  "Lawn",
+                  "Summer Fashion",
+                  "Limelight",
+                  "Unstitched"
+                ],
+                "available_options": {
+                  "patterns": [
+                    "Abstract",
+                    "Geometric",
+                    "Floral"
+                  ]
+                },
+                "wishlist": "Available",
+                "reviews": [],
+                "shipping_methods": [
+                  "Standard Delivery",
+                  "In-store Pickup"
+                ]
+              }
+            },
+            {
+              "product_id": "WF-CLO-05",
+              "name": "Sana Safinaz Muzlin Embroidered Dress",
+              "type_filter": "Ready-to-Wear",
+              "brand": "Sana Safinaz",
+              "rating": 4.9,
+              "price": 75.00,
+              "availability": "In Stock",
+              "overview_desc": "Intricately embroidered ensemble for a luxury look.",
+              "product_page": {
+                "images": [
+                  "ss_muzlin_embroidered.jpg"
+                ],
+                "description": "A stunning ready-to-wear shirt featuring delicate threadwork on the neckline and sleeves, paired with semi-formal trousers.",
+                "feature_resolution": "Slub Cotton, Detailed Embroidery, Designer Cut.",
+                "tags": [
+                  "Luxury",
+                  "Semi-Formal",
+                  "Sana Safinaz",
+                  "Designer"
+                ],
+                "available_options": {
+                  "colors": [
+                    "Midnight Blue",
+                    "Emerald Green"
+                  ],
+                  "sizes": [
+                    "S",
+                    "M",
+                    "L"
+                  ]
+                },
+                "wishlist": "Available",
+                "reviews": [
+                  {
+                    "user": "Zaynab P.",
+                    "rating": 5,
+                    "comment": "The embroidery is absolutely exquisite!"
+                  }
+                ],
+                "shipping_methods": [
+                  "Insured Shipping",
+                  "Express"
+                ]
+              }
+            },
+            {
+              "product_id": "WF-CLO-06",
+              "name": "Khaadi Jacquard Winter Shawl",
+              "type_filter": "Accessories",
+              "brand": "Khaadi",
+              "rating": 4.7,
+              "price": 35.00,
+              "availability": "In Stock",
+              "overview_desc": "Warm and stylish jacquard shawl for the winter season.",
+              "product_page": {
+                "images": [
+                  "khaadi_shawl_winter.jpg"
+                ],
+                "description": "Stay cozy with this elegantly woven shawl, featuring intricate jacquard patterns and a soft finish.",
+                "feature_resolution": "Wool-Acrylic Blend, Jacquard Weave, Overlock Edges.",
+                "tags": [
+                  "Winter",
+                  "Shawl",
+                  "Khaadi",
+                  "Outerwear"
+                ],
+                "available_options": {
+                  "colors": [
+                    "Maroon",
+                    "Charcoal",
+                    "Deep Navy"
+                  ]
+                },
+                "wishlist": "Available",
+                "reviews": [],
+                "shipping_methods": [
+                  "Standard Delivery"
+                ]
+              }
+            },
+            {
+              "product_id": "WF-CLO-07",
+              "name": "Zara Sequin Party Dress",
+              "type_filter": "Dress",
+              "brand": "Zara",
+              "rating": 4.5,
+              "price": 89.90,
+              "availability": "Limited Stock",
+              "overview_desc": "Shimmering mini dress perfect for evening celebrations.",
+              "product_page": {
+                "images": [
+                  "zara_sequin_dress.jpg"
+                ],
+                "description": "Short dress with a V-neckline and thin straps. All-over sequin detail with a comfortable inner lining.",
+                "feature_resolution": "Sequin Overlay, Inner Lining, Side Zip.",
+                "tags": [
+                  "Party",
+                  "Evening Wear",
+                  "Zara",
+                  "Glitzy"
+                ],
+                "available_options": {
+                  "colors": [
+                    "Silver",
+                    "Champagne Gold"
+                  ],
+                  "sizes": [
+                    "S",
+                    "M",
+                    "L"
+                  ]
+                },
+                "wishlist": "Available",
+                "reviews": [],
+                "shipping_methods": [
+                  "Standard",
+                  "Express"
+                ]
+              }
+            },
+            {
+              "product_id": "WF-CLO-08",
+              "name": "H&M Slim High Ankle Jeans",
+              "type_filter": "Jeans",
+              "brand": "H&M",
+              "rating": 4.6,
+              "price": 29.99,
+              "availability": "In Stock",
+              "overview_desc": "High-waisted 5-pocket jeans in slightly stretchy denim.",
+              "product_page": {
+                "images": [
+                  "hm_high_jeans.jpg"
+                ],
+                "description": "Slim fit jeans with a high waist, zip fly, and button. Designed to hit at the ankle for a modern look.",
+                "feature_resolution": "Cotton-Elastane Blend, High Waist, Slim Fit.",
+                "tags": [
+                  "Denim",
+                  "H&M",
+                  "Casual",
+                  "Slim Fit"
+                ],
+                "available_options": {
+                  "colors": [
+                    "Light Denim",
+                    "Black",
+                    "Dark Blue"
+                  ],
+                  "sizes": [
+                    "26",
+                    "28",
+                    "30",
+                    "32"
+                  ]
+                },
+                "wishlist": "Available",
+                "reviews": [],
+                "shipping_methods": [
+                  "Standard Delivery"
+                ]
+              }
+            },
+            {
+              "product_id": "WF-CLO-09",
+              "name": "Limelight Printed 2PC Suit",
+              "type_filter": "Ready-to-Wear",
+              "brand": "Limelight",
+              "rating": 4.7,
+              "price": 32.00,
+              "availability": "In Stock",
+              "overview_desc": "Stylish 2-piece set featuring a printed shirt and trousers.",
+              "product_page": {
+                "images": [
+                  "limelight_2pc_printed.jpg"
+                ],
+                "description": "A coordinated look featuring a mid-length printed shirt and matching tapered trousers. Made from breathable cambric fabric.",
+                "feature_resolution": "Cambric Fabric, 2-Piece Set, Tapered Cut.",
+                "tags": [
+                  "2PC",
+                  "Limelight",
+                  "Daily Wear",
+                  "Co-ords"
+                ],
+                "available_options": {
+                  "colors": [
+                    "Lavender",
+                    "Peach",
+                    "Black"
+                  ],
+                  "sizes": [
+                    "S",
+                    "M",
+                    "L"
+                  ]
+                },
+                "wishlist": "Available",
+                "reviews": [],
+                "shipping_methods": [
+                  "Standard Delivery"
+                ]
+              }
+            },
+            {
+              "product_id": "WF-CLO-10",
+              "name": "Sana Safinaz Silk Formal Dress",
+              "type_filter": "Formal",
+              "brand": "Sana Safinaz",
+              "rating": 4.9,
+              "price": 120.00,
+              "availability": "In Stock",
+              "overview_desc": "Elegant raw silk ensemble for wedding festivities.",
+              "product_page": {
+                "images": [
+                  "ss_formal_silk.jpg"
+                ],
+                "description": "A luxurious raw silk shirt adorned with gold tilla work and hand-embellished crystals, paired with a heavy organza dupatta.",
+                "feature_resolution": "Raw Silk, Tilla Work, Embellished Finish.",
+                "tags": [
+                  "Formal",
+                  "Wedding",
+                  "Sana Safinaz",
+                  "Premium"
+                ],
+                "available_options": {
+                  "colors": [
+                    "Royal Red",
+                    "Gold"
+                  ],
+                  "sizes": [
+                    "S",
+                    "M",
+                    "L"
+                  ]
+                },
+                "wishlist": "Available",
+                "reviews": [],
+                "shipping_methods": [
+                  "Insured Express"
+                ]
+              }
+            },
+            {
+              "ecommerce_catalog": {
+                "category": "Women's Fashion",
+                "subcategory": "Accessories",
+                "products": [
+                  {
+                    "product_id": "WF-ACC-16",
+                    "name": "J. Elegant Saffiano Handbag",
+                    "type_filter": "Bags",
+                    "brand": "J.",
+                    "rating": 4.8,
+                    "price": 55.00,
+                    "availability": "In Stock",
+                    "overview_desc": "Structured tote bag with premium gold-tone hardware.",
+                    "product_page": {
+                      "images": [
+                        "j_handbag_tan.jpg",
+                        "j_handbag_inside.jpg"
+                      ],
+                      "description": "A sophisticated Saffiano leather-textured handbag designed for the modern woman. Features a spacious main compartment and a secure zip closure.",
+                      "feature_resolution": "Synthetic Leather, Dual Carry Handles, Interior Pockets.",
+                      "tags": [
+                        "Handbag",
+                        "Formal Accessory",
+                        "J. Accessories",
+                        "Tote"
+                      ],
+                      "available_options": {
+                        "colors": [
+                          "Tan",
+                          "Classic Black",
+                          "Nude"
+                        ]
+                      },
+                      "wishlist": "Available",
+                      "reviews": [
+                        {
+                          "user": "Amna L.",
+                          "rating": 5,
+                          "comment": "Very sturdy and looks professional."
+                        }
+                      ],
+                      "shipping_methods": [
+                        "Standard Delivery",
+                        "Express"
+                      ]
+                    }
+                  },
+                  {
+                    "product_id": "WF-ACC-17",
+                    "name": "Outfitters Urban Buckle Sling Bag",
+                    "type_filter": "Bags",
+                    "brand": "Outfitters",
+                    "rating": 4.6,
+                    "price": 22.50,
+                    "availability": "In Stock",
+                    "overview_desc": "Trendy cross-body bag for an effortless urban look.",
+                    "product_page": {
+                      "images": [
+                        "outfitters_sling_black.jpg"
+                      ],
+                      "description": "Compact and stylish, this sling bag features a matte finish and an adjustable strap. Perfect for keeping your essentials close during a day out.",
+                      "feature_resolution": "Adjustable Strap, Flap Closure, Compact Design.",
+                      "tags": [
+                        "Sling Bag",
+                        "Streetwear",
+                        "Outfitters",
+                        "Casual"
+                      ],
+                      "available_options": {
+                        "colors": [
+                          "Matte Black",
+                          "Olive",
+                          "Mustard"
+                        ]
+                      },
+                      "wishlist": "Available",
+                      "reviews": [],
+                      "shipping_methods": [
+                        "Standard Delivery"
+                      ]
+                    }
+                  },
+                  {
+                    "product_id": "WF-ACC-18",
+                    "name": "H&M Curved Shoulder Bag",
+                    "type_filter": "Bags",
+                    "brand": "H&M",
+                    "rating": 4.5,
+                    "price": 34.99,
+                    "availability": "In Stock",
+                    "overview_desc": "Minimalist 90s-inspired shoulder bag in a sleek silhouette.",
+                    "product_page": {
+                      "images": [
+                        "hm_shoulder_bag.jpg"
+                      ],
+                      "description": "Shoulder bag in faux leather with a zip at the top and a short handle. A timeless piece that fits under the arm comfortably.",
+                      "feature_resolution": "Faux Leather, Zip Fastening, Polyester Lining.",
+                      "tags": [
+                        "Shoulder Bag",
+                        "Minimalist",
+                        "H&M",
+                        "Baguette Bag"
+                      ],
+                      "available_options": {
+                        "colors": [
+                          "Cream",
+                          "Black",
+                          "Chocolate Brown"
+                        ]
+                      },
+                      "wishlist": "Available",
+                      "reviews": [],
+                      "shipping_methods": [
+                        "Standard Delivery"
+                      ]
+                    }
+                  },
+                  {
+                    "product_id": "WF-ACC-19",
+                    "name": "Limelight Crystal Embellished Jewelry Set",
+                    "type_filter": "Jewelry",
+                    "brand": "Limelight",
+                    "rating": 4.7,
+                    "price": 18.00,
+                    "availability": "In Stock",
+                    "overview_desc": "Elegant necklace and earring set for festive occasions.",
+                    "product_page": {
+                      "images": [
+                        "limelight_jewelry_set.jpg"
+                      ],
+                      "description": "A delicate gold-plated set featuring intricate floral motifs and sparkling faux crystals. Ideal for weddings and parties.",
+                      "feature_resolution": "Gold-Plated Alloy, Hypoallergenic Studs, Adjustable Chain.",
+                      "tags": [
+                        "Jewelry",
+                        "Festive",
+                        "Limelight",
+                        "Gold Plated"
+                      ],
+                      "available_options": {
+                        "plating": [
+                          "Gold",
+                          "Silver"
+                        ]
+                      },
+                      "wishlist": "Available",
+                      "reviews": [
+                        {
+                          "user": "Sana W.",
+                          "rating": 5,
+                          "comment": "Beautiful sparkle for the price!"
+                        }
+                      ],
+                      "shipping_methods": [
+                        "Standard Delivery"
+                      ]
+                    }
+                  },
+                  {
+                    "product_id": "WF-ACC-20",
+                    "name": "Khaadi Botanical Printed Silk Scarf",
+                    "type_filter": "Scarf",
+                    "brand": "Khaadi",
+                    "rating": 4.9,
+                    "price": 15.00,
+                    "availability": "In Stock",
+                    "overview_desc": "Luxurious lightweight scarf with vibrant nature-inspired prints.",
+                    "product_page": {
+                      "images": [
+                        "khaadi_scarf_floral.jpg"
+                      ],
+                      "description": "Add a pop of color to any outfit with this soft-touch scarf. Featuring hand-illustrated botanical patterns on a silk-blend fabric.",
+                      "feature_resolution": "Silk Blend, Digitally Printed, Fringed Edges.",
+                      "tags": [
+                        "Scarf",
+                        "Floral",
+                        "Khaadi",
+                        "Silk"
+                      ],
+                      "available_options": {
+                        "patterns": [
+                          "Bloom",
+                          "Autumn Leaf",
+                          "Azure Garden"
+                        ]
+                      },
+                      "wishlist": "Available",
+                      "reviews": [],
+                      "shipping_methods": [
+                        "Standard Delivery"
+                      ]
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "ecommerce_catalog": {
+                "category": "Kids' Fashion",
+                "subcategory": "Clothing",
+                "products": [
+                  {
+                    "product_id": "KF-CLO-01",
+                    "name": "Outfitters Junior Graphic T-Shirt",
+                    "type_filter": "T-Shirt",
+                    "brand": "Outfitters",
+                    "rating": 4.6,
+                    "price": 9.50,
+                    "availability": "In Stock",
+                    "overview_desc": "Fun and vibrant graphic tee for active kids.",
+                    "product_page": {
+                      "images": [
+                        "outfitters_kids_tee.jpg"
+                      ],
+                      "description": "Made from soft cotton jersey, this tee features a durable screen-printed design that stays bright wash after wash.",
+                      "feature_resolution": "100% Cotton, Crewneck, Fade-Resistant Print.",
+                      "tags": [
+                        "Casual",
+                        "Kids Wear",
+                        "Outfitters",
+                        "Cotton"
+                      ],
+                      "available_options": {
+                        "colors": [
+                          "Sky Blue",
+                          "Bright Yellow",
+                          "Grey"
+                        ],
+                        "sizes": [
+                          "2Y",
+                          "4Y",
+                          "6Y",
+                          "8Y",
+                          "10Y"
+                        ]
+                      },
+                      "wishlist": "Available",
+                      "reviews": [
+                        {
+                          "user": "Zainab B.",
+                          "rating": 5,
+                          "comment": "Very soft fabric, my son loves it."
+                        }
+                      ],
+                      "shipping_methods": [
+                        "Standard",
+                        "Express"
+                      ]
+                    }
+                  },
+                  {
+                    "product_id": "KF-CLO-02",
+                    "name": "Mothercare Pure Cotton Baby Romper",
+                    "type_filter": "Romper",
+                    "brand": "Mothercare",
+                    "rating": 4.9,
+                    "price": 15.00,
+                    "availability": "In Stock",
+                    "overview_desc": "Essential comfort for your little one with easy-change snaps.",
+                    "product_page": {
+                      "images": [
+                        "mothercare_romper_blue.jpg"
+                      ],
+                      "description": "Designed with nickel-free poppers to prevent irritation, this romper is made from breathable cotton to keep baby cool and cozy.",
+                      "feature_resolution": "Nickel-Free Snaps, Interlock Knit Cotton, Tagless Neck.",
+                      "tags": [
+                        "Baby Care",
+                        "Infant",
+                        "Mothercare",
+                        "Newborn"
+                      ],
+                      "available_options": {
+                        "sizes": [
+                          "0-3M",
+                          "3-6M",
+                          "6-9M",
+                          "12M"
+                        ]
+                      },
+                      "wishlist": "Available",
+                      "reviews": [],
+                      "shipping_methods": [
+                        "Standard Delivery"
+                      ]
+                    }
+                  },
+                  {
+                    "product_id": "KF-CLO-03",
+                    "name": "Hopscotch Floral Embroidery Frock",
+                    "type_filter": "Frock",
+                    "brand": "Hopscotch",
+                    "rating": 4.7,
+                    "price": 22.00,
+                    "availability": "In Stock",
+                    "overview_desc": "Delicate and airy summer frock for girls.",
+                    "product_page": {
+                      "images": [
+                        "hopscotch_frock_pink.jpg"
+                      ],
+                      "description": "A charming sleeveless dress featuring intricate floral embroidery on the bodice and a soft tulle overlay.",
+                      "feature_resolution": "Cotton Lining, Back Zip Closure, Embroidered Detail.",
+                      "tags": [
+                        "Summer Dress",
+                        "Girls Fashion",
+                        "Hopscotch",
+                        "Floral"
+                      ],
+                      "available_options": {
+                        "colors": [
+                          "Petal Pink",
+                          "Lavender"
+                        ],
+                        "sizes": [
+                          "3Y",
+                          "5Y",
+                          "7Y",
+                          "9Y"
+                        ]
+                      },
+                      "wishlist": "Available",
+                      "reviews": [],
+                      "shipping_methods": [
+                        "Standard Delivery"
+                      ]
+                    }
+                  },
+                  {
+                    "product_id": "KF-CLO-04",
+                    "name": "Outfitters Junior Hooded Sweatshirt",
+                    "type_filter": "Hoodie",
+                    "brand": "Outfitters",
+                    "rating": 4.5,
+                    "price": 18.50,
+                    "availability": "In Stock",
+                    "overview_desc": "Cozy fleece hoodie for chilly school mornings.",
+                    "product_page": {
+                      "images": [
+                        "outfitters_kids_hoodie.jpg"
+                      ],
+                      "description": "Features a warm kangaroo pocket and ribbed cuffs to keep the heat in. Perfect for layering during the winter months.",
+                      "feature_resolution": "Brushed Fleece, Drawstring-free Hood, Regular Fit.",
+                      "tags": [
+                        "Winter Wear",
+                        "Hoodie",
+                        "Outfitters",
+                        "Fleece"
+                      ],
+                      "available_options": {
+                        "colors": [
+                          "Navy",
+                          "Maroon",
+                          "Charcoal"
+                        ],
+                        "sizes": [
+                          "6Y",
+                          "8Y",
+                          "10Y",
+                          "12Y",
+                          "14Y"
+                        ]
+                      },
+                      "wishlist": "Available",
+                      "reviews": [],
+                      "shipping_methods": [
+                        "Standard Delivery"
+                      ]
+                    }
+                  },
+                  {
+                    "product_id": "KF-CLO-05",
+                    "name": "Hopscotch Cartoon Character Tee",
+                    "type_filter": "T-Shirt",
+                    "brand": "Hopscotch",
+                    "rating": 4.8,
+                    "price": 10.00,
+                    "availability": "In Stock",
+                    "overview_desc": "Playful t-shirt featuring popular animated favorites.",
+                    "product_page": {
+                      "images": [
+                        "hopscotch_cartoon_tee.jpg"
+                      ],
+                      "description": "Let their imagination run wild with these high-quality printed tees featuring iconic cartoon characters.",
+                      "feature_resolution": "Cotton-Rich Blend, Bright Pigment Print, Soft Seams.",
+                      "tags": [
+                        "Cartoon",
+                        "Casual",
+                        "Hopscotch",
+                        "Playwear"
+                      ],
+                      "available_options": {
+                        "characters": [
+                          "Superhero",
+                          "Dino-World",
+                          "Space Explorer"
+                        ],
+                        "sizes": [
+                          "2Y",
+                          "4Y",
+                          "6Y",
+                          "8Y"
+                        ]
+                      },
+                      "wishlist": "Available",
+                      "reviews": [],
+                      "shipping_methods": [
+                        "Standard Delivery"
+                      ]
+                    }
+                  },
+                  {
+                    "product_id": "KF-CLO-06",
+                    "name": "Outfitters Kids Rugged Denim Jeans",
+                    "type_filter": "Jeans",
+                    "brand": "Outfitters",
+                    "rating": 4.4,
+                    "price": 19.90,
+                    "availability": "In Stock",
+                    "overview_desc": "Durable denim designed for rough play and exploration.",
+                    "product_page": {
+                      "images": [
+                        "outfitters_kids_jeans.jpg"
+                      ],
+                      "description": "These jeans feature an adjustable waistband to ensure a perfect fit as they grow. Reinforced stitching for extra durability.",
+                      "feature_resolution": "Adjustable Waistband, Stretch Denim, 5-Pocket Style.",
+                      "tags": [
+                        "Denim",
+                        "Durable",
+                        "Outfitters",
+                        "Kids Jeans"
+                      ],
+                      "available_options": {
+                        "colors": [
+                          "Blue Wash",
+                          "Black Denim"
+                        ],
+                        "sizes": [
+                          "4Y",
+                          "6Y",
+                          "8Y",
+                          "10Y",
+                          "12Y"
+                        ]
+                      },
+                      "wishlist": "Available",
+                      "reviews": [],
+                      "shipping_methods": [
+                        "Standard Delivery"
+                      ]
+                    }
+                  },
+                  {
+                    "product_id": "KF-CLO-07",
+                    "name": "Mothercare Classic School Uniform Shirt",
+                    "type_filter": "Shirt",
+                    "brand": "Mothercare",
+                    "rating": 4.7,
+                    "price": 12.00,
+                    "availability": "In Stock",
+                    "overview_desc": "Crisp, easy-iron shirt for a smart school look.",
+                    "product_page": {
+                      "images": [
+                        "mothercare_school_shirt.jpg"
+                      ],
+                      "description": "Made with Easy-Iron technology to make busy school mornings easier for parents. Breathable fabric for all-day classroom comfort.",
+                      "feature_resolution": "Easy-Iron Fabric, Reinforced Collar, Chest Pocket.",
+                      "tags": [
+                        "School",
+                        "Uniform",
+                        "Formal",
+                        "Mothercare"
+                      ],
+                      "available_options": {
+                        "colors": [
+                          "White",
+                          "Light Blue"
+                        ],
+                        "sizes": [
+                          "5Y",
+                          "7Y",
+                          "9Y",
+                          "11Y",
+                          "13Y"
+                        ]
+                      },
+                      "wishlist": "Available",
+                      "reviews": [
+                        {
+                          "user": "Bilal H.",
+                          "rating": 5,
+                          "comment": "Stays white even after many washes."
+                        }
+                      ],
+                      "shipping_methods": [
+                        "Standard Delivery"
+                      ]
+                    }
+                  },
+                  {
+                    "product_id": "KF-CLO-08",
+                    "name": "Outfitters Kids Quilted Winter Jacket",
+                    "type_filter": "Outerwear",
+                    "brand": "Outfitters",
+                    "rating": 4.9,
+                    "price": 35.00,
+                    "availability": "Limited Stock",
+                    "overview_desc": "Padded insulation to keep them warm in extreme cold.",
+                    "product_page": {
+                      "images": [
+                        "outfitters_winter_jacket.jpg"
+                      ],
+                      "description": "Windproof and water-resistant, this quilted jacket features a fleece-lined hood and secure zip pockets.",
+                      "feature_resolution": "Water-Resistant Shell, Fleece Lining, Heavy Padding.",
+                      "tags": [
+                        "Winter",
+                        "Jacket",
+                        "Outerwear",
+                        "Outfitters"
+                      ],
+                      "available_options": {
+                        "colors": [
+                          "Olive Green",
+                          "Deep Blue",
+                          "Yellow"
+                        ],
+                        "sizes": [
+                          "6Y",
+                          "8Y",
+                          "10Y",
+                          "12Y"
+                        ]
+                      },
+                      "wishlist": "Available",
+                      "reviews": [],
+                      "shipping_methods": [
+                        "Standard",
+                        "Express"
+                      ]
+                    }
+                  },
+                  {
+                    "product_id": "KF-CLO-09",
+                    "name": "Hopscotch Sequined Party Dress",
+                    "type_filter": "Dress",
+                    "brand": "Hopscotch",
+                    "rating": 4.8,
+                    "price": 30.00,
+                    "availability": "In Stock",
+                    "overview_desc": "Elegant sparkling dress for birthdays and celebrations.",
+                    "product_page": {
+                      "images": [
+                        "hopscotch_party_dress.jpg"
+                      ],
+                      "description": "Featuring a glittery sequin bodice and a voluminous layered skirt, this dress ensures your little star shines at every party.",
+                      "feature_resolution": "Sequin Detail, Layered Tulle, Silk-Touch Lining.",
+                      "tags": [
+                        "Party Wear",
+                        "Girls Fashion",
+                        "Hopscotch",
+                        "Celebration"
+                      ],
+                      "available_options": {
+                        "colors": [
+                          "Rose Gold",
+                          "Silver",
+                          "Midnight Blue"
+                        ],
+                        "sizes": [
+                          "4Y",
+                          "6Y",
+                          "8Y",
+                          "10Y"
+                        ]
+                      },
+                      "wishlist": "Available",
+                      "reviews": [],
+                      "shipping_methods": [
+                        "Standard Delivery"
+                      ]
+                    }
+                  },
+                  {
+                    "product_id": "KF-CLO-10",
+                    "name": "Mothercare Soft Cotton Pajama Set",
+                    "type_filter": "Sleepwear",
+                    "brand": "Mothercare",
+                    "rating": 4.6,
+                    "price": 14.50,
+                    "availability": "In Stock",
+                    "overview_desc": "Matching top and bottom set for a peaceful night's sleep.",
+                    "product_page": {
+                      "images": [
+                        "mothercare_pajama_set.jpg"
+                      ],
+                      "description": "Snug-fitting pajamas with an elasticated waistband and ribbed cuffs to prevent riding up during the night.",
+                      "feature_resolution": "100% Organic Cotton, Non-Toxic Dyes, Elastic Waist.",
+                      "tags": [
+                        "Sleepwear",
+                        "Pajamas",
+                        "Mothercare",
+                        "Comfort"
+                      ],
+                      "available_options": {
+                        "patterns": [
+                          "Stars",
+                          "Animals",
+                          "Stripes"
+                        ],
+                        "sizes": [
+                          "2Y",
+                          "3Y",
+                          "4Y",
+                          "5Y",
+                          "6Y"
+                        ]
+                      },
+                      "wishlist": "Available",
+                      "reviews": [],
+                      "shipping_methods": [
+                        "Standard Delivery"
+                      ]
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "ecommerce_catalog": {
+                "category": "Kids' Fashion",
+                "subcategory": "Shoes & Accessories",
+                "products": [
+                  {
+                    "product_id": "KF-SH-11",
+                    "name": "Bata Kids Bubblegummers Sneakers",
+                    "type_filter": "Sneakers",
+                    "brand": "Bata",
+                    "rating": 4.8,
+                    "price": 25.00,
+                    "availability": "In Stock",
+                    "overview_desc": "Fun, scented sneakers designed for growing feet.",
+                    "product_page": {
+                      "images": [
+                        "bata_bubblegummers_blue.jpg"
+                      ],
+                      "description": "The classic Bubblegummers from Bata feature a unique bubblegum scent and a sturdy grip to ensure safety during active play.",
+                      "feature_resolution": "Scented Sole, Breathable Canvas, Non-slip Grip.",
+                      "tags": [
+                        "Kids Shoes",
+                        "Bata",
+                        "Sneakers",
+                        "Bubblegummers"
+                      ],
+                      "available_options": {
+                        "sizes": [
+                          "22",
+                          "24",
+                          "26",
+                          "28",
+                          "30"
+                        ]
+                      },
+                      "wishlist": "Available",
+                      "reviews": [
+                        {
+                          "user": "Mariam K.",
+                          "rating": 5,
+                          "comment": "My son loves the smell and the fit!"
+                        }
+                      ],
+                      "shipping_methods": [
+                        "Standard Delivery"
+                      ]
+                    }
+                  },
+                  {
+                    "product_id": "KF-SH-12",
+                    "name": "Nike Pico 5 Kids Sneakers",
+                    "type_filter": "Sneakers",
+                    "brand": "Nike Kids",
+                    "rating": 4.9,
+                    "price": 40.00,
+                    "availability": "In Stock",
+                    "overview_desc": "Durable sneakers with easy-entry straps.",
+                    "product_page": {
+                      "images": [
+                        "nike_pico_kids_white.jpg"
+                      ],
+                      "description": "The Nike Pico 5 has a secure fit and great traction. Made from durable material, it's easy for kids to put on and take off by themselves.",
+                      "feature_resolution": "Hook-and-loop Straps, Real/Synthetic Leather, Foam Cushioning.",
+                      "tags": [
+                        "Nike",
+                        "Kids Sneakers",
+                        "Easy Wear",
+                        "Athletic"
+                      ],
+                      "available_options": {
+                        "colors": [
+                          "White",
+                          "Black",
+                          "Pink"
+                        ],
+                        "sizes": [
+                          "4C",
+                          "6C",
+                          "8C",
+                          "10C"
+                        ]
+                      },
+                      "wishlist": "Available",
+                      "reviews": [],
+                      "shipping_methods": [
+                        "Standard",
+                        "Express"
+                      ]
+                    }
+                  },
+                  {
+                    "product_id": "KF-SH-13",
+                    "name": "Adidas Tensaur Running Shoes",
+                    "type_filter": "Running Shoes",
+                    "brand": "Adidas Kids",
+                    "rating": 4.7,
+                    "price": 38.00,
+                    "availability": "In Stock",
+                    "overview_desc": "Versatile shoes for sports and everyday adventures.",
+                    "product_page": {
+                      "images": [
+                        "adidas_tensaur_junior.jpg"
+                      ],
+                      "description": "These Adidas shoes feature a smooth leather-like upper and a non-marking rubber outsole for excellent grip on gym floors.",
+                      "feature_resolution": "Non-marking Rubber Sole, Reinforced Toe, Textile Lining.",
+                      "tags": [
+                        "Running Shoes",
+                        "Adidas",
+                        "Sportswear",
+                        "School Sports"
+                      ],
+                      "available_options": {
+                        "colors": [
+                          "Blue/White",
+                          "All Black"
+                        ],
+                        "sizes": [
+                          "1",
+                          "2",
+                          "3",
+                          "4",
+                          "5"
+                        ]
+                      },
+                      "wishlist": "Available",
+                      "reviews": [],
+                      "shipping_methods": [
+                        "Standard Delivery"
+                      ]
+                    }
+                  },
+                  {
+                    "product_id": "KF-SH-14",
+                    "name": "Bata School Smart Black Shoes",
+                    "type_filter": "School Shoes",
+                    "brand": "Bata",
+                    "rating": 4.6,
+                    "price": 20.00,
+                    "availability": "In Stock",
+                    "overview_desc": "Polished black formal shoes for school uniform requirements.",
+                    "product_page": {
+                      "images": [
+                        "bata_school_black.jpg"
+                      ],
+                      "description": "A durable lace-up school shoe with a reinforced heel and scuff-resistant leather to withstand the daily school grind.",
+                      "feature_resolution": "Scuff-Resistant, Padded Collar, Formal Finish.",
+                      "tags": [
+                        "School Shoes",
+                        "Uniform",
+                        "Bata",
+                        "Formal"
+                      ],
+                      "available_options": {
+                        "sizes": [
+                          "28",
+                          "30",
+                          "32",
+                          "34",
+                          "36"
+                        ]
+                      },
+                      "wishlist": "Available",
+                      "reviews": [],
+                      "shipping_methods": [
+                        "Standard Delivery"
+                      ]
+                    }
+                  },
+                  {
+                    "product_id": "KF-SH-15",
+                    "name": "Hopscotch Casual Summer Sandals",
+                    "type_filter": "Sandals",
+                    "brand": "Hopscotch",
+                    "rating": 4.5,
+                    "price": 12.00,
+                    "availability": "In Stock",
+                    "overview_desc": "Breathable and lightweight sandals for outdoor fun.",
+                    "product_page": {
+                      "images": [
+                        "hopscotch_sandals_tan.jpg"
+                      ],
+                      "description": "Soft-soled sandals with adjustable buckles, perfect for beach days or casual summer outings.",
+                      "feature_resolution": "Flexible Sole, Adjustable Straps, Lightweight Material.",
+                      "tags": [
+                        "Sandals",
+                        "Summer Wear",
+                        "Casual",
+                        "Kids Fashion"
+                      ],
+                      "available_options": {
+                        "colors": [
+                          "Tan",
+                          "Navy"
+                        ],
+                        "sizes": [
+                          "22",
+                          "24",
+                          "26"
+                        ]
+                      },
+                      "wishlist": "Available",
+                      "reviews": [],
+                      "shipping_methods": [
+                        "Standard Delivery"
+                      ]
+                    }
+                  },
+                  {
+                    "product_id": "KF-ACC-16",
+                    "name": "Disney Mickey Mouse School Backpack",
+                    "type_filter": "Bags",
+                    "brand": "Disney",
+                    "rating": 4.9,
+                    "price": 28.00,
+                    "availability": "In Stock",
+                    "overview_desc": "Spacious and colorful bag for little Disney fans.",
+                    "product_page": {
+                      "images": [
+                        "disney_mickey_bag.jpg"
+                      ],
+                      "description": "Featuring multiple compartments and padded shoulder straps, this Disney backpack is as functional as it is fun.",
+                      "feature_resolution": "Water-Resistant Fabric, Padded Straps, Side Bottle Pocket.",
+                      "tags": [
+                        "School Bag",
+                        "Disney",
+                        "Mickey Mouse",
+                        "Backpack"
+                      ],
+                      "available_options": {
+                        "characters": [
+                          "Mickey",
+                          "Frozen",
+                          "Spider-Man"
+                        ]
+                      },
+                      "wishlist": "Available",
+                      "reviews": [
+                        {
+                          "user": "Sara A.",
+                          "rating": 5,
+                          "comment": "Great quality and very roomy."
+                        }
+                      ],
+                      "shipping_methods": [
+                        "Standard Delivery"
+                      ]
+                    }
+                  },
+                  {
+                    "product_id": "KF-ACC-17",
+                    "name": "Cartoon Character 3-Compartment Lunch Box",
+                    "type_filter": "Lunch Box",
+                    "brand": "Local Brands",
+                    "rating": 4.4,
+                    "price": 8.00,
+                    "availability": "In Stock",
+                    "overview_desc": "BPA-free lunch container with leak-proof seal.",
+                    "product_page": {
+                      "images": [
+                        "cartoon_lunch_box.jpg"
+                      ],
+                      "description": "Keep school meals fresh with this partitioned lunch box featuring favorite cartoon prints and a secure locking system.",
+                      "feature_resolution": "BPA-Free, Microwave Safe, Airtight Seal.",
+                      "tags": [
+                        "Lunch Box",
+                        "School Gear",
+                        "BPA Free"
+                      ],
+                      "available_options": {
+                        "prints": [
+                          "Dino",
+                          "Princess",
+                          "Space"
+                        ]
+                      },
+                      "wishlist": "Available",
+                      "reviews": [],
+                      "shipping_methods": [
+                        "Standard Delivery"
+                      ]
+                    }
+                  },
+                  {
+                    "product_id": "KF-ACC-18",
+                    "name": "Insulated Stainless Steel Kids Water Bottle",
+                    "type_filter": "Accessories",
+                    "brand": "Local Brands",
+                    "rating": 4.7,
+                    "price": 15.00,
+                    "availability": "In Stock",
+                    "overview_desc": "Vacuum insulated bottle to keep drinks cold for 12 hours.",
+                    "product_page": {
+                      "images": [
+                        "kids_water_bottle.jpg"
+                      ],
+                      "description": "A durable, leak-proof bottle with a flip-up straw designed for small hands to operate easily.",
+                      "feature_resolution": "Stainless Steel, Cold/Hot Insulation, 500ml Capacity.",
+                      "tags": [
+                        "Water Bottle",
+                        "School Accessories",
+                        "Hydration"
+                      ],
+                      "available_options": {
+                        "colors": [
+                          "Blue",
+                          "Pink",
+                          "Green"
+                        ]
+                      },
+                      "wishlist": "Available",
+                      "reviews": [],
+                      "shipping_methods": [
+                        "Standard Delivery"
+                      ]
+                    }
+                  },
+                  {
+                    "product_id": "KF-ACC-19",
+                    "name": "Cartoon Print Snapback Cap",
+                    "type_filter": "Headwear",
+                    "brand": "Local Brands",
+                    "rating": 4.3,
+                    "price": 6.50,
+                    "availability": "In Stock",
+                    "overview_desc": "Sun protection with a cool animated style.",
+                    "product_page": {
+                      "images": [
+                        "kids_cartoon_cap.jpg"
+                      ],
+                      "description": "Adjustable snapback closure allows for a customized fit as your child grows. Features high-quality embroidery.",
+                      "feature_resolution": "Adjustable Snapback, 100% Cotton Front, Sun Protection.",
+                      "tags": [
+                        "Cap",
+                        "Summer Accessory",
+                        "Kids Fashion"
+                      ],
+                      "available_options": {
+                        "designs": [
+                          "Superhero",
+                          "Unicorn"
+                        ]
+                      },
+                      "wishlist": "Available",
+                      "reviews": [],
+                      "shipping_methods": [
+                        "Standard Delivery"
+                      ]
+                    }
+                  },
+                  {
+                    "product_id": "KF-ACC-20",
+                    "name": "Kids Digital Colorful LED Watch",
+                    "type_filter": "Watch",
+                    "brand": "Local Brands",
+                    "rating": 4.5,
+                    "price": 10.00,
+                    "availability": "In Stock",
+                    "overview_desc": "Waterproof digital watch with fun LED backlight.",
+                    "product_page": {
+                      "images": [
+                        "kids_digital_watch.jpg"
+                      ],
+                      "description": "A great first watch for kids. Features time, date, alarm, and a multi-color light-up display.",
+                      "feature_resolution": "Waterproof (30m), Alarm/Stopwatch, Silicon Strap.",
+                      "tags": [
+                        "Watch",
+                        "Digital",
+                        "Kids Gear",
+                        "Accessories"
+                      ],
+                      "available_options": {
+                        "colors": [
+                          "Red",
+                          "Black",
+                          "Pink",
+                          "Blue"
+                        ]
+                      },
+                      "wishlist": "Available",
+                      "reviews": [],
+                      "shipping_methods": [
+                        "Standard Delivery"
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
+]
