@@ -1,0 +1,403 @@
+[
+  {
+    "product_id": 1,
+    "name": "Pantene Pro-V Daily Moisture Renewal Shampoo",
+    "type_filter": "Shampoo",
+    "brand": "Pantene",
+    "rating": 4.6,
+    "price": 8.50,
+    "availability": "In Stock",
+    "overview_desc": "Cleanses and hydrates hair for a healthy, vibrant glow.",
+    "product_page": {
+      "images": ["pantene_moisture_shampoo.jpg"],
+      "description": "Features a potent blend of Pro-V nutrients and antioxidants so hair is strong against damage. Deeply hydrates and nourishes every strand.",
+      "feature_resolution": "Pro-V Formula, Antioxidants, 0% Silicones.",
+      "tags": ["Shampoo", "Hydration", "Pantene"],
+      "available_options": { "sizes": ["200ml", "400ml", "600ml"] },
+      "wishlist": "Available",
+      "reviews": [{"user": "Sara L.", "rating": 5, "comment": "Makes my hair feel so soft!"}],
+      "shipping_methods": ["Standard", "Express"]
+    }
+  },
+  {
+    "product_id": 2,
+    "name": "Pantene Pro-V Repair & Protect Conditioner",
+    "type_filter": "Conditioner",
+    "brand": "Pantene",
+    "rating": 4.7,
+    "price": 8.50,
+    "availability": "In Stock",
+    "overview_desc": "Visibly repairs signs of damage in every use.",
+    "product_page": {
+      "images": ["pantene_repair_conditioner.jpg"],
+      "description": "Helps lock in moisture and deeply penetrates the hair core to repair damage from styling and environmental stress.",
+      "feature_resolution": "Deep Repair, Pro-V Nutrients, Moisture Lock.",
+      "tags": ["Conditioner", "Repair", "Pantene"],
+      "available_options": { "sizes": ["200ml", "400ml"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 3,
+    "name": "Dove Hair Fall Rescue Shampoo",
+    "type_filter": "Shampoo",
+    "brand": "Dove",
+    "rating": 4.8,
+    "price": 9.00,
+    "availability": "In Stock",
+    "overview_desc": "Fortifies hair from root to tip and reduces hair fall by up to 98%.",
+    "product_page": {
+      "images": ["dove_hair_fall_shampoo.jpg"],
+      "description": "Formulated with Nutrilock Actives, this shampoo nourishes hair deeply and helps prevent breakage for fuller-looking hair.",
+      "feature_resolution": "Nutrilock Actives, Strength-Building, Daily Care.",
+      "tags": ["Shampoo", "Hair Fall", "Dove", "Strengthening"],
+      "available_options": { "sizes": ["175ml", "340ml", "650ml"] },
+      "wishlist": "Available",
+      "reviews": [{"user": "Amna V.", "rating": 5, "comment": "Noticeable difference in hair fall after 2 weeks."}],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 4,
+    "name": "Dove Intense Repair Conditioner",
+    "type_filter": "Conditioner",
+    "brand": "Dove",
+    "rating": 4.6,
+    "price": 9.00,
+    "availability": "In Stock",
+    "overview_desc": "Smooths, strengthens, and helps prevent split ends.",
+    "product_page": {
+      "images": ["dove_intense_repair.jpg"],
+      "description": "Enriched with Keratin Repair Actives, it works immediately to repair the hair surface while deeply nourishing the core.",
+      "feature_resolution": "Keratin Repair Actives, Split End Prevention, Smooth Finish.",
+      "tags": ["Conditioner", "Repair", "Dove"],
+      "available_options": { "sizes": ["180ml", "350ml"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 5,
+    "name": "Head & Shoulders Classic Clean Anti-Dandruff Shampoo",
+    "type_filter": "Shampoo",
+    "brand": "Head & Shoulders",
+    "rating": 4.9,
+    "price": 10.00,
+    "availability": "In Stock",
+    "overview_desc": "The gold standard for up to 100% flake-free hair.",
+    "product_page": {
+      "images": ["hs_classic_clean.jpg"],
+      "description": "Clinically proven to protect against flakes, itch, and oil. Provides a deep clean and leaves hair smelling fresh.",
+      "feature_resolution": "Zinc Pyrithione, Ph-Balanced, Flake-Free Technology.",
+      "tags": ["Shampoo", "Anti-Dandruff", "Head & Shoulders"],
+      "available_options": { "sizes": ["200ml", "400ml", "700ml"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 6,
+    "name": "Head & Shoulders Smooth & Silky Conditioner",
+    "type_filter": "Conditioner",
+    "brand": "Head & Shoulders",
+    "rating": 4.5,
+    "price": 10.00,
+    "availability": "In Stock",
+    "overview_desc": "Frizz-control and anti-dandruff protection in one step.",
+    "product_page": {
+      "images": ["hs_silky_conditioner.jpg"],
+      "description": "Formulated to help repair hair while maintaining your scalp's natural protection against dandruff. Leaves hair silky and manageable.",
+      "feature_resolution": "Scalp Protection, 24H Frizz Control, Color-Safe.",
+      "tags": ["Conditioner", "Frizz Control", "Head & Shoulders"],
+      "available_options": { "sizes": ["200ml", "400ml"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 7,
+    "name": "L’Oréal Elvive Extraordinary Oil Hair Serum",
+    "type_filter": "Serum",
+    "brand": "L’Oréal",
+    "rating": 4.8,
+    "price": 14.50,
+    "availability": "In Stock",
+    "overview_desc": "Transform dull, lifeless hair into silky, lustrous locks.",
+    "product_page": {
+      "images": ["loreal_hair_serum.jpg"],
+      "description": "A versatile oil enriched with 6 rare flower oils. It provides weightless shine and deep nourishment without any greasiness.",
+      "feature_resolution": "Non-Greasy, Flower Oil Blend, Heat Protection.",
+      "tags": ["Serum", "Shine", "Loreal"],
+      "available_options": { "sizes": ["100ml"] },
+      "wishlist": "Available",
+      "reviews": [{"user": "Zoya R.", "rating": 5, "comment": "A tiny bit goes a long way!"}],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 8,
+    "name": "L’Oréal Paris Total Repair 5 Hair Mask",
+    "type_filter": "Hair Mask",
+    "brand": "L’Oréal",
+    "rating": 4.7,
+    "price": 12.00,
+    "availability": "In Stock",
+    "overview_desc": "Intensive deep conditioning for the 5 signs of damaged hair.",
+    "product_page": {
+      "images": ["loreal_repair_mask.jpg"],
+      "description": "Targets hair fall, dryness, roughness, dullness, and split ends. Rebuilds the hair structure for a smoother feel.",
+      "feature_resolution": "Ceramide-Protein, 5-in-1 Action, Deep Conditioning.",
+      "tags": ["Mask", "Intensive Care", "Loreal"],
+      "available_options": { "sizes": ["200ml", "300ml"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 9,
+    "name": "Tresemmé Keratin Smooth Shampoo",
+    "type_filter": "Shampoo",
+    "brand": "Tresemme",
+    "rating": 4.7,
+    "price": 11.00,
+    "availability": "In Stock",
+    "overview_desc": "Salon-quality formula for up to 72 hours of frizz control.",
+    "product_page": {
+      "images": ["tresemme_keratin_shampoo.jpg"],
+      "description": "Enriched with Keratin and Marula Oil. Specially formulated to leave your hair gorgeously sleek and manageable.",
+      "feature_resolution": "Keratin-Infused, Marula Oil, Low Sulfate.",
+      "tags": ["Shampoo", "Frizz Control", "Tresemme", "Salon Quality"],
+      "available_options": { "sizes": ["400ml", "580ml"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 10,
+    "name": "Tresemmé Keratin Smooth Conditioner",
+    "type_filter": "Conditioner",
+    "brand": "Tresemme",
+    "rating": 4.8,
+    "price": 11.00,
+    "availability": "In Stock",
+    "overview_desc": "Deeply detangles and smooths hair for a professional finish.",
+    "product_page": {
+      "images": ["tresemme_keratin_conditioner.jpg"],
+      "description": "The perfect partner to the Keratin Smooth Shampoo. It helps shield hair from the damaging effects of humidity and frizz.",
+      "feature_resolution": "Detangling, Silk Protein, Humidity Resistance.",
+      "tags": ["Conditioner", "Smoothing", "Tresemme"],
+      "available_options": { "sizes": ["400ml"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 11,
+    "name": "Pantene Pro-V Nourishing Hair Oil",
+    "type_filter": "Hair Oil",
+    "brand": "Pantene",
+    "rating": 4.5,
+    "price": 12.00,
+    "availability": "In Stock",
+    "overview_desc": "Infused with Vitamin E to nourish hair without the heavy feel.",
+    "product_page": {
+      "images": ["pantene_hair_oil.jpg"],
+      "description": "A lightweight oil that penetrates the hair strands to provide deep nourishment and a healthy-looking shine. Perfect for daily use on dry tips.",
+      "feature_resolution": "Vitamin E, Non-Sticky, Instant Shine.",
+      "tags": ["Hair Oil", "Nourishing", "Pantene"],
+      "available_options": { "sizes": ["100ml"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 12,
+    "name": "Dove 1-Minute Super Conditioner Mask",
+    "type_filter": "Hair Mask",
+    "brand": "Dove",
+    "rating": 4.8,
+    "price": 10.50,
+    "availability": "In Stock",
+    "overview_desc": "An intensive treatment that repairs hair in just 60 seconds.",
+    "product_page": {
+      "images": ["dove_hair_mask.jpg"],
+      "description": "Formulated with Serum Capsules, this mask helps reconstruct internal hair structure with every use. Ideal for very dry or damaged hair.",
+      "feature_resolution": "Serum Capsules, Fast Acting, Deep Hydration.",
+      "tags": ["Hair Mask", "Repair", "Dove"],
+      "available_options": { "sizes": ["180ml"] },
+      "wishlist": "Available",
+      "reviews": [{"user": "Kiran S.", "rating": 5, "comment": "Best mask for busy mornings!"}],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 13,
+    "name": "L’Oréal Elnett Satin Extra Strong Hold Hairspray",
+    "type_filter": "Hair Spray",
+    "brand": "L’Oréal",
+    "rating": 4.9,
+    "price": 15.00,
+    "availability": "In Stock",
+    "overview_desc": "The legendary hairspray used by stylists worldwide.",
+    "product_page": {
+      "images": ["loreal_hairspray.jpg"],
+      "description": "Provides a long-lasting hold with a brilliant shine and a satin touch. It disappears at the stroke of a brush, leaving hair clean and soft.",
+      "feature_resolution": "Micro-Diffuser, No Stiffness, Brush-Out Formula.",
+      "tags": ["Styling", "Hair Spray", "Loreal", "Professional"],
+      "available_options": { "sizes": ["200ml", "400ml"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 14,
+    "name": "Tresemmé Care & Protect Heat Defence Spray",
+    "type_filter": "Heat Protection",
+    "brand": "Tresemme",
+    "rating": 4.7,
+    "price": 13.00,
+    "availability": "In Stock",
+    "overview_desc": "Protects hair from heat damage up to 230°C.",
+    "product_page": {
+      "images": ["tresemme_heat_spray.jpg"],
+      "description": "A must-have before blow-drying or flat-ironing. This salon-quality spray helps prevent hair from becoming brittle and dull.",
+      "feature_resolution": "Heat Activated, UV Filter, Anti-Frizz.",
+      "tags": ["Heat Protection", "Styling", "Tresemme"],
+      "available_options": { "sizes": ["300ml"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 15,
+    "name": "Pantene Pro-V Night Miracle Repair Cream",
+    "type_filter": "Hair Cream",
+    "brand": "Pantene",
+    "rating": 4.4,
+    "price": 11.00,
+    "availability": "In Stock",
+    "overview_desc": "Overnight leave-in treatment for 8 hours of continuous repair.",
+    "product_page": {
+      "images": ["pantene_repair_cream.jpg"],
+      "description": "A non-greasy cream that works while you sleep. It helps restore hair's natural beauty and strength by morning.",
+      "feature_resolution": "Overnight Formula, Leave-In, Pro-V Nutrients.",
+      "tags": ["Hair Cream", "Repair", "Pantene"],
+      "available_options": { "sizes": ["150ml"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 16,
+    "name": "Head & Shoulders Scalp Care Hair Oil",
+    "type_filter": "Hair Oil",
+    "brand": "Head & Shoulders",
+    "rating": 4.6,
+    "price": 9.00,
+    "availability": "In Stock",
+    "overview_desc": "Soothes itchy scalp while providing moisture to hair.",
+    "product_page": {
+      "images": ["hs_hair_oil.jpg"],
+      "description": "Formulated to work in harmony with the anti-dandruff shampoo to ensure a hydrated scalp and flake-free hair.",
+      "feature_resolution": "Scalp Soothing, Anti-Itch, Hydrating.",
+      "tags": ["Hair Oil", "Scalp Care", "Head & Shoulders"],
+      "available_options": { "sizes": ["150ml"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 17,
+    "name": "Dove Nutritive Solutions Leave-in Cream",
+    "type_filter": "Leave-in Cream",
+    "brand": "Dove",
+    "rating": 4.7,
+    "price": 8.00,
+    "availability": "In Stock",
+    "overview_desc": "Instantly smooths and helps control frizz throughout the day.",
+    "product_page": {
+      "images": ["dove_leave_in.jpg"],
+      "description": "A lightweight cream that provides daily nourishment. Just apply to damp hair and style as usual for a soft, manageable finish.",
+      "feature_resolution": "Weightless Finish, Frizz Control, Daily Use.",
+      "tags": ["Leave-in", "Cream", "Dove", "Styling"],
+      "available_options": { "sizes": ["120ml"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 18,
+    "name": "L’Oréal Excellence Crème Permanent Hair Color",
+    "type_filter": "Hair Color",
+    "brand": "L’Oréal",
+    "rating": 4.8,
+    "price": 18.00,
+    "availability": "In Stock",
+    "overview_desc": "Triple care color with 100% grey coverage.",
+    "product_page": {
+      "images": ["loreal_hair_color.jpg"],
+      "description": "Protects as it colors with Pro-Keratin, Ceramide, and Collagen. Rich, long-lasting color with a silky touch.",
+      "feature_resolution": "100% Grey Coverage, Triple Protection, Ammonia-Free options.",
+      "tags": ["Hair Color", "Loreal", "Permanent"],
+      "available_options": { "shades": ["1.0 Black", "3.0 Dark Brown", "5.0 Light Brown"] },
+      "wishlist": "Available",
+      "reviews": [{"user": "Mona B.", "rating": 5, "comment": "Beautiful color and great coverage."}],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 19,
+    "name": "Tresemmé Keratin Smooth Shine Serum",
+    "type_filter": "Serum",
+    "brand": "Tresemme",
+    "rating": 4.7,
+    "price": 14.00,
+    "availability": "In Stock",
+    "overview_desc": "Professional serum for a high-gloss, frizz-free finish.",
+    "product_page": {
+      "images": ["tresemme_serum.jpg"],
+      "description": "The final step to the Keratin Smooth system. This serum polishes the hair surface and controls flyaways for a salon-perfect look.",
+      "feature_resolution": "Marula Oil, Silk Protein, Flyaway Control.",
+      "tags": ["Serum", "Shine", "Tresemme"],
+      "available_options": { "sizes": ["50ml"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 20,
+    "name": "Pantene Pro-V Airy Fluffy Hair Mist",
+    "type_filter": "Hair Mist",
+    "brand": "Pantene",
+    "rating": 4.5,
+    "price": 10.00,
+    "availability": "In Stock",
+    "overview_desc": "A refreshing mist to revive flat or tired hair.",
+    "product_page": {
+      "images": ["pantene_hair_mist.jpg"],
+      "description": "Provides an instant boost of freshness and volume. Lightweight formula that leaves hair smelling great without weighing it down.",
+      "feature_resolution": "Volume Boost, Refreshing Scent, Fine Mist.",
+      "tags": ["Hair Mist", "Refresh", "Pantene"],
+      "available_options": { "sizes": ["150ml"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  }
+
+]

@@ -1,0 +1,404 @@
+[
+  {
+    "product_id": 1,
+    "name": "Bath & Body Works Gingham Fine Fragrance Mist",
+    "type_filter": "Body Mist",
+    "brand": "Bath & Body Works",
+    "rating": 4.9,
+    "price": 18.50,
+    "availability": "In Stock",
+    "overview_desc": "A fresh blend of blue freesia, white peach, and fresh clementine.",
+    "product_page": {
+      "images": ["bbw_gingham_mist.jpg"],
+      "description": "Our sophisticated Fine Fragrance Mist features a refreshing scent that leaves skin feeling great and smelling amazing. Infused with conditioning aloe.",
+      "feature_resolution": "Conditioning Aloe, Fine Mist Applicator, Long-Lasting Scent.",
+      "tags": ["Body Mist", "BBW", "Fresh", "Gingham"],
+      "available_options": { "sizes": ["236ml"] },
+      "wishlist": "Available",
+      "reviews": [{"user": "Sophia L.", "rating": 5, "comment": "The perfect everyday fresh scent!"}],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 2,
+    "name": "Bath & Body Works Japanese Cherry Blossom Shower Gel",
+    "type_filter": "Shower Gel",
+    "brand": "Bath & Body Works",
+    "rating": 4.8,
+    "price": 15.50,
+    "availability": "In Stock",
+    "overview_desc": "Nourishing vitamin E and shea butter combine for a rich, bubbly lather.",
+    "product_page": {
+      "images": ["bbw_jcb_showergel.jpg"],
+      "description": "Wash your way to softer, cleaner skin with a rich, bubbly lather bursting with fragrance. Moisturizing Aloe and Vitamin E combine with skin-loving Shea Butter.",
+      "feature_resolution": "Shea Butter, Vitamin E, Moisturizing.",
+      "tags": ["Shower Gel", "Bath", "BBW", "Floral"],
+      "available_options": { "sizes": ["295ml"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 3,
+    "name": "Bath & Body Works Warm Vanilla Sugar Body Lotion",
+    "type_filter": "Body Lotion",
+    "brand": "Bath & Body Works",
+    "rating": 4.7,
+    "price": 16.50,
+    "availability": "In Stock",
+    "overview_desc": "24-hour moisture in a cozy, enveloping vanilla scent.",
+    "product_page": {
+      "images": ["bbw_vanilla_lotion.jpg"],
+      "description": "Infused with Shea Butter and our exclusive Daily Moisture Complex, our enhanced lotion contains more of what skin loves, leaving it feeling incredibly soft.",
+      "feature_resolution": "Coconut Oil, Vitamin E, 24-Hour Hydration.",
+      "tags": ["Body Lotion", "Moisturizer", "BBW", "Vanilla"],
+      "available_options": { "sizes": ["236ml"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 4,
+    "name": "Bath & Body Works Eucalyptus Spearmint Hand Cream",
+    "type_filter": "Hand Cream",
+    "brand": "Bath & Body Works",
+    "rating": 4.9,
+    "price": 8.50,
+    "availability": "In Stock",
+    "overview_desc": "Stress-relief aromatherapy for your hands with essential oils.",
+    "product_page": {
+      "images": ["bbw_stress_relief_hand.jpg"],
+      "description": "With moisturizing shea butter and vitamin E, this luxurious hand cream absorbs quickly to leave hands feeling soft, smooth, and nourished.",
+      "feature_resolution": "Essential Oils, Fast Absorbing, Aromatherapy.",
+      "tags": ["Hand Care", "Aromatherapy", "BBW", "Shea Butter"],
+      "available_options": { "sizes": ["29ml"] },
+      "wishlist": "Available",
+      "reviews": [{"user": "Daniel K.", "rating": 5, "comment": "Great for dry hands and smells calming."}],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 5,
+    "name": "Bath & Body Works Champagne Toast Fragrance Mist",
+    "type_filter": "Fragrance Mist",
+    "brand": "Bath & Body Works",
+    "rating": 4.8,
+    "price": 18.50,
+    "availability": "In Stock",
+    "overview_desc": "A cheers-worthy spritz of pink champagne and sparkling berries.",
+    "product_page": {
+      "images": ["bbw_champagne_mist.jpg"],
+      "description": "Whether you lavishly splash or lightly spritz, you'll fall in love at first mist. Our carefully crafted bottle and sophisticated pump delivers great coverage.",
+      "feature_resolution": "Aloe-Conditioning, Fruity Scent, Travel-Safe Bottle.",
+      "tags": ["Fragrance Mist", "BBW", "Fruity", "Bestseller"],
+      "available_options": { "sizes": ["236ml"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 6,
+    "name": "Dettol Original Germ Protection Soap",
+    "type_filter": "Soap Bar",
+    "brand": "Dettol",
+    "rating": 4.6,
+    "price": 1.50,
+    "availability": "In Stock",
+    "overview_desc": "Classic protection against a wide range of unseen germs.",
+    "product_page": {
+      "images": ["dettol_original_soap.jpg"],
+      "description": "Trusted Dettol protection with a classic pine fragrance. Cleanses and protects your skin for a hygienic clean and a refreshing feeling every day.",
+      "feature_resolution": "99.9% Germ Protection, Antibacterial, Pine Fragrance.",
+      "tags": ["Soap", "Hygiene", "Dettol", "Family Care"],
+      "available_options": { "packs": ["Single Bar", "Value Pack of 3"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 7,
+    "name": "Dettol Skincare Antibacterial Hand Wash",
+    "type_filter": "Hand Wash",
+    "brand": "Dettol",
+    "rating": 4.7,
+    "price": 4.00,
+    "availability": "In Stock",
+    "overview_desc": "Germ protection with added moisturizers to keep hands soft.",
+    "product_page": {
+      "images": ["dettol_skincare_handwash.jpg"],
+      "description": "Dettol Skincare hand wash combines Dettol’s trusted germ protection with rose and sakura blossom fragrance and added moisturizers.",
+      "feature_resolution": "pH Balanced, Moisturizing, Germ Protection.",
+      "tags": ["Hand Wash", "Skincare", "Dettol"],
+      "available_options": { "sizes": ["250ml Pump", "500ml Refill"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 8,
+    "name": "Dove White Beauty Bar",
+    "type_filter": "Beauty Bar",
+    "brand": "Dove",
+    "rating": 4.9,
+    "price": 2.50,
+    "availability": "In Stock",
+    "overview_desc": "Contains 1/4 moisturizing cream for soft, smooth skin.",
+    "product_page": {
+      "images": ["dove_beauty_bar.jpg"],
+      "description": "Dove is not a soap. It’s a beauty bar. With 1/4 moisturizing cream, it goes beyond cleansing, nourishing as it washes away the day.",
+      "feature_resolution": "1/4 Moisturizing Cream, Dermatologist Recommended, Mild Cleansers.",
+      "tags": ["Soap", "Moisturizing", "Dove", "Sensitive Skin"],
+      "available_options": { "packs": ["135g Bar"] },
+      "wishlist": "Available",
+      "reviews": [{"user": "Sarah J.", "rating": 5, "comment": "The only thing I use on my face and body."}],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 9,
+    "name": "Dove Deep Moisture Body Wash",
+    "type_filter": "Body Wash",
+    "brand": "Dove",
+    "rating": 4.8,
+    "price": 10.00,
+    "availability": "In Stock",
+    "overview_desc": "Instantly soft skin and lasting nourishment after one shower.",
+    "product_page": {
+      "images": ["dove_body_wash.jpg"],
+      "description": "Formulated with Moisture Renew Blend, this sulfate-free body wash is gentle to the skin microbiome and provides intense hydration.",
+      "feature_resolution": "Sulfate-Free, Microbiome Gentle, Intense Hydration.",
+      "tags": ["Body Wash", "Dove", "Hydration"],
+      "available_options": { "sizes": ["500ml", "800ml"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 10,
+    "name": "Lifebuoy Total 10 Germ Protection Soap",
+    "type_filter": "Soap Bar",
+    "brand": "Lifebuoy",
+    "rating": 4.5,
+    "price": 1.20,
+    "availability": "In Stock",
+    "overview_desc": "Advanced formula for 100% stronger germ protection.",
+    "product_page": {
+      "images": ["lifebuoy_total10.jpg"],
+      "description": "Lifebuoy Total 10 soap contains Activ Silver Formula to fight against infection-causing germs and keep your family protected.",
+      "feature_resolution": "Activ Silver Formula, Fast Lather, Antibacterial.",
+      "tags": ["Soap", "Lifebuoy", "Protection", "Health"],
+      "available_options": { "packs": ["Single", "Multipack"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  
+  {
+    "product_id": 11,
+    "name": "Lux Magical Orchid Body Wash",
+    "type_filter": "Body Wash",
+    "brand": "Lux",
+    "rating": 4.7,
+    "price": 8.50,
+    "availability": "In Stock",
+    "overview_desc": "Indulge in a long-lasting fragrance of black orchids and juniper oil.",
+    "product_page": {
+      "images": ["lux_orchid_bodywash.jpg"],
+      "description": "Crafted by world-class perfumers, this body wash leaves your skin perfumed for up to 24 hours while providing a deep, luxurious cleanse.",
+      "feature_resolution": "24H Fragrance, Essential Oils, Rich Lather.",
+      "tags": ["Body Wash", "Lux", "Perfumed", "Floral"],
+      "available_options": { "sizes": ["250ml", "500ml"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 12,
+    "name": "Lux Soft Touch Soap Bar",
+    "type_filter": "Soap Bar",
+    "brand": "Lux",
+    "rating": 4.5,
+    "price": 1.80,
+    "availability": "In Stock",
+    "overview_desc": "Infused with Floral Fusion Oil for noticeably soft skin.",
+    "product_page": {
+      "images": ["lux_soft_touch.jpg"],
+      "description": "Indulge in the delicate fragrance of French Roses. This beauty bar gently cleanses while leaving your skin moisturized and fragrant.",
+      "feature_resolution": "French Rose Essence, Silk Essence, Moisturizing.",
+      "tags": ["Soap", "Beauty Bar", "Lux", "Rose"],
+      "available_options": { "packs": ["Single", "Pack of 3"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 13,
+    "name": "Bath & Body Works Mahogany Teakwood 3-Wick Candle",
+    "type_filter": "Candle",
+    "brand": "Bath & Body Works",
+    "rating": 4.9,
+    "price": 26.50,
+    "availability": "In Stock",
+    "overview_desc": "The scent of a library: rich mahogany, black teakwood, and dark oak.",
+    "product_page": {
+      "images": ["bbw_mahogany_candle.jpg"],
+      "description": "Made with an exclusive blend of soy-based wax and the highest concentration of essential oils for a room-filling fragrance.",
+      "feature_resolution": "3-Wick Design, Soy Wax Blend, 45 Hour Burn Time.",
+      "tags": ["Candle", "Home Fragrance", "BBW", "Luxury"],
+      "available_options": { "sizes": ["14.5 oz"] },
+      "wishlist": "Available",
+      "reviews": [{"user": "Marcus T.", "rating": 5, "comment": "Best smelling candle ever made."}],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 14,
+    "name": "Bath & Body Works A Thousand Wishes Gift Set",
+    "type_filter": "Gift Set",
+    "brand": "Bath & Body Works",
+    "rating": 4.8,
+    "price": 35.00,
+    "availability": "In Stock",
+    "overview_desc": "A sparkling celebration set including mist, lotion, and shower gel.",
+    "product_page": {
+      "images": ["bbw_wishes_giftset.jpg"],
+      "description": "Warm your heart a thousand times over with a festive blend of pink prosecco, crystal peonies, and gilded amber. Comes in a decorative gift box.",
+      "feature_resolution": "3-Piece Set, Gift Box Included, Full Sizes.",
+      "tags": ["Gift Set", "BBW", "Celebration", "Fragrance"],
+      "available_options": { "scents": ["A Thousand Wishes", "Into the Night"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 15,
+    "name": "Dettol All-In-One Disinfectant Spray",
+    "type_filter": "Antibacterial Spray",
+    "brand": "Dettol",
+    "rating": 4.7,
+    "price": 9.00,
+    "availability": "In Stock",
+    "overview_desc": "Kills 99.9% of bacteria and viruses on hard and soft surfaces.",
+    "product_page": {
+      "images": ["dettol_spray.jpg"],
+      "description": "An easy-to-use spray for surfaces like door handles, bins, sofas, and mattresses. Leaves a fresh morning dew scent.",
+      "feature_resolution": "Multipurpose, Morning Dew Scent, Virus Protection.",
+      "tags": ["Disinfectant", "Dettol", "Home Hygiene"],
+      "available_options": { "sizes": ["450ml"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 16,
+    "name": "Dove Cream Beauty Bathing Soap",
+    "type_filter": "Cream Soap",
+    "brand": "Dove",
+    "rating": 4.8,
+    "price": 2.20,
+    "availability": "In Stock",
+    "overview_desc": "A classic cleansing formula with a richer, creamier lather.",
+    "product_page": {
+      "images": ["dove_cream_soap.jpg"],
+      "description": "Formulated specifically for dry skin, this bar helps your skin retain its natural moisture rather than stripping it away like ordinary soap.",
+      "feature_resolution": "pH Neutral, 1/4 Cream, Non-Drying.",
+      "tags": ["Soap", "Dry Skin", "Dove"],
+      "available_options": { "packs": ["Single", "Pack of 4"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 17,
+    "name": "Lifebuoy Mild Care Hand Wash",
+    "type_filter": "Hand Wash",
+    "brand": "Lifebuoy",
+    "rating": 4.6,
+    "price": 3.50,
+    "availability": "In Stock",
+    "overview_desc": "Gentle protection for sensitive skin with cream notes.",
+    "product_page": {
+      "images": ["lifebuoy_mild_care.jpg"],
+      "description": "Sensitive skin needs a balance between protection and care. Lifebuoy Mild Care contains the goodness of milk cream and oats.",
+      "feature_resolution": "Activ Silver Formula, Milk Cream, 99.9% Germ Protection.",
+      "tags": ["Hand Wash", "Lifebuoy", "Sensitive Skin"],
+      "available_options": { "sizes": ["200ml", "500ml Refill"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 18,
+    "name": "Lux Velvet Touch Perfumed Soap",
+    "type_filter": "Perfumed Soap",
+    "brand": "Lux",
+    "rating": 4.5,
+    "price": 1.90,
+    "availability": "In Stock",
+    "overview_desc": "Enriched with almond oil and jasmine for velvety skin.",
+    "product_page": {
+      "images": ["lux_velvet_touch.jpg"],
+      "description": "Indulge in a sensory experience with SilkEssence and the fragrance of Jasmine. Leaves skin noticeably smooth and glowing.",
+      "feature_resolution": "Silk Essence, Almond Oil, Jasmine Scent.",
+      "tags": ["Soap", "Lux", "Smooth Skin"],
+      "available_options": { "packs": ["100g", "150g"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 19,
+    "name": "Bath & Body Works Sunshine Mimosa Travel Set",
+    "type_filter": "Travel Set",
+    "brand": "Bath & Body Works",
+    "rating": 4.7,
+    "price": 14.00,
+    "availability": "In Stock",
+    "overview_desc": "TSA-friendly sizes of your favorite fragrance routine.",
+    "product_page": {
+      "images": ["bbw_travel_mimosa.jpg"],
+      "description": "Includes travel-size Shower Gel, Daily Nourishing Body Lotion, and Fine Fragrance Mist. Perfect for carry-ons and gym bags.",
+      "feature_resolution": "3 x 3 fl oz Bottles, TSA Approved, Bright Citrus Scent.",
+      "tags": ["Travel Size", "BBW", "Miniatures"],
+      "available_options": { "scents": ["Sunshine Mimosa", "Ocean"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 20,
+    "name": "Dettol Instant Hand Sanitizer",
+    "type_filter": "Sanitizer",
+    "brand": "Dettol",
+    "rating": 4.8,
+    "price": 3.00,
+    "availability": "In Stock",
+    "overview_desc": "Rinse-free, non-sticky protection for on-the-go hygiene.",
+    "product_page": {
+      "images": ["dettol_sanitizer.jpg"],
+      "description": "Kills 99.9% of germs instantly without water. Dermatologically tested and enriched with chamomile extracts to be gentle on skin.",
+      "feature_resolution": "Alcohol-Based, Chamomile Extract, Pocket Size.",
+      "tags": ["Sanitizer", "Dettol", "Portable Hygiene"],
+      "available_options": { "sizes": ["50ml", "200ml"] },
+      "wishlist": "Available",
+      "reviews": [{"user": "Ali H.", "rating": 5, "comment": "Doesn't dry out my hands like other brands."}],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  }
+
+]

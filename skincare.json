@@ -1,0 +1,703 @@
+{
+    "ecommerce_catalog": {
+        "category": "Beauty",
+        "subcategory": "Skincare",
+        "products": [
+            {
+                "product_id": 1,
+                "name": "Neutrogena Deep Clean Facial Cleanser",
+                "type_filter": "Face Wash",
+                "brand": "Neutrogena",
+                "rating": 4.7,
+                "price": 12.50,
+                "availability": "In Stock",
+                "overview_desc": "Cleanses deep into pores to dissolve dirt, oil, and makeup.",
+                "product_page": {
+                    "images": [
+                        "neutrogena_facewash.jpg"
+                    ],
+                    "description": "This effective facial cleanser features a dual-action formula that cleanses deep into pores and removes dead surface skin that can dry, roughen, and dull your complexion.",
+                    "feature_resolution": "Oil-Free, Alcohol-Free, Non-Comedogenic.",
+                    "tags": [
+                        "Face Wash",
+                        "Cleanser",
+                        "Neutrogena"
+                    ],
+                    "available_options": {
+                        "sizes": [
+                            "150ml",
+                            "200ml"
+                        ]
+                    },
+                    "wishlist": "Available",
+                    "reviews": [
+                        {
+                            "user": "Amna R.",
+                            "rating": 5,
+                            "comment": "Great for oily skin!"
+                        }
+                    ],
+                    "shipping_methods": [
+                        "Standard",
+                        "Express"
+                    ]
+                }
+            },
+            {
+                "product_id": 2,
+                "name": "Neutrogena Hydro Boost Water Gel",
+                "type_filter": "Moisturizer",
+                "brand": "Neutrogena",
+                "rating": 4.9,
+                "price": 22.00,
+                "availability": "In Stock",
+                "overview_desc": "A lightweight water-gel that instantly quenches dry skin.",
+                "product_page": {
+                    "images": [
+                        "hydro_boost_gel.jpg"
+                    ],
+                    "description": "Formulated with Hyaluronic Acid, this gel-based moisturizer acts like a sponge for dry skin cells, moisturizing with up to 1,000 times its weight in water.",
+                    "feature_resolution": "Hyaluronic Acid, Oil-Free, 48-Hour Hydration.",
+                    "tags": [
+                        "Moisturizer",
+                        "Hydration",
+                        "Neutrogena"
+                    ],
+                    "available_options": {
+                        "sizes": [
+                            "50g"
+                        ]
+                    },
+                    "wishlist": "Available",
+                    "reviews": [],
+                    "shipping_methods": [
+                        "Standard Delivery"
+                    ]
+                }
+            },
+            {
+                "product_id": 3,
+                "name": "The Ordinary Niacinamide 10% + Zinc 1%",
+                "type_filter": "Serum",
+                "brand": "The Ordinary",
+                "rating": 4.8,
+                "price": 8.90,
+                "availability": "In Stock",
+                "overview_desc": "High-strength vitamin and mineral blemish formula.",
+                "product_page": {
+                    "images": [
+                        "ordinary_niacinamide.jpg"
+                    ],
+                    "description": "Niacinamide (Vitamin B3) is indicated to reduce the appearance of skin blemishes and congestion. A high 10% concentration of this vitamin is supported in the formula by Zinc salt.",
+                    "feature_resolution": "pH 5.50-6.50, Vegan, Cruelty-Free.",
+                    "tags": [
+                        "Serum",
+                        "Blemishes",
+                        "The Ordinary"
+                    ],
+                    "available_options": {
+                        "sizes": [
+                            "30ml",
+                            "60ml"
+                        ]
+                    },
+                    "wishlist": "Available",
+                    "reviews": [
+                        {
+                            "user": "Sarah K.",
+                            "rating": 5,
+                            "comment": "Life saver for acne scars."
+                        }
+                    ],
+                    "shipping_methods": [
+                        "Standard Delivery"
+                    ]
+                }
+            },
+            {
+                "product_id": 4,
+                "name": "The Ordinary Hyaluronic Acid 2% + B5",
+                "type_filter": "Serum",
+                "brand": "The Ordinary",
+                "rating": 4.7,
+                "price": 9.50,
+                "availability": "In Stock",
+                "overview_desc": "A hydration support formula with ultra-pure, vegan hyaluronic acid.",
+                "product_page": {
+                    "images": [
+                        "ordinary_hyaluronic.jpg"
+                    ],
+                    "description": "This formulation combines low-, medium- and high-molecular weight HA, as well as an next-generation HA crosspolymer at a combined concentration of 2%.",
+                    "feature_resolution": "Multi-Depth Hydration, Vitamin B5, Vegan.",
+                    "tags": [
+                        "Serum",
+                        "Hydration",
+                        "The Ordinary"
+                    ],
+                    "available_options": {
+                        "sizes": [
+                            "30ml"
+                        ]
+                    },
+                    "wishlist": "Available",
+                    "reviews": [],
+                    "shipping_methods": [
+                        "Standard Delivery"
+                    ]
+                }
+            },
+            {
+                "product_id": 5,
+                "name": "Nivea Soft Moisturizing Cream",
+                "type_filter": "Moisturizing Cream",
+                "brand": "Nivea",
+                "rating": 4.6,
+                "price": 5.50,
+                "availability": "In Stock",
+                "overview_desc": "Refreshingly soft moisturizing cream for face, body, and hands.",
+                "product_page": {
+                    "images": [
+                        "nivea_soft.jpg"
+                    ],
+                    "description": "Nivea Soft is a highly effective, intensive moisturizing cream for everyday use. The light formula with Vitamin E & Jojoba Oil is quickly absorbed.",
+                    "feature_resolution": "Vitamin E, Jojoba Oil, Fast Absorbing.",
+                    "tags": [
+                        "Cream",
+                        "Moisturizer",
+                        "Nivea",
+                        "Daily Care"
+                    ],
+                    "available_options": {
+                        "sizes": [
+                            "100ml",
+                            "200ml",
+                            "300ml"
+                        ]
+                    },
+                    "wishlist": "Available",
+                    "reviews": [],
+                    "shipping_methods": [
+                        "Standard Delivery"
+                    ]
+                }
+            },
+            {
+                "product_id": 6,
+                "name": "Nivea Sun Protect & Moisture SPF 50",
+                "type_filter": "Sunscreen",
+                "brand": "Nivea",
+                "rating": 4.7,
+                "price": 14.00,
+                "availability": "In Stock",
+                "overview_desc": "Immediate UV protection and 48-hour moisture.",
+                "product_page": {
+                    "images": [
+                        "nivea_sunscreen.jpg"
+                    ],
+                    "description": "The formula provides immediate UV protection and long-lasting moisture for a soft skin feeling. It is water-resistant and works in balance with the skin's microbiome.",
+                    "feature_resolution": "SPF 50+, UVA/UVB Protection, Water Resistant.",
+                    "tags": [
+                        "Sunscreen",
+                        "UV Protection",
+                        "Nivea"
+                    ],
+                    "available_options": {
+                        "sizes": [
+                            "100ml",
+                            "200ml"
+                        ]
+                    },
+                    "wishlist": "Available",
+                    "reviews": [],
+                    "shipping_methods": [
+                        "Standard Delivery"
+                    ]
+                }
+            },
+            {
+                "product_id": 7,
+                "name": "Garnier Micellar Cleansing Water",
+                "type_filter": "Micellar Water",
+                "brand": "Garnier",
+                "rating": 4.8,
+                "price": 7.00,
+                "availability": "In Stock",
+                "overview_desc": "Removes makeup + Cleanses + Soothes in one gesture.",
+                "product_page": {
+                    "images": [
+                        "garnier_micellar.jpg"
+                    ],
+                    "description": "Like a magnet, micelles capture and lift away dirt, oil and makeup without harsh rubbing, leaving skin perfectly clean and refreshed.",
+                    "feature_resolution": "No Rinse, Fragrance-Free, Sensitive Skin Friendly.",
+                    "tags": [
+                        "Cleanser",
+                        "Makeup Remover",
+                        "Garnier"
+                    ],
+                    "available_options": {
+                        "sizes": [
+                            "125ml",
+                            "400ml"
+                        ]
+                    },
+                    "wishlist": "Available",
+                    "reviews": [],
+                    "shipping_methods": [
+                        "Standard Delivery"
+                    ]
+                }
+            },
+            {
+                "product_id": 8,
+                "name": "Garnier Bright Complete Vitamin C Serum",
+                "type_filter": "Serum",
+                "brand": "Garnier",
+                "rating": 4.5,
+                "price": 11.50,
+                "availability": "In Stock",
+                "overview_desc": "Brighten your skin and reduce dark spots in 3 days.",
+                "product_page": {
+                    "images": [
+                        "garnier_vit_c.jpg"
+                    ],
+                    "description": "Infused with 30x Vitamin C and Yuzu Lemon, this lightweight serum penetrates deep to brighten skin tone and fade dark spots.",
+                    "feature_resolution": "30x Vitamin C, Non-Greasy, Fast Action.",
+                    "tags": [
+                        "Serum",
+                        "Brightening",
+                        "Garnier"
+                    ],
+                    "available_options": {
+                        "sizes": [
+                            "15ml",
+                            "30ml"
+                        ]
+                    },
+                    "wishlist": "Available",
+                    "reviews": [
+                        {
+                            "user": "Zain Z.",
+                            "rating": 4,
+                            "comment": "Good for dull skin."
+                        }
+                    ],
+                    "shipping_methods": [
+                        "Standard Delivery"
+                    ]
+                }
+            },
+            {
+                "product_id": 9,
+                "name": "Himalaya Purifying Neem Face Wash",
+                "type_filter": "Face Wash",
+                "brand": "Himalaya",
+                "rating": 4.6,
+                "price": 4.50,
+                "availability": "In Stock",
+                "overview_desc": "Soap-free herbal formula that cleanses impurities and helps clear pimples.",
+                "product_page": {
+                    "images": [
+                        "himalaya_neem.jpg"
+                    ],
+                    "description": "A natural blend of Neem and Turmeric. Neem is well-known for its antibacterial properties and Turmeric is an effective antiseptic.",
+                    "feature_resolution": "Herbal Formula, Soap-Free, Anti-Pimple.",
+                    "tags": [
+                        "Face Wash",
+                        "Herbal",
+                        "Himalaya"
+                    ],
+                    "available_options": {
+                        "sizes": [
+                            "100ml",
+                            "150ml"
+                        ]
+                    },
+                    "wishlist": "Available",
+                    "reviews": [],
+                    "shipping_methods": [
+                        "Standard Delivery"
+                    ]
+                }
+            },
+            {
+                "product_id": 10,
+                "name": "Himalaya Intensive Moisturizing Cream",
+                "type_filter": "Moisturizing Cream",
+                "brand": "Himalaya",
+                "rating": 4.4,
+                "price": 6.00,
+                "availability": "In Stock",
+                "overview_desc": "Rich, creamy formula for deep hydration and soft skin.",
+                "product_page": {
+                    "images": [
+                        "himalaya_moisturizer.jpg"
+                    ],
+                    "description": "Enriched with Wheatgerm, a rich source of Vitamin E, and Sweet Almond to moisturize even the extremely dry areas of your skin.",
+                    "feature_resolution": "Wheatgerm Oil, Sweet Almond Oil, Intense Repair.",
+                    "tags": [
+                        "Cream",
+                        "Moisturizer",
+                        "Himalaya"
+                    ],
+                    "available_options": {
+                        "sizes": [
+                            "50ml",
+                            "100ml"
+                        ]
+                    },
+                    "wishlist": "Available",
+                    "reviews": [],
+                    "shipping_methods": [
+                        "Standard Delivery"
+                    ]
+                }
+            },
+            [
+                {
+                    "product_id": 11,
+                    "name": "Saeed Ghani Pure Rose Water",
+                    "type_filter": "Toner",
+                    "brand": "Saeed Ghani",
+                    "rating": 4.8,
+                    "price": 3.50,
+                    "availability": "In Stock",
+                    "overview_desc": "Natural facial toner that refreshes and hydrates.",
+                    "product_page": {
+                        "images": [
+                            "saeed_ghani_rose.jpg"
+                        ],
+                        "description": "A natural astringent that balances skin pH and tightens pores. Can be used as a toner or a refreshing face mist throughout the day.",
+                        "feature_resolution": "100% Natural, Alcohol-Free, Refreshing.",
+                        "tags": [
+                            "Toner",
+                            "Organic",
+                            "Saeed Ghani"
+                        ],
+                        "available_options": {
+                            "sizes": [
+                                "120ml",
+                                "240ml",
+                                "Spray Bottle"
+                            ]
+                        },
+                        "wishlist": "Available",
+                        "reviews": [
+                            {
+                                "user": "Hina M.",
+                                "rating": 5,
+                                "comment": "The best natural toner for glowing skin."
+                            }
+                        ],
+                        "shipping_methods": [
+                            "Standard Delivery"
+                        ]
+                    }
+                },
+                {
+                    "product_id": 12,
+                    "name": "Saeed Ghani Vitamin E Face Cream",
+                    "type_filter": "Face Cream",
+                    "brand": "Saeed Ghani",
+                    "rating": 4.5,
+                    "price": 5.00,
+                    "availability": "In Stock",
+                    "overview_desc": "Nourishing cream for a smoother and youthful complexion.",
+                    "product_page": {
+                        "images": [
+                            "saeed_ghani_cream.jpg"
+                        ],
+                        "description": "Rich in antioxidants, this Vitamin E cream helps in skin repair and provides a natural glow while protecting against environmental stressors.",
+                        "feature_resolution": "Antioxidant Rich, Non-Greasy, Herbal.",
+                        "tags": [
+                            "Face Cream",
+                            "Nourishing",
+                            "Saeed Ghani"
+                        ],
+                        "available_options": {
+                            "sizes": [
+                                "50g"
+                            ]
+                        },
+                        "wishlist": "Available",
+                        "reviews": [],
+                        "shipping_methods": [
+                            "Standard Delivery"
+                        ]
+                    }
+                },
+                {
+                    "product_id": 13,
+                    "name": "Nivea Express Hydration Body Lotion",
+                    "type_filter": "Body Lotion",
+                    "brand": "Nivea",
+                    "rating": 4.7,
+                    "price": 9.50,
+                    "availability": "In Stock",
+                    "overview_desc": "Ultra-light formula for fast absorption and long-lasting moisture.",
+                    "product_page": {
+                        "images": [
+                            "nivea_body_lotion.jpg"
+                        ],
+                        "description": "Infused with Sea Minerals and Deep Moisture Serum, it absorbs in seconds and leaves your skin feeling soft and supple for 48 hours.",
+                        "feature_resolution": "Sea Minerals, 48h Moisture, Fast Absorbing.",
+                        "tags": [
+                            "Body Lotion",
+                            "Hydration",
+                            "Nivea"
+                        ],
+                        "available_options": {
+                            "sizes": [
+                                "250ml",
+                                "400ml"
+                            ]
+                        },
+                        "wishlist": "Available",
+                        "reviews": [],
+                        "shipping_methods": [
+                            "Standard",
+                            "Express"
+                        ]
+                    }
+                },
+                {
+                    "product_id": 14,
+                    "name": "Garnier SkinActive Aloe Vera Jelly",
+                    "type_filter": "Moisturizer",
+                    "brand": "Garnier",
+                    "rating": 4.6,
+                    "price": 10.00,
+                    "availability": "In Stock",
+                    "overview_desc": "96% natural origin ingredients for a refreshing boost.",
+                    "product_page": {
+                        "images": [
+                            "garnier_aloe_gel.jpg"
+                        ],
+                        "description": "A 3-in-1 hydrating jelly that can be used as a day cream, night cream, or a 10-minute mask. Infused with organic Aloe Vera.",
+                        "feature_resolution": "Organic Aloe, Paraben-Free, Silicone-Free.",
+                        "tags": [
+                            "Aloe Gel",
+                            "Moisturizer",
+                            "Garnier"
+                        ],
+                        "available_options": {
+                            "sizes": [
+                                "150ml"
+                            ]
+                        },
+                        "wishlist": "Available",
+                        "reviews": [],
+                        "shipping_methods": [
+                            "Standard Delivery"
+                        ]
+                    }
+                },
+                {
+                    "product_id": 15,
+                    "name": "The Ordinary Retinol 0.5% in Squalane",
+                    "type_filter": "Serum",
+                    "brand": "The Ordinary",
+                    "rating": 4.8,
+                    "price": 13.50,
+                    "availability": "In Stock",
+                    "overview_desc": "Highly stable, water-free solution for skin aging.",
+                    "product_page": {
+                        "images": [
+                            "ordinary_retinol.jpg"
+                        ],
+                        "description": "Reduces the appearances of fine lines, photo damage, and general skin aging. Note: Retinol can cause significant irritation in the early stages.",
+                        "feature_resolution": "Anti-Aging, Cruelty-Free, Water-Free.",
+                        "tags": [
+                            "Serum",
+                            "Retinol",
+                            "The Ordinary"
+                        ],
+                        "available_options": {
+                            "sizes": [
+                                "30ml"
+                            ]
+                        },
+                        "wishlist": "Available",
+                        "reviews": [
+                            {
+                                "user": "Maria T.",
+                                "rating": 5,
+                                "comment": "Visible results in just two weeks."
+                            }
+                        ],
+                        "shipping_methods": [
+                            "Standard Delivery"
+                        ]
+                    }
+                },
+                {
+                    "product_id": 16,
+                    "name": "Neutrogena Oil-Free Moisture",
+                    "type_filter": "Moisturizer",
+                    "brand": "Neutrogena",
+                    "rating": 4.7,
+                    "price": 15.00,
+                    "availability": "In Stock",
+                    "overview_desc": "Clinically proven to provide long-lasting hydration for sensitive skin.",
+                    "product_page": {
+                        "images": [
+                            "neutrogena_oil_free.jpg"
+                        ],
+                        "description": "Lightweight and non-greasy lotion that keeps skin moisturized for 12 hours. Its oil-free formula absorbs quickly and won't clog pores.",
+                        "feature_resolution": "Dermatologist Tested, Fragrance-Free, Hypoallergenic.",
+                        "tags": [
+                            "Moisturizer",
+                            "Sensitive Skin",
+                            "Neutrogena"
+                        ],
+                        "available_options": {
+                            "sizes": [
+                                "118ml"
+                            ]
+                        },
+                        "wishlist": "Available",
+                        "reviews": [],
+                        "shipping_methods": [
+                            "Standard Delivery"
+                        ]
+                    }
+                },
+                {
+                    "product_id": 17,
+                    "name": "Himalaya Gentle Exfoliating Apricot Scrub",
+                    "type_filter": "Scrub",
+                    "brand": "Himalaya",
+                    "rating": 4.5,
+                    "price": 5.50,
+                    "availability": "In Stock",
+                    "overview_desc": "Exfoliates dead skin cells and removes blackheads.",
+                    "product_page": {
+                        "images": [
+                            "himalaya_scrub.jpg"
+                        ],
+                        "description": "Crab Apple and Apricot granules gently exfoliate dead skin cells to reveal soft and radiant skin. Wheatgerm Oil is rich in Vitamin E.",
+                        "feature_resolution": "Natural Granules, Vitamin E, Deep Exfoliation.",
+                        "tags": [
+                            "Scrub",
+                            "Exfoliator",
+                            "Himalaya"
+                        ],
+                        "available_options": {
+                            "sizes": [
+                                "100ml",
+                                "150ml"
+                            ]
+                        },
+                        "wishlist": "Available",
+                        "reviews": [],
+                        "shipping_methods": [
+                            "Standard Delivery"
+                        ]
+                    }
+                },
+                {
+                    "product_id": 18,
+                    "name": "Saeed Ghani Husn-e-Yousaf Ubtan Pack",
+                    "type_filter": "Face Pack",
+                    "brand": "Saeed Ghani",
+                    "rating": 4.9,
+                    "price": 4.00,
+                    "availability": "In Stock",
+                    "overview_desc": "Traditional herbal formula for fair and glowing skin.",
+                    "product_page": {
+                        "images": [
+                            "saeed_ghani_ubtan.jpg"
+                        ],
+                        "description": "An ancient herbal blend that deeply cleanses, exfoliates, and brightens the skin. Helps in removing tan and evening out skin tone.",
+                        "feature_resolution": "Herbal Ingredients, Brightening, Organic.",
+                        "tags": [
+                            "Ubtan",
+                            "Traditional",
+                            "Saeed Ghani"
+                        ],
+                        "available_options": {
+                            "sizes": [
+                                "100g",
+                                "200g"
+                            ]
+                        },
+                        "wishlist": "Available",
+                        "reviews": [
+                            {
+                                "user": "Ayesha F.",
+                                "rating": 5,
+                                "comment": "Classic remedy that always works!"
+                            }
+                        ],
+                        "shipping_methods": [
+                            "Standard Delivery"
+                        ]
+                    }
+                },
+                {
+                    "product_id": 19,
+                    "name": "Nivea Essential Lip Care",
+                    "type_filter": "Lip Balm",
+                    "brand": "Nivea",
+                    "rating": 4.8,
+                    "price": 2.50,
+                    "availability": "In Stock",
+                    "overview_desc": "Keeps your lips moisturized for 24 hours.",
+                    "product_page": {
+                        "images": [
+                            "nivea_lip_balm.jpg"
+                        ],
+                        "description": "Enriched with Shea Butter and natural oils, this lip balm prevents moisture loss and keeps lips smooth and healthy.",
+                        "feature_resolution": "Shea Butter, 24h Melt-in Moisture, Mineral Oil-Free.",
+                        "tags": [
+                            "Lip Balm",
+                            "Moisturizing",
+                            "Nivea"
+                        ],
+                        "available_options": {
+                            "sizes": [
+                                "4.8g"
+                            ]
+                        },
+                        "wishlist": "Available",
+                        "reviews": [],
+                        "shipping_methods": [
+                            "Standard Delivery"
+                        ]
+                    }
+                },
+                {
+                    "product_id": 20,
+                    "name": "Garnier SkinActive Night Cream",
+                    "type_filter": "Night Cream",
+                    "brand": "Garnier",
+                    "rating": 4.6,
+                    "price": 13.00,
+                    "availability": "In Stock",
+                    "overview_desc": "Nightly recovery for fresh and radiant skin in the morning.",
+                    "product_page": {
+                        "images": [
+                            "garnier_night_cream.jpg"
+                        ],
+                        "description": "Works while you sleep to repair the skin barrier and replenish moisture. Infused with Vitamin C and Lemon essences.",
+                        "feature_resolution": "Overnight Repair, Vitamin C, Non-Sticky.",
+                        "tags": [
+                            "Night Cream",
+                            "Skincare",
+                            "Garnier"
+                        ],
+                        "available_options": {
+                            "sizes": [
+                                "50ml"
+                            ]
+                        },
+                        "wishlist": "Available",
+                        "reviews": [],
+                        "shipping_methods": [
+                            "Standard Delivery"
+                        ]
+                    }
+                }
+            ]
+        ]
+    }
+}

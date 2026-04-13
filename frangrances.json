@@ -1,0 +1,404 @@
+[
+  {
+    "product_id": 1,
+    "name": "Dior Sauvage Eau de Parfum",
+    "type_filter": "Perfume",
+    "brand": "Dior",
+    "rating": 4.9,
+    "price": 125.00,
+    "availability": "In Stock",
+    "overview_desc": "A noble and powerful composition with citrus and woody notes.",
+    "product_page": {
+      "images": ["dior_sauvage_edp.jpg"],
+      "description": "Inspired by the desert at the magical twilight hour. Sauvage Eau de Parfum blends the freshness of Calabrian bergamot with the woodiness of ambroxan and smoky accents of Papua New Guinean vanilla.",
+      "feature_resolution": "Eau de Parfum, Woody/Spicy, Long-Lasting.",
+      "tags": ["Luxury", "Men's Fragrance", "Dior", "Premium"],
+      "available_options": { "sizes": ["60ml", "100ml", "200ml"] },
+      "wishlist": "Available",
+      "reviews": [{"user": "Hamza Y.", "rating": 5, "comment": "The projection and longevity are unmatched."}],
+      "shipping_methods": ["Insured Shipping", "Express"]
+    }
+  },
+  {
+    "product_id": 2,
+    "name": "Dior J’adore Eau de Parfum",
+    "type_filter": "Perfume",
+    "brand": "Dior",
+    "rating": 4.8,
+    "price": 135.00,
+    "availability": "In Stock",
+    "overview_desc": "An iconic floral bouquet with essence of Ylang-Ylang and Rose.",
+    "product_page": {
+      "images": ["dior_jadore.jpg"],
+      "description": "A finely crafted bouquet. J'adore is a grand feminine floral fragrance from Dior, balanced and versatile for every occasion.",
+      "feature_resolution": "Floral Scent, Golden Bottle Design, Premium Essence.",
+      "tags": ["Women's Fragrance", "Floral", "Dior", "Luxury"],
+      "available_options": { "sizes": ["50ml", "100ml"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard", "Express"]
+    }
+  },
+  {
+    "product_id": 3,
+    "name": "Chanel No. 5 Eau de Parfum",
+    "type_filter": "Perfume",
+    "brand": "Chanel",
+    "rating": 4.7,
+    "price": 145.00,
+    "availability": "In Stock",
+    "overview_desc": "The essence of femininity—a legendary floral aldehyde fragrance.",
+    "product_page": {
+      "images": ["chanel_no5.jpg"],
+      "description": "An abstract fragrance with a bouquet of May Rose and Jasmine, featuring bright citrus top notes. Aldehydes create a unique presence.",
+      "feature_resolution": "Floral Aldehyde, Iconic Signature, Timeless Classic.",
+      "tags": ["Chanel", "Classic", "Feminine", "Luxury"],
+      "available_options": { "sizes": ["50ml", "100ml"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Insured Shipping"]
+    }
+  },
+  {
+    "product_id": 4,
+    "name": "Chanel Coco Mademoiselle",
+    "type_filter": "Perfume",
+    "brand": "Chanel",
+    "rating": 4.9,
+    "price": 138.00,
+    "availability": "In Stock",
+    "overview_desc": "A bold and free character—an ambery-floral fragrance.",
+    "product_page": {
+      "images": ["chanel_coco_mad.jpg"],
+      "description": "Sparks of fresh and vibrant orange immediately awaken the senses. A clear and sensual heart reveals the transparent accords of Jasmine and Rose.",
+      "feature_resolution": "Ambery Floral, Elegant, Vibrant.",
+      "tags": ["Chanel", "Modern", "Sophisticated"],
+      "available_options": { "sizes": ["35ml", "50ml", "100ml"] },
+      "wishlist": "Available",
+      "reviews": [{"user": "Zainab R.", "rating": 5, "comment": "My signature scent for years."}],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 5,
+    "name": "Gucci Bloom Eau de Parfum",
+    "type_filter": "Perfume",
+    "brand": "Gucci",
+    "rating": 4.6,
+    "price": 110.00,
+    "availability": "In Stock",
+    "overview_desc": "A fragrance designed to celebrate the authenticity and diversity of women.",
+    "product_page": {
+      "images": ["gucci_bloom.jpg"],
+      "description": "Notes of natural tuberose and jasmine leave an unexpectedly rich white floral scent on the skin. Rangoon Creeper embodies the fragrance's concept.",
+      "feature_resolution": "White Floral, Tuberose, Jasmine Buds.",
+      "tags": ["Gucci", "Floral", "Authentic"],
+      "available_options": { "sizes": ["50ml", "100ml"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 6,
+    "name": "Gucci Guilty Pour Femme",
+    "type_filter": "Perfume",
+    "brand": "Gucci",
+    "rating": 4.7,
+    "price": 115.00,
+    "availability": "In Stock",
+    "overview_desc": "An ambery floral fragrance that brings a feeling of liberation.",
+    "product_page": {
+      "images": ["gucci_guilty.jpg"],
+      "description": "Defined by a signature Fougère accord of geranium, commonly used in men’s scents. Intimate and magical lilac flower is laced with amber.",
+      "feature_resolution": "Ambery Floral, Mandora Top Notes, Patchouli.",
+      "tags": ["Gucci", "Bold", "Feminine"],
+      "available_options": { "sizes": ["50ml", "90ml"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 7,
+    "name": "J. Janan Gold Edition",
+    "type_filter": "Perfume",
+    "brand": "J.",
+    "rating": 4.8,
+    "price": 45.00,
+    "availability": "In Stock",
+    "overview_desc": "A masterful fusion of citrusy, floral, and woody notes.",
+    "product_page": {
+      "images": ["j_janan_gold.jpg"],
+      "description": "Janan Gold is a fragrance that represents the spirit of a modern man. It opens with notes of Bergamot and Red Apple, moving to a woody base.",
+      "feature_resolution": "Main Accords: Woody, Citrus, Musky.",
+      "tags": ["J. Fragrances", "Bestseller", "Men's Perfume"],
+      "available_options": { "sizes": ["100ml"] },
+      "wishlist": "Available",
+      "reviews": [{"user": "Ahmed F.", "rating": 5, "comment": "Best value for a premium scent."}],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 8,
+    "name": "J. Wasim Akram 502",
+    "type_filter": "Perfume",
+    "brand": "J.",
+    "rating": 4.7,
+    "price": 40.00,
+    "availability": "In Stock",
+    "overview_desc": "A vibrant and energetic scent inspired by the cricket legend.",
+    "product_page": {
+      "images": ["j_wa_502.jpg"],
+      "description": "A refreshing aromatic fragrance with a blend of citrus, spicy, and woody notes. Designed for the active and charismatic individual.",
+      "feature_resolution": "Aromatic, Fresh Spicy, Long-Wear.",
+      "tags": ["Wasim Akram", "J. Perfume", "Aromatic"],
+      "available_options": { "sizes": ["100ml"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 9,
+    "name": "Bonanza Satrangi Musk Al-Ghazal",
+    "type_filter": "Perfume",
+    "brand": "Bonanza Satrangi",
+    "rating": 4.5,
+    "price": 30.00,
+    "availability": "In Stock",
+    "overview_desc": "A deep and mysterious musky fragrance for formal evenings.",
+    "product_page": {
+      "images": ["bonanza_musk.jpg"],
+      "description": "A sophisticated blend of heavy musk and oriental spices that provides a long-lasting and enchanting trail.",
+      "feature_resolution": "Oriental, Heavy Musk, Long-Lasting.",
+      "tags": ["Bonanza Satrangi", "Musk", "Oriental"],
+      "available_options": { "sizes": ["100ml"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 10,
+    "name": "Bonanza Satrangi Active Body Spray",
+    "type_filter": "Body Spray",
+    "brand": "Bonanza Satrangi",
+    "rating": 4.3,
+    "price": 8.50,
+    "availability": "In Stock",
+    "overview_desc": "Fresh and deodorizing spray for daily activities.",
+    "product_page": {
+      "images": ["bonanza_body_spray.jpg"],
+      "description": "Keep fresh all day with this invigorating body spray. Features cool aquatic notes with a hint of citrus.",
+      "feature_resolution": "Deodorizing, Fresh Aquatic, 24H Protection.",
+      "tags": ["Body Spray", "Daily Use", "Bonanza"],
+      "available_options": { "sizes": ["200ml"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  
+  {
+    "product_id": 11,
+    "name": "Dior Miss Dior Brume Soyeuse Body Mist",
+    "type_filter": "Body Mist",
+    "brand": "Dior",
+    "rating": 4.7,
+    "price": 65.00,
+    "availability": "In Stock",
+    "overview_desc": "A light, airy mist that leaves a silky trail of floral notes.",
+    "product_page": {
+      "images": ["dior_body_mist.jpg"],
+      "description": "This body mist subtly scents the skin while providing a refreshing sensation. It preserves skin's hydration and enhances the scent of Miss Dior.",
+      "feature_resolution": "Lightweight, Hydrating, Rose & Bergamot.",
+      "tags": ["Body Mist", "Dior", "Feminine", "Fresh"],
+      "available_options": { "sizes": ["100ml"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 12,
+    "name": "Chanel Bleu de Chanel All-Over Spray",
+    "type_filter": "Body Spray",
+    "brand": "Chanel",
+    "rating": 4.8,
+    "price": 85.00,
+    "availability": "In Stock",
+    "overview_desc": "A portable, fresh way to wear the scent of independence.",
+    "product_page": {
+      "images": ["chanel_body_spray.jpg"],
+      "description": "An aromatic-woody fragrance spray for the body. Features notes of citrus, cedar, and sandalwood for a clean, masculine vibe.",
+      "feature_resolution": "Aromatic Woody, Refreshing, Portable.",
+      "tags": ["Chanel", "Body Spray", "Men's Grooming"],
+      "available_options": { "sizes": ["150ml"] },
+      "wishlist": "Available",
+      "reviews": [{"user": "Omer D.", "rating": 5, "comment": "Perfect for a quick refresh after the gym."}],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 13,
+    "name": "Gucci Flora Gorgeous Gardenia Mini",
+    "type_filter": "Perfume Mini",
+    "brand": "Gucci",
+    "rating": 4.6,
+    "price": 32.00,
+    "availability": "In Stock",
+    "overview_desc": "Travel-sized floral signature for the woman on the move.",
+    "product_page": {
+      "images": ["gucci_flora_mini.jpg"],
+      "description": "A delicious potion of joy built around the Gardenia flower blended with solar Jasmine absolute and Pear Blossom.",
+      "feature_resolution": "Floral Signature, Collectible Bottle, Travel Size.",
+      "tags": ["Gucci", "Miniature", "Travel Size", "Floral"],
+      "available_options": { "sizes": ["7.5ml", "10ml"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 14,
+    "name": "J. Exclusive Oud Al-Amir",
+    "type_filter": "Perfume",
+    "brand": "J.",
+    "rating": 4.9,
+    "price": 55.00,
+    "availability": "In Stock",
+    "overview_desc": "A majestic and traditional Oud fragrance with deep woody character.",
+    "product_page": {
+      "images": ["j_oud_amir.jpg"],
+      "description": "An opulent blend of pure Oud, saffron, and leather notes. It captures the essence of royal traditions and lasting elegance.",
+      "feature_resolution": "Pure Oud, High Longevity, Oriental.",
+      "tags": ["Oud", "Traditional", "J. Perfume", "Heavy Scent"],
+      "available_options": { "sizes": ["100ml"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 15,
+    "name": "Bonanza Satrangi Bloom Floral Mist",
+    "type_filter": "Body Mist",
+    "brand": "Bonanza Satrangi",
+    "rating": 4.4,
+    "price": 12.00,
+    "availability": "In Stock",
+    "overview_desc": "A vibrant mist featuring a garden of fresh jasmine and lily.",
+    "product_page": {
+      "images": ["bonanza_floral_mist.jpg"],
+      "description": "A light, non-staining mist that provides a refreshing burst of floral sweetness. Perfect for everyday casual wear.",
+      "feature_resolution": "Floral Accords, Non-Greasy, Fresh.",
+      "tags": ["Floral", "Bonanza", "Body Mist", "Casual"],
+      "available_options": { "sizes": ["250ml"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 16,
+    "name": "Dior Sauvage Luxury Grooming Set",
+    "type_filter": "Gift Set",
+    "brand": "Dior",
+    "rating": 5.0,
+    "price": 180.00,
+    "availability": "Limited Stock",
+    "overview_desc": "The ultimate gift set featuring the complete Sauvage ritual.",
+    "product_page": {
+      "images": ["dior_luxury_set.jpg"],
+      "description": "Includes Sauvage Parfum (100ml), a travel spray (10ml), and a scented after-shave balm. Elegantly packaged for special occasions.",
+      "feature_resolution": "Premium Packaging, Multi-Product, Gift Ready.",
+      "tags": ["Gift Set", "Luxury", "Dior", "Special Edition"],
+      "available_options": { "edition": ["Limited Holiday Box"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Insured Shipping", "Express"]
+    }
+  },
+  {
+    "product_id": 17,
+    "name": "Chanel Chance Three-Moods Set",
+    "type_filter": "Perfume Set",
+    "brand": "Chanel",
+    "rating": 4.9,
+    "price": 160.00,
+    "availability": "In Stock",
+    "overview_desc": "A collection of three distinct Chance fragrances in discovery sizes.",
+    "product_page": {
+      "images": ["chanel_perfume_set.jpg"],
+      "description": "Explore the world of Chance with the Eau Tendre, Eau Fraîche, and Eau Vive variations. Perfect for finding your new signature.",
+      "feature_resolution": "Assorted Scents, Discovery Kit, Premium Chanel Box.",
+      "tags": ["Chanel", "Discovery Set", "Perfume", "Luxury"],
+      "available_options": { "sizes": ["3 x 20ml"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 18,
+    "name": "Gucci Guilty Rollerball Travel Spray",
+    "type_filter": "Travel Spray",
+    "brand": "Gucci",
+    "rating": 4.7,
+    "price": 28.00,
+    "availability": "In Stock",
+    "overview_desc": "Convenient rollerball for effortless touch-ups on the go.",
+    "product_page": {
+      "images": ["gucci_rollerball.jpg"],
+      "description": "The ambery-floral scent of Gucci Guilty in a slim, leak-proof rollerball design that fits perfectly in any handbag.",
+      "feature_resolution": "Rollerball Applicator, TSA Friendly, Intense Scent.",
+      "tags": ["Travel", "Gucci", "Pocket Size", "Feminine"],
+      "available_options": { "sizes": ["7.4ml"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 19,
+    "name": "J. Spark Pocket Perfume",
+    "type_filter": "Pocket Perfume",
+    "brand": "J.",
+    "rating": 4.5,
+    "price": 5.00,
+    "availability": "In Stock",
+    "overview_desc": "Credit-card sized perfume for instant freshness anywhere.",
+    "product_page": {
+      "images": ["j_pocket_spark.jpg"],
+      "description": "A compact and durable spray that fits in your wallet or pocket. Provides approximately 200 sprays of a refreshing aromatic scent.",
+      "feature_resolution": "Slim Design, High Portability, Aromatic Notes.",
+      "tags": ["Pocket Perfume", "J. Fragrances", "Travel Essential"],
+      "available_options": { "sizes": ["20ml"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 20,
+    "name": "Bonanza Premium Oro Gold Perfume",
+    "type_filter": "Perfume",
+    "brand": "Bonanza Satrangi",
+    "rating": 4.8,
+    "price": 45.00,
+    "availability": "In Stock",
+    "overview_desc": "A premium blend of saffron, amber, and patchouli.",
+    "product_page": {
+      "images": ["bonanza_premium_oro.jpg"],
+      "description": "The flagship fragrance from the premium line. Oro Gold offers a sophisticated and warm presence with a long-lasting dry down.",
+      "feature_resolution": "Premium Ingredients, Luxury Glass Bottle, Spicy Amber.",
+      "tags": ["Bonanza", "Premium", "Formal Wear", "Unisex"],
+      "available_options": { "sizes": ["100ml"] },
+      "wishlist": "Available",
+      "reviews": [{"user": "Zain H.", "rating": 5, "comment": "Smells like high-end designer perfume."}],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  }
+
+]

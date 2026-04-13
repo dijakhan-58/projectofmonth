@@ -1,0 +1,404 @@
+[
+  {
+    "product_id": 1,
+    "name": "Outfitters Junior Graphic Printed T-Shirt",
+    "type_filter": "Kids Printed T-Shirt",
+    "brand": "Outfitters",
+    "rating": 4.7,
+    "price": 12.00,
+    "availability": "In Stock",
+    "overview_desc": "Fun and vibrant graphic tee for everyday play.",
+    "product_page": {
+      "images": ["outfitters_kids_tee.jpg"],
+      "description": "A soft cotton jersey tee featuring a high-quality urban print. Designed for durability and comfort during active play.",
+      "feature_resolution": "100% Cotton, Breathable Fabric, Machine Washable.",
+      "tags": ["Kids Fashion", "Outfitters", "Casual", "T-Shirt"],
+      "available_options": { "sizes": ["4-5Y", "6-7Y", "8-9Y", "10-11Y"] },
+      "wishlist": "Available",
+      "reviews": [{"user": "Amna Z.", "rating": 5, "comment": "Great quality, colors don't fade after washing."}],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 2,
+    "name": "Mothercare Pure Cotton Baby Romper",
+    "type_filter": "Baby Romper",
+    "brand": "Mothercare",
+    "rating": 4.9,
+    "price": 18.00,
+    "availability": "In Stock",
+    "overview_desc": "Ultra-soft romper with nickel-free poppers for sensitive skin.",
+    "product_page": {
+      "images": ["mothercare_romper.jpg"],
+      "description": "Designed with a wide envelope neck for easy dressing and integral scratch mitts on smaller sizes. Made from the softest organic cotton.",
+      "feature_resolution": "Nickel-free Snaps, Organic Cotton, Toe-safe Seams.",
+      "tags": ["Baby Care", "Mothercare", "Newborn", "Infant"],
+      "available_options": { "sizes": ["0-3M", "3-6M", "6-9M", "9-12M"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 3,
+    "name": "Hopscotch Floral Embroidered Party Frock",
+    "type_filter": "Frock",
+    "brand": "Hopscotch",
+    "rating": 4.8,
+    "price": 25.00,
+    "availability": "In Stock",
+    "overview_desc": "Elegant floral frock perfect for birthdays and celebrations.",
+    "product_page": {
+      "images": ["hopscotch_frock.jpg"],
+      "description": "A beautiful net frock with a soft cotton lining. Features intricate floral embroidery on the bodice and a stylish sash at the waist.",
+      "feature_resolution": "Soft Cotton Lining, Concealed Back Zip, Premium Net Fabric.",
+      "tags": ["Party Wear", "Girls Fashion", "Hopscotch", "Dresses"],
+      "available_options": { "colors": ["Peach", "Sky Blue"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 4,
+    "name": "Outfitters Kids Colorblock Hoodie",
+    "type_filter": "Kids Hoodie",
+    "brand": "Outfitters",
+    "rating": 4.6,
+    "price": 22.00,
+    "availability": "In Stock",
+    "overview_desc": "Warm fleece hoodie with a modern colorblock design.",
+    "product_page": {
+      "images": ["outfitters_kids_hoodie.jpg"],
+      "description": "A cozy addition to any winter wardrobe. Features a front kangaroo pocket and ribbed cuffs to keep the cold out.",
+      "feature_resolution": "Fleece Lined, Contrast Panels, Durable Stitching.",
+      "tags": ["Winter Wear", "Outfitters", "Boys Fashion", "Hoodie"],
+      "available_options": { "sizes": ["5-6Y", "7-8Y", "9-10Y", "11-12Y"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 5,
+    "name": "Super Squad Cartoon Character T-Shirt",
+    "type_filter": "Cartoon T-Shirt",
+    "brand": "Junior Trends",
+    "rating": 4.5,
+    "price": 10.00,
+    "availability": "In Stock",
+    "overview_desc": "Features popular superhero prints that kids love.",
+    "product_page": {
+      "images": ["cartoon_tee.jpg"],
+      "description": "Bright and colorful t-shirt featuring licensed character graphics. The fabric is treated for extra softness against young skin.",
+      "feature_resolution": "Licensed Graphics, Ribbed Neckline, Non-Toxic Prints.",
+      "tags": ["Cartoon", "Kids", "Casual", "Gift"],
+      "available_options": { "characters": ["Spider-Man", "Batman", "Paw Patrol"] },
+      "wishlist": "Available",
+      "reviews": [{"user": "Omar S.", "rating": 4, "comment": "My son loves the print, fits perfectly."}],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 6,
+    "name": "Flex-Fit Kids Denim Jeans",
+    "type_filter": "Kids Denim Jeans",
+    "brand": "Hopscotch",
+    "rating": 4.7,
+    "price": 15.00,
+    "availability": "In Stock",
+    "overview_desc": "Stretchable denim with an adjustable waistband.",
+    "product_page": {
+      "images": ["kids_denim.jpg"],
+      "description": "Hard-wearing denim that moves with the child. Includes an internal button-hole elastic for a customizable waist fit.",
+      "feature_resolution": "Adjustable Waist, Five-Pocket Style, Stretch Denim.",
+      "tags": ["Bottoms", "Kids Denim", "Durable"],
+      "available_options": { "sizes": ["4Y", "6Y", "8Y", "10Y", "12Y"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 7,
+    "name": "Smart-Look School Uniform Shirt",
+    "type_filter": "School Uniform Shirt",
+    "brand": "Local Premium",
+    "rating": 4.4,
+    "price": 8.50,
+    "availability": "In Stock",
+    "overview_desc": "Easy-iron formal white shirt for school days.",
+    "product_page": {
+      "images": ["school_shirt.jpg"],
+      "description": "A crisp white button-down shirt made from a cotton-polyester blend to reduce wrinkling and maintain a sharp look all day.",
+      "feature_resolution": "Easy-Iron Fabric, Reinforced Collar, Breathable Blend.",
+      "tags": ["School", "Uniform", "Essentials"],
+      "available_options": { "sizes": ["22", "24", "26", "28", "30", "32"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 8,
+    "name": "Arctic Blast Kids Winter Puffer Jacket",
+    "type_filter": "Winter Jacket Kids",
+    "brand": "Outfitters",
+    "rating": 4.8,
+    "price": 35.00,
+    "availability": "In Stock",
+    "overview_desc": "Insulated water-resistant jacket for extreme cold.",
+    "product_page": {
+      "images": ["kids_jacket.jpg"],
+      "description": "Thick padding and a faux-fur lined hood provide maximum warmth. The outer shell is designed to repel light rain and snow.",
+      "feature_resolution": "Water-Resistant, Faux-Fur Hood, Thermal Lining.",
+      "tags": ["Outerwear", "Winter", "Kids Jacket"],
+      "available_options": { "colors": ["Navy", "Red", "Black"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 9,
+    "name": "Twinkle Toes Tulle Party Dress",
+    "type_filter": "Party Dress Kids",
+    "brand": "Hopscotch",
+    "rating": 4.9,
+    "price": 28.00,
+    "availability": "In Stock",
+    "overview_desc": "Multi-layered tulle dress with sparkling sequins.",
+    "product_page": {
+      "images": ["kids_party_dress.jpg"],
+      "description": "A fairytale-inspired dress with layers of soft tulle. The bodice is adorned with shimmering sequins and a large satin bow at the back.",
+      "feature_resolution": "Multi-layer Tulle, Sequin Accents, Satin Sash.",
+      "tags": ["Formal", "Festive", "Girls Fashion"],
+      "available_options": { "sizes": ["3-4Y", "5-6Y", "7-8Y"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 10,
+    "name": "Cloud-Soft Kids Cotton Pajama Set",
+    "type_filter": "Cotton Pajama Set",
+    "brand": "Mothercare",
+    "rating": 4.7,
+    "price": 14.00,
+    "availability": "In Stock",
+    "overview_desc": "Lightweight 2-piece sleepwear for a restful night.",
+    "product_page": {
+      "images": ["kids_pajamas.jpg"],
+      "description": "Made from 100% fine cotton. The set includes a long-sleeved top and matching elasticated trousers with fun all-over prints.",
+      "feature_resolution": "Elasticated Waist, All-over Print, 100% Cotton.",
+      "tags": ["Sleepwear", "Nightwear", "Kids"],
+      "available_options": { "prints": ["Stars", "Dinosaurs", "Unicorns"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  
+  {
+    "product_id": 11,
+    "name": "Bata Bubblegums Light-Up Sneakers",
+    "type_filter": "Kids Shoes",
+    "brand": "Bata",
+    "rating": 4.8,
+    "price": 20.00,
+    "availability": "In Stock",
+    "overview_desc": "Fun sneakers with LED lights that flash with every step.",
+    "product_page": {
+      "images": ["bata_bubblegums.jpg"],
+      "description": "Part of the iconic Bubblegums range, these shoes feature a durable synthetic upper and a fun light-up outsole that kids love.",
+      "feature_resolution": "LED Outsole, Hook-and-Loop Straps, Scented Soles.",
+      "tags": ["Bata", "Light-up", "Kids Shoes", "Casual"],
+      "available_options": { "sizes": ["24", "26", "28", "30"] },
+      "wishlist": "Available",
+      "reviews": [{"user": "Fatima R.", "rating": 5, "comment": "My son won't take them off! Very sturdy."}],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 12,
+    "name": "Nike Revolution 6 Next Nature Kids",
+    "type_filter": "Kids Sneakers",
+    "brand": "Nike Kids",
+    "rating": 4.9,
+    "price": 45.00,
+    "availability": "In Stock",
+    "overview_desc": "Versatile comfort for little athletes on the move.",
+    "product_page": {
+      "images": ["nike_kids_revolution.jpg"],
+      "description": "Made with at least 20% recycled content by weight. It has a lightweight, breathable design and soft foam for comfort in every stride.",
+      "feature_resolution": "Breathable Mesh, Recycled Materials, Traction Sole.",
+      "tags": ["Nike", "Sneakers", "Athletic", "Eco-Friendly"],
+      "available_options": { "sizes": ["1Y", "2Y", "3Y", "4Y", "5Y"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 13,
+    "name": "Adidas Tensaur Run 2.0 Shoes",
+    "type_filter": "Kids Running Shoes",
+    "brand": "Adidas Kids",
+    "rating": 4.7,
+    "price": 40.00,
+    "availability": "In Stock",
+    "overview_desc": "Durable running shoes designed for all-day playground play.",
+    "product_page": {
+      "images": ["adidas_kids_tensaur.jpg"],
+      "description": "Features a sturdy one-piece EVA unitsole and top straps that make it easy for kids to pull them on and off by themselves.",
+      "feature_resolution": "EVA Unitsole, Hook-and-Loop Closure, Non-Marking Sole.",
+      "tags": ["Adidas", "Running", "Playground", "Kids"],
+      "available_options": { "colors": ["Royal Blue", "Pink", "Core Black"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 14,
+    "name": "Bata School Time Smart Black Shoes",
+    "type_filter": "School Shoes Black",
+    "brand": "Bata",
+    "rating": 4.6,
+    "price": 18.00,
+    "availability": "In Stock",
+    "overview_desc": "Classic black uniform shoes built for durability and shine.",
+    "product_page": {
+      "images": ["bata_school_shoes.jpg"],
+      "description": "Genuine leather upper with a scuff-resistant coating. These shoes provide the support needed for long school days and recess.",
+      "feature_resolution": "Scuff-Resistant, Padded Collar, Easy-Clean Leather.",
+      "tags": ["School", "Bata", "Uniform", "Formal"],
+      "available_options": { "sizes": ["28", "30", "32", "34", "36"] },
+      "wishlist": "Available",
+      "reviews": [{"user": "Hassan B.", "rating": 4, "comment": "Lasts the whole school year easily."}],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 15,
+    "name": "Hopscotch Beach-Ready Kids Sandals",
+    "type_filter": "Casual Kids Sandals",
+    "brand": "Hopscotch",
+    "rating": 4.4,
+    "price": 12.00,
+    "availability": "In Stock",
+    "overview_desc": "Water-friendly sandals with adjustable straps for summer fun.",
+    "product_page": {
+      "images": ["kids_sandals.jpg"],
+      "description": "Lightweight EVA footbed that provides cushioning. The quick-dry straps make these perfect for the pool, beach, or park.",
+      "feature_resolution": "Quick-Dry Material, Flexible Sole, Adjustable Velcro.",
+      "tags": ["Sandals", "Summer", "Casual", "Beach"],
+      "available_options": { "sizes": ["22", "24", "26", "28"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 16,
+    "name": "Disney Mickey Mouse 3D School Bag",
+    "type_filter": "School Bag",
+    "brand": "Disney",
+    "rating": 4.9,
+    "price": 25.00,
+    "availability": "In Stock",
+    "overview_desc": "Spacious backpack featuring a 3D molded Mickey Mouse design.",
+    "product_page": {
+      "images": ["disney_mickey_bag.jpg"],
+      "description": "This backpack features two main compartments, side mesh pockets for bottles, and padded shoulder straps for ergonomic carrying.",
+      "feature_resolution": "3D Molded Front, Padded Straps, Water-Resistant Fabric.",
+      "tags": ["Disney", "School Bag", "Mickey Mouse", "Backpack"],
+      "available_options": { "characters": ["Mickey", "Elsa", "Spider-Man"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 17,
+    "name": "Hero Squad Cartoon Lunch Box",
+    "type_filter": "Cartoon Lunch Box",
+    "brand": "Kids Essentials",
+    "rating": 4.5,
+    "price": 7.00,
+    "availability": "In Stock",
+    "overview_desc": "BPA-free insulated lunch box with popular character prints.",
+    "product_page": {
+      "images": ["cartoon_lunchbox.jpg"],
+      "description": "Keeps food fresh for hours. Features an easy-to-open clip and a separate compartment for snacks or fruit.",
+      "feature_resolution": "BPA-Free, Insulated, Microwave Safe.",
+      "tags": ["Lunch", "School", "Accessories", "Kids"],
+      "available_options": { "colors": ["Blue", "Green", "Pink"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 18,
+    "name": "Tuff-Sip Kids Leak-Proof Water Bottle",
+    "type_filter": "Water Bottle Kids",
+    "brand": "Local Premium",
+    "rating": 4.6,
+    "price": 5.50,
+    "availability": "In Stock",
+    "overview_desc": "Durable, easy-grip bottle with a pop-up straw.",
+    "product_page": {
+      "images": ["kids_water_bottle.jpg"],
+      "description": "Designed for small hands, this bottle features a carry loop and a leak-proof lid. Fits most school bag side pockets.",
+      "feature_resolution": "Leak-Proof, Pop-up Straw, Impact Resistant.",
+      "tags": ["Hydration", "School", "Kids Accessories"],
+      "available_options": { "capacity": ["400ml", "600ml"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 19,
+    "name": "Disney Frozen Elsa Embroidered Cap",
+    "type_filter": "Cap Cartoon Print",
+    "brand": "Disney",
+    "rating": 4.7,
+    "price": 8.00,
+    "availability": "In Stock",
+    "overview_desc": "Sun protection cap with beautiful character embroidery.",
+    "product_page": {
+      "images": ["disney_cap.jpg"],
+      "description": "Adjustable snapback closure ensures a perfect fit. Features glittery details and high-quality character art from Disney's Frozen.",
+      "feature_resolution": "Adjustable Snapback, Breathable Mesh Back, Glitter Finish.",
+      "tags": ["Disney", "Cap", "Summer", "Girls"],
+      "available_options": { "sizes": ["One Size (Kids)"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 20,
+    "name": "Skmei Kids Colorful Digital Watch",
+    "type_filter": "Kids Watch Digital",
+    "brand": "Skmei",
+    "rating": 4.8,
+    "price": 12.00,
+    "availability": "In Stock",
+    "overview_desc": "Waterproof digital watch with colorful LED backlight.",
+    "product_page": {
+      "images": ["kids_digital_watch.jpg"],
+      "description": "A perfect first watch for kids. Includes alarm, stopwatch, and calendar functions. Built to withstand splashes and playground rough-and-tumble.",
+      "feature_resolution": "5ATM Waterproof, Alarm/Stopwatch, 7-Color LED.",
+      "tags": ["Watch", "Digital", "Kids Gear", "Durable"],
+      "available_options": { "colors": ["Blue", "Red", "Yellow", "Purple"] },
+      "wishlist": "Available",
+      "reviews": [{"user": "Zahid M.", "rating": 5, "comment": "Tough watch, my son loves the light-up colors."}],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  }
+
+]

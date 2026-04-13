@@ -1,0 +1,402 @@
+[
+  {
+    "product_id": 1,
+    "name": "Maybelline Fit Me Matte + Poreless Foundation",
+    "type_filter": "Foundation",
+    "brand": "Maybelline",
+    "rating": 4.8,
+    "price": 12.00,
+    "availability": "In Stock",
+    "overview_desc": "Ultra-lightweight foundation that absorbs oil for a natural matte finish.",
+    "product_page": {
+      "images": ["maybelline_fitme_foundation.jpg"],
+      "description": "Ideal for normal to oily skin, this exclusive formula features micro-powders to control shine and blur pores.",
+      "feature_resolution": "Mattifying, Pore-Blurring, All-Day Wear.",
+      "tags": ["Foundation", "Matte", "Maybelline"],
+      "available_options": { "shades": ["115 Ivory", "128 Warm Nude", "220 Natural Beige", "330 Mocha"] },
+      "wishlist": "Available",
+      "reviews": [{"user": "Sana E.", "rating": 5, "comment": "The only foundation that doesn't look cakey!"}],
+      "shipping_methods": ["Standard", "Express"]
+    }
+  },
+  {
+    "product_id": 2,
+    "name": "Maybelline Lash Sensational Sky High Mascara",
+    "type_filter": "Mascara",
+    "brand": "Maybelline",
+    "rating": 4.9,
+    "price": 11.00,
+    "availability": "In Stock",
+    "overview_desc": "Sky high lash impact from every angle.",
+    "product_page": {
+      "images": ["maybelline_sky_high.jpg"],
+      "description": "Delivers full volume and limitless length. Exclusive Flex Tower mascara brush bends to volumize and extend every single lash.",
+      "feature_resolution": "Waterproof, Bamboo Extract, Volumizing.",
+      "tags": ["Mascara", "Eyes", "Maybelline", "Long-Wear"],
+      "available_options": { "versions": ["Waterproof Blackest Black", "Washable Very Black"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 3,
+    "name": "Maybelline SuperStay Matte Ink Liquid Lipstick",
+    "type_filter": "Lipstick",
+    "brand": "Maybelline",
+    "rating": 4.7,
+    "price": 9.50,
+    "availability": "In Stock",
+    "overview_desc": "Intense ink color concentration with a flawless matte finish.",
+    "product_page": {
+      "images": ["maybelline_matte_ink.jpg"],
+      "description": "This highly pigmented liquid matte lipstick features a unique arrow applicator for precise application. Up to 16 hours of wear.",
+      "feature_resolution": "16H Wear, Smudge-Proof, High Pigment.",
+      "tags": ["Lipstick", "Matte", "Long-Lasting"],
+      "available_options": { "shades": ["Pioneer", "Lover", "Seductress", "Loyalist"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 4,
+    "name": "L’Oréal Paris True Match Liquid Foundation",
+    "type_filter": "Foundation",
+    "brand": "L’Oréal",
+    "rating": 4.7,
+    "price": 15.00,
+    "availability": "In Stock",
+    "overview_desc": "Skin-matching foundation that provides a natural, skin-like finish.",
+    "product_page": {
+      "images": ["loreal_true_match.jpg"],
+      "description": "Formulated with up to 6 pigments for our most precise match. Hyaluronic Acid enriched to improve skin quality in 2 weeks.",
+      "feature_resolution": "Hyaluronic Acid, SPF 17, Non-Comedogenic.",
+      "tags": ["Foundation", "Loreal", "Hydrating"],
+      "available_options": { "shades": ["1.N Ivory", "3.W Golden Beige", "5.D Sand"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 5,
+    "name": "L’Oréal Infallible Full Wear Concealer",
+    "type_filter": "Concealer",
+    "brand": "L’Oréal",
+    "rating": 4.8,
+    "price": 13.00,
+    "availability": "In Stock",
+    "overview_desc": "High-coverage formula with a lightweight, matte finish.",
+    "product_page": {
+      "images": ["loreal_concealer.jpg"],
+      "description": "Our extra-large applicator provides maximum coverage in one stroke for dark circles, acne scars, and discoloration.",
+      "feature_resolution": "24H Full Coverage, Waterproof, Non-Greasy.",
+      "tags": ["Concealer", "Face", "Loreal"],
+      "available_options": { "shades": ["Vanilla", "Cashew", "Honey"] },
+      "wishlist": "Available",
+      "reviews": [{"user": "Zainab T.", "rating": 5, "comment": "Better than high-end brands!"}],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 6,
+    "name": "MAC Matte Lipstick - Ruby Woo",
+    "type_filter": "Lipstick",
+    "brand": "MAC",
+    "rating": 4.9,
+    "price": 23.00,
+    "availability": "Limited Stock",
+    "overview_desc": "The iconic retro-matte red that defines classic beauty.",
+    "product_page": {
+      "images": ["mac_ruby_woo.jpg"],
+      "description": "A long-wearing lipstick formula with intense color payoff and a completely matte finish. The world's most famous blue-red.",
+      "feature_resolution": "Retro Matte Finish, 8-Hour Wear, Smudge-Proof.",
+      "tags": ["Lipstick", "MAC", "Iconic", "Red Lipstick"],
+      "available_options": { "weight": ["3g"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard", "Express"]
+    }
+  },
+  {
+    "product_id": 7,
+    "name": "MAC Studio Fix Fluid Foundation SPF 15",
+    "type_filter": "Foundation",
+    "brand": "MAC",
+    "rating": 4.8,
+    "price": 39.00,
+    "availability": "In Stock",
+    "overview_desc": "Modern foundation with a natural matte finish and broad-spectrum protection.",
+    "product_page": {
+      "images": ["mac_studio_fix.jpg"],
+      "description": "Combines a matte finish and medium-to-full buildable coverage with broad spectrum SPF 15 protection. Applies and blends easily.",
+      "feature_resolution": "24H Wear, Controls Oil, Sweat-Resistant.",
+      "tags": ["Professional", "MAC", "Foundation"],
+      "available_options": { "shades": ["NC20", "NC25", "NC35", "NC42"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Insured Shipping"]
+    }
+  },
+  {
+    "product_id": 8,
+    "name": "Revlon Super Lustrous Lipstick",
+    "type_filter": "Lipstick",
+    "brand": "Revlon",
+    "rating": 4.6,
+    "price": 10.50,
+    "availability": "In Stock",
+    "overview_desc": "Infused with Vitamin E and Avocado Oil for creamy comfort.",
+    "product_page": {
+      "images": ["revlon_lustrous_lipstick.jpg"],
+      "description": "Vibrant color that feels lightweight and moisturizing. Uses micro-fine pigments so the shades are rich but the feel is light.",
+      "feature_resolution": "Moisturizing, High-Impact Color, Cream Finish.",
+      "tags": ["Lipstick", "Revlon", "Moisturizing"],
+      "available_options": { "shades": ["Fire & Ice", "Black Cherry", "Nude Attitude"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 9,
+    "name": "Revlon ColorStay Longwear Makeup",
+    "type_filter": "Foundation",
+    "brand": "Revlon",
+    "rating": 4.5,
+    "price": 14.00,
+    "availability": "In Stock",
+    "overview_desc": "24-hour wear foundation for a flawless, natural finish.",
+    "product_page": {
+      "images": ["revlon_colorstay.jpg"],
+      "description": "Oil-free foundation that stays flawless for up to 24 hours. Formulated with Hyaluronic Acid to hydrate skin for a natural glow.",
+      "feature_resolution": "SPF 20, Transfer-Resistant, Oil-Free.",
+      "tags": ["Foundation", "Revlon", "Long-Wear"],
+      "available_options": { "finish": ["Combination/Oily", "Normal/Dry"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 10,
+    "name": "Masarrat Misbah Silk Foundation (BB Cream Style)",
+    "type_filter": "BB Cream",
+    "brand": "Masarrat Misbah",
+    "rating": 4.9,
+    "price": 18.50,
+    "availability": "In Stock",
+    "overview_desc": "Specifically formulated for South Asian skin tones with a silky finish.",
+    "product_page": {
+      "images": ["mm_silk_foundation.jpg"],
+      "description": "A high-performance foundation that mimics the look of healthy skin. It provides a luminous glow while evening out imperfections.",
+      "feature_resolution": "Halal Certified, Silk Finish, Weightless Feel.",
+      "tags": ["BB Cream", "Masarrat Misbah", "Halal Makeup"],
+      "available_options": { "shades": ["Ivory", "Almond", "Beige", "Mocha"] },
+      "wishlist": "Available",
+      "reviews": [{"user": "Mariam A.", "rating": 5, "comment": "Best match for my skin tone ever."}],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 11,
+    "name": "Maybelline Hyper Precise All Day Eyeliner",
+    "type_filter": "Eyeliner",
+    "brand": "Maybelline",
+    "rating": 4.7,
+    "price": 8.00,
+    "availability": "In Stock",
+    "overview_desc": "Ultra-fine liquid eyeliner for precise lines.",
+    "product_page": {
+      "images": ["maybelline_eyeliner.jpg"],
+      "description": "The 0.4mm tip gives you ultimate control. Waterproof and smudge-proof formula that lasts all day.",
+      "feature_resolution": "Felt-Tip, 24H Wear, Smudge-Proof.",
+      "tags": ["Eyeliner", "Eyes", "Maybelline"],
+      "available_options": { "colors": ["Matte Black"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 12,
+    "name": "L’Oréal Paris Volume Million Lashes Mascara",
+    "type_filter": "Mascara",
+    "brand": "L’Oréal",
+    "rating": 4.6,
+    "price": 12.50,
+    "availability": "In Stock",
+    "overview_desc": "Millionizer brush for volume and defined lashes.",
+    "product_page": {
+      "images": ["loreal_million_lashes.jpg"],
+      "description": "Each lash is coated evenly for a volumized look without clumps. Built-in wiper removes excess mascara.",
+      "feature_resolution": "Clump-Free, Volumizing, High Definition.",
+      "tags": ["Mascara", "Loreal", "Beauty"],
+      "available_options": { "versions": ["Black", "Extra Black"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 13,
+    "name": "MAC Powder Blush",
+    "type_filter": "Blush",
+    "brand": "MAC",
+    "rating": 4.8,
+    "price": 28.00,
+    "availability": "In Stock",
+    "overview_desc": "Professional-grade blush with a range of high-pigment finishes.",
+    "product_page": {
+      "images": ["mac_blush.jpg"],
+      "description": "Designed by and for professionals, formulated to provide fantastic color with ease and consistency. Blends evenly.",
+      "feature_resolution": "Dermatologist Tested, Non-Acnegenic, Fine-Milled.",
+      "tags": ["Blush", "MAC", "Face Makeup"],
+      "available_options": { "shades": ["Melba", "Peaches", "Pinch Me"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard", "Express"]
+    }
+  },
+  {
+    "product_id": 14,
+    "name": "Revlon Super Lustrous Nail Enamel",
+    "type_filter": "Nail Polish",
+    "brand": "Revlon",
+    "rating": 4.4,
+    "price": 6.50,
+    "availability": "In Stock",
+    "overview_desc": "Chip-resistant nail color in classic and trendy shades.",
+    "product_page": {
+      "images": ["revlon_nail_polish.jpg"],
+      "description": "Anti-fade technology helps color stay vibrant longer. Silk-protein formula evening out the nail surface.",
+      "feature_resolution": "Chip-Defiant, Smooth Application, DBP Free.",
+      "tags": ["Nails", "Revlon", "Polish"],
+      "available_options": { "shades": ["Ravish Me Red", "Pure Pearl", "Teak Rose"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 15,
+    "name": "Maybelline Baby Skin Instant Pore Eraser",
+    "type_filter": "Primer",
+    "brand": "Maybelline",
+    "rating": 4.5,
+    "price": 9.00,
+    "availability": "In Stock",
+    "overview_desc": "Clear primer that blurs pores for a smooth skin feel.",
+    "product_page": {
+      "images": ["maybelline_primer.jpg"],
+      "description": "Leaves skin with a smooth matte finish. Lightweight and breathable formula.",
+      "feature_resolution": "Pore-Blurring, Matte Finish, Lightweight.",
+      "tags": ["Primer", "Maybelline", "Base"],
+      "available_options": { "weight": ["20ml"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 16,
+    "name": "L’Oréal Glow Mon Amour Highlighting Drops",
+    "type_filter": "Highlighter",
+    "brand": "L’Oréal",
+    "rating": 4.7,
+    "price": 14.00,
+    "availability": "In Stock",
+    "overview_desc": "Highly pigmented liquid highlighter for a luminous glow.",
+    "product_page": {
+      "images": ["loreal_highlighter.jpg"],
+      "description": "Infused with coconut oil, these drops can be mixed with foundation or applied directly to high points of the face.",
+      "feature_resolution": "Liquid Formula, Versatile Use, Dewy Finish.",
+      "tags": ["Highlighter", "Loreal", "Glow"],
+      "available_options": { "shades": ["Champagne", "Rose Gold"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 17,
+    "name": "MAC Eye Brows Styler",
+    "type_filter": "Eyebrow Pencil",
+    "brand": "MAC",
+    "rating": 4.8,
+    "price": 22.00,
+    "availability": "In Stock",
+    "overview_desc": "Self-sharpening, water-resistant brow pencil with a spoolie.",
+    "product_page": {
+      "images": ["mac_eyebrow_pencil.jpg"],
+      "description": "Provides grooming, shape, and color. Mimics fine hair strokes for a natural look.",
+      "feature_resolution": "12H Wear, Smudge-Proof, Spoolie Included.",
+      "tags": ["Brows", "MAC", "Eye Makeup"],
+      "available_options": { "shades": ["Spiked", "Brunette", "Fling"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 18,
+    "name": "Masarrat Misbah Lip Tint",
+    "type_filter": "Lip Tint",
+    "brand": "Masarrat Misbah",
+    "rating": 4.6,
+    "price": 12.00,
+    "availability": "In Stock",
+    "overview_desc": "Lightweight stain for natural-looking lips and cheeks.",
+    "product_page": {
+      "images": ["mm_lip_tint.jpg"],
+      "description": "A long-lasting stain that blends easily for a healthy flush of color.",
+      "feature_resolution": "Dual Use (Lips/Cheeks), Long-Lasting, Halal.",
+      "tags": ["Lip Tint", "Masarrat Misbah", "Natural Look"],
+      "available_options": { "shades": ["Berry", "Peach"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 19,
+    "name": "Revlon ColorStay Pressed Powder",
+    "type_filter": "Compact Powder",
+    "brand": "Revlon",
+    "rating": 4.7,
+    "price": 11.50,
+    "availability": "In Stock",
+    "overview_desc": "Ultra-fine powder that eliminates shine for 16 hours.",
+    "product_page": {
+      "images": ["revlon_compact.jpg"],
+      "description": "Lightweight and non-drying, this powder won't clog pores or settle into lines. Perfect over foundation or bare skin.",
+      "feature_resolution": "16H Wear, Shine Control, Puff Included.",
+      "tags": ["Powder", "Revlon", "Matte Finish"],
+      "available_options": { "shades": ["Fair", "Light", "Medium"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 20,
+    "name": "Maybelline Lasting Fix Setting Spray",
+    "type_filter": "Setting Spray",
+    "brand": "Maybelline",
+    "rating": 4.8,
+    "price": 12.00,
+    "availability": "In Stock",
+    "overview_desc": "Lock in your look for up to 16 hours with a matte finish.",
+    "product_page": {
+      "images": ["maybelline_setting_spray.jpg"],
+      "description": "A fine mist that prevents makeup from fading or smudging. Controls shine for a long-lasting matte effect.",
+      "feature_resolution": "16H Hold, Oil-Control, Translucent.",
+      "tags": ["Setting Spray", "Maybelline", "Finish"],
+      "available_options": { "weight": ["100ml"] },
+      "wishlist": "Available",
+      "reviews": [{"user": "Komal S.", "rating": 5, "comment": "Makeup stays put in the humidity!"}],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  }
+]

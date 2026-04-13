@@ -1,0 +1,604 @@
+[
+  {
+    "product_id": 1,
+    "name": "Khaadi Ethnic Printed Cotton Kurti",
+    "type_filter": "Printed Kurti",
+    "brand": "Khaadi",
+    "rating": 4.7,
+    "price": 25.00,
+    "availability": "In Stock",
+    "overview_desc": "A vibrant, daily-wear kurti featuring traditional block-print motifs.",
+    "product_page": {
+      "images": ["khaadi_printed_kurti.jpg"],
+      "description": "Crafted from breathable lawn cotton, this straight-cut kurti features a band collar and intricate floral patterns inspired by regional heritage.",
+      "feature_resolution": "100% Breathable Cotton, Color-Fast Fabric, Regular Fit.",
+      "tags": ["Ethnic Wear", "Khaadi", "Daily Wear", "Kurtas"],
+      "available_options": { "sizes": ["XS", "S", "M", "L", "XL"] },
+      "wishlist": "Available",
+      "reviews": [{"user": "Mariam H.", "rating": 5, "comment": "The fabric quality is amazing for the price."}],
+      "shipping_methods": ["Standard", "Express"]
+    }
+  },
+  {
+    "product_id": 2,
+    "name": "Zara Flowy Satin Maxi Dress",
+    "type_filter": "Maxi Dress",
+    "brand": "Zara",
+    "rating": 4.8,
+    "price": 89.00,
+    "availability": "In Stock",
+    "overview_desc": "An elegant, long-line silhouette with a subtle sheen.",
+    "product_page": {
+      "images": ["zara_maxi_dress.jpg"],
+      "description": "This V-neck maxi dress features thin adjustable straps and a side slit, perfect for summer evenings or vacation wear.",
+      "feature_resolution": "Satin Finish, Adjustable Straps, Side Zip.",
+      "tags": ["Maxi", "Zara", "Summer Fashion", "Elegant"],
+      "available_options": { "colors": ["Emerald Green", "Midnight Black"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 3,
+    "name": "H&M Ribbed Jersey Casual Top",
+    "type_filter": "Casual Top",
+    "brand": "H&M",
+    "rating": 4.5,
+    "price": 12.99,
+    "availability": "In Stock",
+    "overview_desc": "A versatile, soft-ribbed top for effortless layering.",
+    "product_page": {
+      "images": ["hm_casual_top.jpg"],
+      "description": "Short-sleeved top in soft organic cotton jersey with a ribbed texture and a slightly fitted silhouette.",
+      "feature_resolution": "Organic Cotton, Stretch Fit, Sustainable Materials.",
+      "tags": ["Basics", "H&M", "Casual", "Tops"],
+      "available_options": { "sizes": ["XS", "S", "M", "L"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 4,
+    "name": "Limelight Unstitched 3PC Lawn Suit",
+    "type_filter": "Lawn Suit",
+    "brand": "Limelight",
+    "rating": 4.6,
+    "price": 35.00,
+    "availability": "In Stock",
+    "overview_desc": "A complete summer ensemble with a printed dupatta and shirt.",
+    "product_page": {
+      "images": ["limelight_lawn_3pc.jpg"],
+      "description": "Includes a printed lawn shirt, dyed trousers, and a lightweight chiffon dupatta with contemporary geometric patterns.",
+      "feature_resolution": "High-Quality Lawn, Unstitched, Chiffon Dupatta.",
+      "tags": ["Lawn", "Limelight", "Unstitched", "Traditional"],
+      "available_options": { "shades": ["Summer Blue", "Pastel Pink"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 5,
+    "name": "Sana Safinaz Muzlin Embroidered Dress",
+    "type_filter": "Embroidered Dress",
+    "brand": "Sana Safinaz",
+    "rating": 4.9,
+    "price": 65.00,
+    "availability": "Limited Stock",
+    "overview_desc": "Exquisite embroidery on premium fabric for a sophisticated look.",
+    "product_page": {
+      "images": ["ss_embroidered_dress.jpg"],
+      "description": "A luxury lawn shirt featuring heavy threadwork on the neckline and daman, paired with lace-detailed trousers.",
+      "feature_resolution": "Intricate Embroidery, Designer Cut, Premium Lawn.",
+      "tags": ["Designer Wear", "Sana Safinaz", "Luxury", "Party Wear"],
+      "available_options": { "sizes": ["S", "M", "L"] },
+      "wishlist": "Available",
+      "reviews": [{"user": "Zainab A.", "rating": 5, "comment": "Beautiful detailing and perfect for events."}],
+      "shipping_methods": ["Insured Shipping", "Express"]
+    }
+  },
+  {
+    "product_id": 6,
+    "name": "Khaadi Jacquard Winter Shawl",
+    "type_filter": "Winter Shawl",
+    "brand": "Khaadi",
+    "rating": 4.8,
+    "price": 40.00,
+    "availability": "In Stock",
+    "overview_desc": "Warm and cozy wrap with a sophisticated jacquard weave.",
+    "product_page": {
+      "images": ["khaadi_shawl.jpg"],
+      "description": "Large rectangular shawl crafted from a wool blend, featuring traditional motifs and fringe detailing at the borders.",
+      "feature_resolution": "Wool Blend, Oversized, Jacquard Patterns.",
+      "tags": ["Winter", "Khaadi", "Accessories", "Shawls"],
+      "available_options": { "colors": ["Maroon", "Charcoal", "Beige"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 7,
+    "name": "Zara Sequined Party Dress",
+    "type_filter": "Party Dress",
+    "brand": "Zara",
+    "rating": 4.7,
+    "price": 120.00,
+    "availability": "In Stock",
+    "overview_desc": "A shimmering mini dress designed for night-out glamour.",
+    "product_page": {
+      "images": ["zara_sequin_dress.jpg"],
+      "description": "Round neck dress with long sleeves and sequin appliqués. Features an inner lining for comfort and a back zip closure.",
+      "feature_resolution": "Full Sequins, Stretch Lining, Glamorous Cut.",
+      "tags": ["Evening Wear", "Zara", "Party", "Glitter"],
+      "available_options": { "sizes": ["XS", "S", "M"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Express Shipping"]
+    }
+  },
+  {
+    "product_id": 8,
+    "name": "H&M Skinny High Waist Jeans",
+    "type_filter": "Jeans",
+    "brand": "H&M",
+    "rating": 4.4,
+    "price": 29.99,
+    "availability": "In Stock",
+    "overview_desc": "Classic 5-pocket jeans in extra-stretch denim.",
+    "product_page": {
+      "images": ["hm_skinny_jeans.jpg"],
+      "description": "High-waisted jeans in washed denim with a tight fit and tapered legs. Features a zip fly and button closure.",
+      "feature_resolution": "Super Stretch, High Rise, Sustainable Cotton.",
+      "tags": ["Denim", "H&M", "Casual", "Bottoms"],
+      "available_options": { "waist": ["26", "28", "30", "32"], "colors": ["Denim Blue", "Black"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 9,
+    "name": "Limelight Ready-to-Wear 2PC Suit",
+    "type_filter": "2PC Suit",
+    "brand": "Limelight",
+    "rating": 4.6,
+    "price": 42.00,
+    "availability": "In Stock",
+    "overview_desc": "A coordinated shirt and trouser set for a polished look.",
+    "product_page": {
+      "images": ["limelight_2pc.jpg"],
+      "description": "Pre-stitched cambric cotton set featuring a digital print shirt and matching straight-leg trousers.",
+      "feature_resolution": "Ready-to-Wear, Digital Print, Cambric Cotton.",
+      "tags": ["Co-ords", "Limelight", "Office Wear", "Pret"],
+      "available_options": { "sizes": ["S", "M", "L"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 10,
+    "name": "Sana Safinaz Luxury Chiffon Formal",
+    "type_filter": "Formal Dress",
+    "brand": "Sana Safinaz",
+    "rating": 5.0,
+    "price": 150.00,
+    "availability": "In Stock",
+    "overview_desc": "A heavy-duty festive dress with hand-worked embellishments.",
+    "product_page": {
+      "images": ["ss_formal_chiffon.jpg"],
+      "description": "This formal ensemble features a pure chiffon base with zardozi and kora work. Includes an embroidered dupatta and silk slip.",
+      "feature_resolution": "Hand-crafted, Pure Chiffon, Festive Embroidery.",
+      "tags": ["Wedding Wear", "Sana Safinaz", "Formal", "Luxury"],
+      "available_options": { "customization": ["Standard Size", "Made to Measure"] },
+      "wishlist": "Available",
+      "reviews": [{"user": "Amna R.", "rating": 5, "comment": "Absolute perfection for a wedding guest look."}],
+      "shipping_methods": ["Insured Express Shipping"]
+    }
+  },
+  {
+    "product_id": 11,
+    "name": "Bata Red Label Block Heels",
+    "type_filter": "Heels",
+    "brand": "Bata",
+    "rating": 4.7,
+    "price": 38.00,
+    "availability": "In Stock",
+    "overview_desc": "Stylish and stable block heels for all-day comfort.",
+    "product_page": {
+      "images": ["bata_block_heels.jpg"],
+      "description": "Features a cushioned footbed and a 2.5-inch block heel. The pointed-toe design adds a professional touch to any outfit.",
+      "feature_resolution": "Cushioned Insole, 2.5-inch Heel, Anti-Slip Sole.",
+      "tags": ["Footwear", "Bata", "Office Wear", "Heels"],
+      "available_options": { "sizes": ["36", "37", "38", "39", "40"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 12,
+    "name": "Servis Be-One Comfort Flats",
+    "type_filter": "Flats",
+    "brand": "Servis",
+    "rating": 4.5,
+    "price": 15.00,
+    "availability": "In Stock",
+    "overview_desc": "Lightweight and flexible flats for daily commutes.",
+    "product_page": {
+      "images": ["servis_flats.jpg"],
+      "description": "Soft synthetic upper with a decorative buckle. These flats offer a snug fit and a durable rubber sole for urban walking.",
+      "feature_resolution": "Flexible Sole, Lightweight, Easy Slip-on.",
+      "tags": ["Casual", "Servis", "Daily Wear", "Flats"],
+      "available_options": { "colors": ["Nude", "Navy Blue", "Black"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 13,
+    "name": "Zara Strappy Leather Sandals",
+    "type_filter": "Sandals",
+    "brand": "Zara",
+    "rating": 4.6,
+    "price": 49.00,
+    "availability": "In Stock",
+    "overview_desc": "Minimalist leather sandals with thin straps and a square toe.",
+    "product_page": {
+      "images": ["zara_sandals.jpg"],
+      "description": "High-quality leather sandals featuring a buckle fastening at the ankle and a flat profile. A timeless summer essential.",
+      "feature_resolution": "Genuine Leather, Square Toe, Buckle Fastening.",
+      "tags": ["Zara", "Sandals", "Leather", "Minimalist"],
+      "available_options": { "sizes": ["37", "38", "39", "40"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 14,
+    "name": "Elegance Pointed Stiletto Pumps",
+    "type_filter": "Heeled Pumps",
+    "brand": "Fashionista",
+    "rating": 4.8,
+    "price": 55.00,
+    "availability": "In Stock",
+    "overview_desc": "Classic stilettos that offer a sharp and elongated silhouette.",
+    "product_page": {
+      "images": ["heeled_pumps.jpg"],
+      "description": "4-inch stiletto heels with a high-shine finish. Ideal for formal dinners, corporate meetings, and events.",
+      "feature_resolution": "4-inch Heel, Slim Profile, Synthetic Patent Leather.",
+      "tags": ["Formal", "Heels", "Pumps", "High Heels"],
+      "available_options": { "colors": ["Classic Red", "Black", "Beige"] },
+      "wishlist": "Available",
+      "reviews": [{"user": "Kiran L.", "rating": 4, "comment": "Very high, but look stunning!"}],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 15,
+    "name": "Urban Walk Casual Slip-ons",
+    "type_filter": "Casual Slip-ons",
+    "brand": "Foot-Relief",
+    "rating": 4.4,
+    "price": 22.00,
+    "availability": "In Stock",
+    "overview_desc": "Breathable mesh slip-ons for walking and leisure.",
+    "product_page": {
+      "images": ["casual_slipons.jpg"],
+      "description": "Memory foam insoles and a flexible mesh upper ensure comfort during long hours of standing or walking.",
+      "feature_resolution": "Memory Foam, Breathable Mesh, Machine Washable.",
+      "tags": ["Casual", "Walking", "Comfort"],
+      "available_options": { "sizes": ["36", "37", "38", "39", "40", "41"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 16,
+    "name": "J. Quilted Leather Handbag",
+    "type_filter": "Handbag",
+    "brand": "J.",
+    "rating": 4.9,
+    "price": 75.00,
+    "availability": "In Stock",
+    "overview_desc": "A structured handbag with a classic quilted pattern.",
+    "product_page": {
+      "images": ["j_handbag.jpg"],
+      "description": "Features a gold-tone twist-lock closure and a chain-link shoulder strap. Includes multiple internal compartments for organization.",
+      "feature_resolution": "Vegan Leather, Gold-tone Hardware, Multi-compartment.",
+      "tags": ["J. Accessories", "Handbag", "Luxury", "Classic"],
+      "available_options": { "colors": ["Black", "Champagne Gold"] },
+      "wishlist": "Available",
+      "reviews": [{"user": "Sana P.", "rating": 5, "comment": "The quality is comparable to high-end luxury brands."}],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 17,
+    "name": "Outfitters Nylon Sling Bag",
+    "type_filter": "Sling Bag",
+    "brand": "Outfitters",
+    "rating": 4.6,
+    "price": 20.00,
+    "availability": "In Stock",
+    "overview_desc": "Sporty and functional sling bag for the urban explorer.",
+    "product_page": {
+      "images": ["outfitters_sling.jpg"],
+      "description": "Crafted from durable nylon, this bag features adjustable straps and exterior zip pockets for easy access to essentials.",
+      "feature_resolution": "Durable Nylon, Adjustable Strap, Water-resistant.",
+      "tags": ["Outfitters", "Streetwear", "Bags", "Utility"],
+      "available_options": { "colors": ["Olive Green", "Midnight Black"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 18,
+    "name": "H&M Textured Shoulder Bag",
+    "type_filter": "Shoulder Bag",
+    "brand": "H&M",
+    "rating": 4.5,
+    "price": 35.00,
+    "availability": "In Stock",
+    "overview_desc": "A chic, minimalist bag with a 90s-inspired silhouette.",
+    "product_page": {
+      "images": ["hm_shoulder_bag.jpg"],
+      "description": "Small shoulder bag in textured imitation leather with a short handle and a zip at the top. Perfect for evening outings.",
+      "feature_resolution": "Textured Finish, Zip Closure, Compact Size.",
+      "tags": ["H&M", "Shoulder Bag", "Retro", "Accessories"],
+      "available_options": { "shades": ["Cream", "Croc Black"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 19,
+    "name": "Royal Kundan Jewelry Set",
+    "type_filter": "Jewelry Set",
+    "brand": "Ethnic Gems",
+    "rating": 4.8,
+    "price": 45.00,
+    "availability": "In Stock",
+    "overview_desc": "A traditional jewelry set including a necklace and matching earrings.",
+    "product_page": {
+      "images": ["jewelry_set.jpg"],
+      "description": "Gold-plated set with Kundan stones and pearl drops. Perfect for weddings and formal festive events.",
+      "feature_resolution": "Gold Plated, Kundan Work, Adjustable Length.",
+      "tags": ["Jewelry", "Traditional", "Wedding", "Festive"],
+      "available_options": { "stones": ["Clear Kundan", "Green Emerald Style"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 20,
+    "name": "Chiffon Floral Printed Scarf",
+    "type_filter": "Scarf",
+    "brand": "Bloom",
+    "rating": 4.4,
+    "price": 10.00,
+    "availability": "In Stock",
+    "overview_desc": "A lightweight, airy scarf to complement any outfit.",
+    "product_page": {
+      "images": ["printed_scarf.jpg"],
+      "description": "Made from soft chiffon, this scarf features delicate floral prints and can be worn in multiple styles.",
+      "feature_resolution": "Soft Chiffon, Lightweight, Multi-style.",
+      "tags": ["Accessories", "Scarf", "Floral", "Summer"],
+      "available_options": { "patterns": ["Rose Garden", "Daisy Fields"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  
+  {
+    "product_id": 11,
+    "name": "Bata Red Label Block Heels",
+    "type_filter": "Heels",
+    "brand": "Bata",
+    "rating": 4.7,
+    "price": 38.00,
+    "availability": "In Stock",
+    "overview_desc": "Stylish and stable block heels for all-day comfort.",
+    "product_page": {
+      "images": ["bata_block_heels.jpg"],
+      "description": "Features a cushioned footbed and a 2.5-inch block heel. The pointed-toe design adds a professional touch to any outfit.",
+      "feature_resolution": "Cushioned Insole, 2.5-inch Heel, Anti-Slip Sole.",
+      "tags": ["Footwear", "Bata", "Office Wear", "Heels"],
+      "available_options": { "sizes": ["36", "37", "38", "39", "40"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 12,
+    "name": "Servis Be-One Comfort Flats",
+    "type_filter": "Flats",
+    "brand": "Servis",
+    "rating": 4.5,
+    "price": 15.00,
+    "availability": "In Stock",
+    "overview_desc": "Lightweight and flexible flats for daily commutes.",
+    "product_page": {
+      "images": ["servis_flats.jpg"],
+      "description": "Soft synthetic upper with a decorative buckle. These flats offer a snug fit and a durable rubber sole for urban walking.",
+      "feature_resolution": "Flexible Sole, Lightweight, Easy Slip-on.",
+      "tags": ["Casual", "Servis", "Daily Wear", "Flats"],
+      "available_options": { "colors": ["Nude", "Navy Blue", "Black"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 13,
+    "name": "Zara Strappy Leather Sandals",
+    "type_filter": "Sandals",
+    "brand": "Zara",
+    "rating": 4.6,
+    "price": 49.00,
+    "availability": "In Stock",
+    "overview_desc": "Minimalist leather sandals with thin straps and a square toe.",
+    "product_page": {
+      "images": ["zara_sandals.jpg"],
+      "description": "High-quality leather sandals featuring a buckle fastening at the ankle and a flat profile. A timeless summer essential.",
+      "feature_resolution": "Genuine Leather, Square Toe, Buckle Fastening.",
+      "tags": ["Zara", "Sandals", "Leather", "Minimalist"],
+      "available_options": { "sizes": ["37", "38", "39", "40"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 14,
+    "name": "Elegance Pointed Stiletto Pumps",
+    "type_filter": "Heeled Pumps",
+    "brand": "Fashionista",
+    "rating": 4.8,
+    "price": 55.00,
+    "availability": "In Stock",
+    "overview_desc": "Classic stilettos that offer a sharp and elongated silhouette.",
+    "product_page": {
+      "images": ["heeled_pumps.jpg"],
+      "description": "4-inch stiletto heels with a high-shine finish. Ideal for formal dinners, corporate meetings, and events.",
+      "feature_resolution": "4-inch Heel, Slim Profile, Synthetic Patent Leather.",
+      "tags": ["Formal", "Heels", "Pumps", "High Heels"],
+      "available_options": { "colors": ["Classic Red", "Black", "Beige"] },
+      "wishlist": "Available",
+      "reviews": [{"user": "Kiran L.", "rating": 4, "comment": "Very high, but look stunning!"}],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 15,
+    "name": "Urban Walk Casual Slip-ons",
+    "type_filter": "Casual Slip-ons",
+    "brand": "Foot-Relief",
+    "rating": 4.4,
+    "price": 22.00,
+    "availability": "In Stock",
+    "overview_desc": "Breathable mesh slip-ons for walking and leisure.",
+    "product_page": {
+      "images": ["casual_slipons.jpg"],
+      "description": "Memory foam insoles and a flexible mesh upper ensure comfort during long hours of standing or walking.",
+      "feature_resolution": "Memory Foam, Breathable Mesh, Machine Washable.",
+      "tags": ["Casual", "Walking", "Comfort"],
+      "available_options": { "sizes": ["36", "37", "38", "39", "40", "41"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 16,
+    "name": "J. Quilted Leather Handbag",
+    "type_filter": "Handbag",
+    "brand": "J.",
+    "rating": 4.9,
+    "price": 75.00,
+    "availability": "In Stock",
+    "overview_desc": "A structured handbag with a classic quilted pattern.",
+    "product_page": {
+      "images": ["j_handbag.jpg"],
+      "description": "Features a gold-tone twist-lock closure and a chain-link shoulder strap. Includes multiple internal compartments for organization.",
+      "feature_resolution": "Vegan Leather, Gold-tone Hardware, Multi-compartment.",
+      "tags": ["J. Accessories", "Handbag", "Luxury", "Classic"],
+      "available_options": { "colors": ["Black", "Champagne Gold"] },
+      "wishlist": "Available",
+      "reviews": [{"user": "Sana P.", "rating": 5, "comment": "The quality is comparable to high-end luxury brands."}],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 17,
+    "name": "Outfitters Nylon Sling Bag",
+    "type_filter": "Sling Bag",
+    "brand": "Outfitters",
+    "rating": 4.6,
+    "price": 20.00,
+    "availability": "In Stock",
+    "overview_desc": "Sporty and functional sling bag for the urban explorer.",
+    "product_page": {
+      "images": ["outfitters_sling.jpg"],
+      "description": "Crafted from durable nylon, this bag features adjustable straps and exterior zip pockets for easy access to essentials.",
+      "feature_resolution": "Durable Nylon, Adjustable Strap, Water-resistant.",
+      "tags": ["Outfitters", "Streetwear", "Bags", "Utility"],
+      "available_options": { "colors": ["Olive Green", "Midnight Black"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 18,
+    "name": "H&M Textured Shoulder Bag",
+    "type_filter": "Shoulder Bag",
+    "brand": "H&M",
+    "rating": 4.5,
+    "price": 35.00,
+    "availability": "In Stock",
+    "overview_desc": "A chic, minimalist bag with a 90s-inspired silhouette.",
+    "product_page": {
+      "images": ["hm_shoulder_bag.jpg"],
+      "description": "Small shoulder bag in textured imitation leather with a short handle and a zip at the top. Perfect for evening outings.",
+      "feature_resolution": "Textured Finish, Zip Closure, Compact Size.",
+      "tags": ["H&M", "Shoulder Bag", "Retro", "Accessories"],
+      "available_options": { "shades": ["Cream", "Croc Black"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 19,
+    "name": "Royal Kundan Jewelry Set",
+    "type_filter": "Jewelry Set",
+    "brand": "Ethnic Gems",
+    "rating": 4.8,
+    "price": 45.00,
+    "availability": "In Stock",
+    "overview_desc": "A traditional jewelry set including a necklace and matching earrings.",
+    "product_page": {
+      "images": ["jewelry_set.jpg"],
+      "description": "Gold-plated set with Kundan stones and pearl drops. Perfect for weddings and formal festive events.",
+      "feature_resolution": "Gold Plated, Kundan Work, Adjustable Length.",
+      "tags": ["Jewelry", "Traditional", "Wedding", "Festive"],
+      "available_options": { "stones": ["Clear Kundan", "Green Emerald Style"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 20,
+    "name": "Chiffon Floral Printed Scarf",
+    "type_filter": "Scarf",
+    "brand": "Bloom",
+    "rating": 4.4,
+    "price": 10.00,
+    "availability": "In Stock",
+    "overview_desc": "A lightweight, airy scarf to complement any outfit.",
+    "product_page": {
+      "images": ["printed_scarf.jpg"],
+      "description": "Made from soft chiffon, this scarf features delicate floral prints and can be worn in multiple styles.",
+      "feature_resolution": "Soft Chiffon, Lightweight, Multi-style.",
+      "tags": ["Accessories", "Scarf", "Floral", "Summer"],
+      "available_options": { "patterns": ["Rose Garden", "Daisy Fields"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  }
+
+]

@@ -1,0 +1,605 @@
+[
+  {
+    "product_id": 1,
+    "name": "Nike Dri-FIT Legend Men's Training T-Shirt",
+    "type_filter": "Sports T-Shirt",
+    "brand": "Nike",
+    "rating": 4.8,
+    "price": 30.00,
+    "availability": "In Stock",
+    "overview_desc": "Moisture-wicking fabric designed to keep you cool during intense workouts.",
+    "product_page": {
+      "images": ["nike_dri_fit_tee.jpg"],
+      "description": "The Nike Dri-FIT T-Shirt is made with lightweight, sweat-wicking fabric to help keep you dry and comfortable from your first set to your last.",
+      "feature_resolution": "Dri-FIT Technology, Odor-Resistant Finish, Standard Fit.",
+      "tags": ["Activewear", "Nike", "Training", "Gym"],
+      "available_options": { "sizes": ["S", "M", "L", "XL", "XXL"] },
+      "wishlist": "Available",
+      "reviews": [{"user": "Zaid K.", "rating": 5, "comment": "Perfect fit and very breathable."}],
+      "shipping_methods": ["Standard", "Express"]
+    }
+  },
+  {
+    "product_id": 2,
+    "name": "Adidas AeroReady Essentials Logo Tee",
+    "type_filter": "Training T-Shirt",
+    "brand": "Adidas",
+    "rating": 4.7,
+    "price": 25.00,
+    "availability": "In Stock",
+    "overview_desc": "A classic crewneck tee built for daily comfort and performance.",
+    "product_page": {
+      "images": ["adidas_aeroready_tee.jpg"],
+      "description": "This Adidas training t-shirt manages moisture so you stay dry. The iconic badge of sport on the chest adds a timeless touch to your athletic look.",
+      "feature_resolution": "AeroReady Fabric, Recycled Content, Crewneck.",
+      "tags": ["Adidas", "Training", "Sportswear"],
+      "available_options": { "sizes": ["S", "M", "L", "XL"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 3,
+    "name": "Levi's Men's Trucker Denim Jacket",
+    "type_filter": "Denim Jacket",
+    "brand": "Levi’s",
+    "rating": 4.9,
+    "price": 89.50,
+    "availability": "In Stock",
+    "overview_desc": "The original denim jacket since 1967, a symbol of self-expression.",
+    "product_page": {
+      "images": ["levis_trucker_jacket.jpg"],
+      "description": "Our original Trucker Jacket is a classic. It features a point collar, front button placket, and button-flap chest pockets. It only gets better with wear.",
+      "feature_resolution": "100% Cotton, Non-Stretch, Side Hem Adjusters.",
+      "tags": ["Denim", "Levi's", "Outerwear", "Classic"],
+      "available_options": { "sizes": ["M", "L", "XL"] },
+      "wishlist": "Available",
+      "reviews": [{"user": "Arsalan M.", "rating": 5, "comment": "A timeless piece that goes with everything."}],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 4,
+    "name": "Zara Linen Blend Casual Shirt",
+    "type_filter": "Casual Shirt",
+    "brand": "Zara",
+    "rating": 4.6,
+    "price": 45.00,
+    "availability": "In Stock",
+    "overview_desc": "Breathable linen blend shirt perfect for a relaxed, stylish look.",
+    "product_page": {
+      "images": ["zara_linen_shirt.jpg"],
+      "description": "Shirt made of a linen and cotton blend. Featuring a regular fit, spread collar, and long sleeves with buttoned cuffs.",
+      "feature_resolution": "Linen-Cotton Blend, Regular Fit, Easy-Iron.",
+      "tags": ["Casual", "Zara", "Summer Wear"],
+      "available_options": { "sizes": ["S", "M", "L", "XL"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 5,
+    "name": "Outfitters Graphic Printed T-Shirt",
+    "type_filter": "Printed T-Shirt",
+    "brand": "Outfitters",
+    "rating": 4.5,
+    "price": 18.00,
+    "availability": "In Stock",
+    "overview_desc": "Streetwear-inspired graphic tee with a modern oversized fit.",
+    "product_page": {
+      "images": ["outfitters_graphic_tee.jpg"],
+      "description": "Crafted from soft jersey fabric, this tee features high-density screen printing on the chest and back for an edgy aesthetic.",
+      "feature_resolution": "Oversized Fit, 100% Cotton, Graphic Print.",
+      "tags": ["Streetwear", "Outfitters", "Youth Fashion"],
+      "available_options": { "sizes": ["S", "M", "L"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 6,
+    "name": "Nike Sportswear Club Fleece Hoodie",
+    "type_filter": "Hoodie",
+    "brand": "Nike",
+    "rating": 4.8,
+    "price": 55.00,
+    "availability": "In Stock",
+    "overview_desc": "A wardrobe staple that combines classic style with soft comfort.",
+    "product_page": {
+      "images": ["nike_fleece_hoodie.jpg"],
+      "description": "Brushed-back fleece fabric feels soft and smooth against the skin. Featuring an adjustable hood and kangaroo pocket.",
+      "feature_resolution": "Brushed-back Fleece, Ribbed Cuffs, Adjustable Drawstring.",
+      "tags": ["Nike", "Hoodie", "Athleisure"],
+      "available_options": { "sizes": ["M", "L", "XL", "XXL"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 7,
+    "name": "Adidas 3-Stripes French Terry Sweatshirt",
+    "type_filter": "Sweatshirt",
+    "brand": "Adidas",
+    "rating": 4.7,
+    "price": 50.00,
+    "availability": "In Stock",
+    "overview_desc": "Cozy sweatshirt featuring the iconic 3-stripes down the sleeves.",
+    "product_page": {
+      "images": ["adidas_sweatshirt.jpg"],
+      "description": "A classic pullover made from soft French terry. This sweatshirt is designed for relaxing after a long workout or casual outings.",
+      "feature_resolution": "French Terry, Regular Fit, Ribbed Crewneck.",
+      "tags": ["Adidas", "Sweatshirt", "Classic"],
+      "available_options": { "sizes": ["S", "M", "L", "XL"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 8,
+    "name": "Levi's 511 Slim Fit Men's Jeans",
+    "type_filter": "Slim Fit Jeans",
+    "brand": "Levi’s",
+    "rating": 4.8,
+    "price": 69.00,
+    "availability": "In Stock",
+    "overview_desc": "A modern slim with room to move, perfect for an everyday look.",
+    "product_page": {
+      "images": ["levis_511_jeans.jpg"],
+      "description": "Between a skinny and a straight fit, these jeans are slim through the thigh and leg opening for a long, lean look.",
+      "feature_resolution": "Stretch Denim, Zip Fly, 5-Pocket Styling.",
+      "tags": ["Denim", "Levi's", "Slim Fit"],
+      "available_options": { "waist_sizes": ["30", "32", "34", "36"], "length": ["30", "32"] },
+      "wishlist": "Available",
+      "reviews": [{"user": "Bilal S.", "rating": 4, "comment": "Great fit and quality denim."}],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 9,
+    "name": "Zara Textured Formal Shirt",
+    "type_filter": "Formal Shirt",
+    "brand": "Zara",
+    "rating": 4.7,
+    "price": 59.00,
+    "availability": "In Stock",
+    "overview_desc": "Sharp formal shirt with a textured weave for professional attire.",
+    "product_page": {
+      "images": ["zara_formal_shirt.jpg"],
+      "description": "Slim fit shirt featuring a high-quality cotton construction. Italian collar and long sleeves with double cuffs.",
+      "feature_resolution": "100% Cotton, Slim Fit, Easy-Care.",
+      "tags": ["Formal", "Zara", "Office Wear"],
+      "available_options": { "sizes": ["S", "M", "L", "XL"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 10,
+    "name": "Outfitters Urban Street Hoodie",
+    "type_filter": "Hoodie",
+    "brand": "Outfitters",
+    "rating": 4.6,
+    "price": 35.00,
+    "availability": "In Stock",
+    "overview_desc": "Contemporary street-style hoodie with a comfortable fleece lining.",
+    "product_page": {
+      "images": ["outfitters_hoodie.jpg"],
+      "description": "Designed for the urban explorer, this hoodie features a unique panelled design and a spacious front pocket.",
+      "feature_resolution": "Fleece Lined, Relaxed Fit, Durable Ribbing.",
+      "tags": ["Streetwear", "Outfitters", "Winter Wear"],
+      "available_options": { "sizes": ["S", "M", "L", "XL"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  
+  {
+    "product_id": 1,
+    "name": "Nike Dri-FIT Legend Men's Training T-Shirt",
+    "type_filter": "Sports T-Shirt",
+    "brand": "Nike",
+    "rating": 4.8,
+    "price": 30.00,
+    "availability": "In Stock",
+    "overview_desc": "Moisture-wicking fabric designed to keep you cool during intense workouts.",
+    "product_page": {
+      "images": ["nike_dri_fit_tee.jpg"],
+      "description": "The Nike Dri-FIT T-Shirt is made with lightweight, sweat-wicking fabric to help keep you dry and comfortable from your first set to your last.",
+      "feature_resolution": "Dri-FIT Technology, Odor-Resistant Finish, Standard Fit.",
+      "tags": ["Activewear", "Nike", "Training", "Gym"],
+      "available_options": { "sizes": ["S", "M", "L", "XL", "XXL"] },
+      "wishlist": "Available",
+      "reviews": [{"user": "Zaid K.", "rating": 5, "comment": "Perfect fit and very breathable."}],
+      "shipping_methods": ["Standard", "Express"]
+    }
+  },
+  {
+    "product_id": 2,
+    "name": "Adidas AeroReady Essentials Logo Tee",
+    "type_filter": "Training T-Shirt",
+    "brand": "Adidas",
+    "rating": 4.7,
+    "price": 25.00,
+    "availability": "In Stock",
+    "overview_desc": "A classic crewneck tee built for daily comfort and performance.",
+    "product_page": {
+      "images": ["adidas_aeroready_tee.jpg"],
+      "description": "This Adidas training t-shirt manages moisture so you stay dry. The iconic badge of sport on the chest adds a timeless touch to your athletic look.",
+      "feature_resolution": "AeroReady Fabric, Recycled Content, Crewneck.",
+      "tags": ["Adidas", "Training", "Sportswear"],
+      "available_options": { "sizes": ["S", "M", "L", "XL"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 3,
+    "name": "Levi's Men's Trucker Denim Jacket",
+    "type_filter": "Denim Jacket",
+    "brand": "Levi’s",
+    "rating": 4.9,
+    "price": 89.50,
+    "availability": "In Stock",
+    "overview_desc": "The original denim jacket since 1967, a symbol of self-expression.",
+    "product_page": {
+      "images": ["levis_trucker_jacket.jpg"],
+      "description": "Our original Trucker Jacket is a classic. It features a point collar, front button placket, and button-flap chest pockets. It only gets better with wear.",
+      "feature_resolution": "100% Cotton, Non-Stretch, Side Hem Adjusters.",
+      "tags": ["Denim", "Levi's", "Outerwear", "Classic"],
+      "available_options": { "sizes": ["M", "L", "XL"] },
+      "wishlist": "Available",
+      "reviews": [{"user": "Arsalan M.", "rating": 5, "comment": "A timeless piece that goes with everything."}],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 4,
+    "name": "Zara Linen Blend Casual Shirt",
+    "type_filter": "Casual Shirt",
+    "brand": "Zara",
+    "rating": 4.6,
+    "price": 45.00,
+    "availability": "In Stock",
+    "overview_desc": "Breathable linen blend shirt perfect for a relaxed, stylish look.",
+    "product_page": {
+      "images": ["zara_linen_shirt.jpg"],
+      "description": "Shirt made of a linen and cotton blend. Featuring a regular fit, spread collar, and long sleeves with buttoned cuffs.",
+      "feature_resolution": "Linen-Cotton Blend, Regular Fit, Easy-Iron.",
+      "tags": ["Casual", "Zara", "Summer Wear"],
+      "available_options": { "sizes": ["S", "M", "L", "XL"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 5,
+    "name": "Outfitters Graphic Printed T-Shirt",
+    "type_filter": "Printed T-Shirt",
+    "brand": "Outfitters",
+    "rating": 4.5,
+    "price": 18.00,
+    "availability": "In Stock",
+    "overview_desc": "Streetwear-inspired graphic tee with a modern oversized fit.",
+    "product_page": {
+      "images": ["outfitters_graphic_tee.jpg"],
+      "description": "Crafted from soft jersey fabric, this tee features high-density screen printing on the chest and back for an edgy aesthetic.",
+      "feature_resolution": "Oversized Fit, 100% Cotton, Graphic Print.",
+      "tags": ["Streetwear", "Outfitters", "Youth Fashion"],
+      "available_options": { "sizes": ["S", "M", "L"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 6,
+    "name": "Nike Sportswear Club Fleece Hoodie",
+    "type_filter": "Hoodie",
+    "brand": "Nike",
+    "rating": 4.8,
+    "price": 55.00,
+    "availability": "In Stock",
+    "overview_desc": "A wardrobe staple that combines classic style with soft comfort.",
+    "product_page": {
+      "images": ["nike_fleece_hoodie.jpg"],
+      "description": "Brushed-back fleece fabric feels soft and smooth against the skin. Featuring an adjustable hood and kangaroo pocket.",
+      "feature_resolution": "Brushed-back Fleece, Ribbed Cuffs, Adjustable Drawstring.",
+      "tags": ["Nike", "Hoodie", "Athleisure"],
+      "available_options": { "sizes": ["M", "L", "XL", "XXL"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 7,
+    "name": "Adidas 3-Stripes French Terry Sweatshirt",
+    "type_filter": "Sweatshirt",
+    "brand": "Adidas",
+    "rating": 4.7,
+    "price": 50.00,
+    "availability": "In Stock",
+    "overview_desc": "Cozy sweatshirt featuring the iconic 3-stripes down the sleeves.",
+    "product_page": {
+      "images": ["adidas_sweatshirt.jpg"],
+      "description": "A classic pullover made from soft French terry. This sweatshirt is designed for relaxing after a long workout or casual outings.",
+      "feature_resolution": "French Terry, Regular Fit, Ribbed Crewneck.",
+      "tags": ["Adidas", "Sweatshirt", "Classic"],
+      "available_options": { "sizes": ["S", "M", "L", "XL"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 8,
+    "name": "Levi's 511 Slim Fit Men's Jeans",
+    "type_filter": "Slim Fit Jeans",
+    "brand": "Levi’s",
+    "rating": 4.8,
+    "price": 69.00,
+    "availability": "In Stock",
+    "overview_desc": "A modern slim with room to move, perfect for an everyday look.",
+    "product_page": {
+      "images": ["levis_511_jeans.jpg"],
+      "description": "Between a skinny and a straight fit, these jeans are slim through the thigh and leg opening for a long, lean look.",
+      "feature_resolution": "Stretch Denim, Zip Fly, 5-Pocket Styling.",
+      "tags": ["Denim", "Levi's", "Slim Fit"],
+      "available_options": { "waist_sizes": ["30", "32", "34", "36"], "length": ["30", "32"] },
+      "wishlist": "Available",
+      "reviews": [{"user": "Bilal S.", "rating": 4, "comment": "Great fit and quality denim."}],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 9,
+    "name": "Zara Textured Formal Shirt",
+    "type_filter": "Formal Shirt",
+    "brand": "Zara",
+    "rating": 4.7,
+    "price": 59.00,
+    "availability": "In Stock",
+    "overview_desc": "Sharp formal shirt with a textured weave for professional attire.",
+    "product_page": {
+      "images": ["zara_formal_shirt.jpg"],
+      "description": "Slim fit shirt featuring a high-quality cotton construction. Italian collar and long sleeves with double cuffs.",
+      "feature_resolution": "100% Cotton, Slim Fit, Easy-Care.",
+      "tags": ["Formal", "Zara", "Office Wear"],
+      "available_options": { "sizes": ["S", "M", "L", "XL"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 10,
+    "name": "Outfitters Urban Street Hoodie",
+    "type_filter": "Hoodie",
+    "brand": "Outfitters",
+    "rating": 4.6,
+    "price": 35.00,
+    "availability": "In Stock",
+    "overview_desc": "Contemporary street-style hoodie with a comfortable fleece lining.",
+    "product_page": {
+      "images": ["outfitters_hoodie.jpg"],
+      "description": "Designed for the urban explorer, this hoodie features a unique panelled design and a spacious front pocket.",
+      "feature_resolution": "Fleece Lined, Relaxed Fit, Durable Ribbing.",
+      "tags": ["Streetwear", "Outfitters", "Winter Wear"],
+      "available_options": { "sizes": ["S", "M", "L", "XL"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  
+  {
+    "product_id": 11,
+    "name": "Nike Air Force 1 '07",
+    "type_filter": "Sneakers",
+    "brand": "Nike",
+    "rating": 4.9,
+    "price": 110.00,
+    "availability": "In Stock",
+    "overview_desc": "The radiance lives on in the basketball original with crisp leather and stitched overlays.",
+    "product_page": {
+      "images": ["nike_af1_white.jpg"],
+      "description": "Crossing hardwood comfort with off-court flair, it features Nike Air cushioning and a durable rubber outsole for all-day wear.",
+      "feature_resolution": "Full-grain Leather, Air-Sole Unit, Padded Collar.",
+      "tags": ["Sneakers", "Nike", "Iconic", "Streetwear"],
+      "available_options": { "sizes": ["7", "8", "9", "10", "11", "12"] },
+      "wishlist": "Available",
+      "reviews": [{"user": "Kashif A.", "rating": 5, "comment": "The cleanest shoes in my collection."}],
+      "shipping_methods": ["Standard", "Express"]
+    }
+  },
+  {
+    "product_id": 12,
+    "name": "Adidas Ultraboost Light",
+    "type_filter": "Running Shoes",
+    "brand": "Adidas",
+    "rating": 4.8,
+    "price": 190.00,
+    "availability": "In Stock",
+    "overview_desc": "Experience epic energy with the lightest Ultraboost ever.",
+    "product_page": {
+      "images": ["adidas_ultraboost.jpg"],
+      "description": "Featuring a Light BOOST midsole and a Primeknit+ upper, these shoes provide incredible responsiveness and a sock-like fit for long-distance runs.",
+      "feature_resolution": "Light BOOST Midsole, Continental™ Rubber Outsole, Sustainable Materials.",
+      "tags": ["Running", "Adidas", "Performance", "Boost"],
+      "available_options": { "sizes": ["8", "9", "10", "11"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 13,
+    "name": "Nike Pegasus 40 Running Shoes",
+    "type_filter": "Running Shoes",
+    "brand": "Nike",
+    "rating": 4.7,
+    "price": 130.00,
+    "availability": "In Stock",
+    "overview_desc": "A springy ride for every run, the Peg's familiar, just-for-you feel returns.",
+    "product_page": {
+      "images": ["nike_pegasus.jpg"],
+      "description": "The Pegasus 40 offers neutral support and highly responsive React technology for a smooth transition from heel to toe.",
+      "feature_resolution": "Nike React Foam, Dual Zoom Air Units, Engineered Mesh.",
+      "tags": ["Running", "Nike", "Athletic"],
+      "available_options": { "sizes": ["8", "9", "10", "11", "12"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 14,
+    "name": "Adidas Originals Stan Smith Shoes",
+    "type_filter": "Sneakers",
+    "brand": "Adidas",
+    "rating": 4.8,
+    "price": 100.00,
+    "availability": "In Stock",
+    "overview_desc": "Timeless appeal and effortless style defined by the green heel tab.",
+    "product_page": {
+      "images": ["adidas_stan_smith.jpg"],
+      "description": "Originally made for tennis, this minimalist sneaker has become a fashion staple. Features a smooth synthetic upper and perforated 3-stripes.",
+      "feature_resolution": "Vegan Upper, OrthoLite® Sockliner, Minimalist Design.",
+      "tags": ["Sneakers", "Adidas", "Classic", "Sustainable"],
+      "available_options": { "sizes": ["7", "8", "9", "10", "11"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 15,
+    "name": "Bata Ambassador Oxford Shoes",
+    "type_filter": "Formal Shoes",
+    "brand": "Bata",
+    "rating": 4.6,
+    "price": 45.00,
+    "availability": "In Stock",
+    "overview_desc": "Classic genuine leather oxfords for a sharp professional look.",
+    "product_page": {
+      "images": ["bata_formal_oxford.jpg"],
+      "description": "A must-have for every gentleman’s wardrobe. These formal shoes feature a polished finish and a cushioned insole for comfort during office hours.",
+      "feature_resolution": "Genuine Leather, Lace-up Closure, Durable Sole.",
+      "tags": ["Formal", "Bata", "Office Wear", "Leather"],
+      "available_options": { "sizes": ["7", "8", "9", "10", "11"] },
+      "wishlist": "Available",
+      "reviews": [{"user": "Usman L.", "rating": 4, "comment": "Very comfortable for daily office use."}],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 16,
+    "name": "Fossil Machine Three-Hand Brown Leather Watch",
+    "type_filter": "Men Watch",
+    "brand": "Fossil",
+    "rating": 4.8,
+    "price": 120.00,
+    "availability": "In Stock",
+    "overview_desc": "Rugged design meets classic style with an industrial-inspired bezel.",
+    "product_page": {
+      "images": ["fossil_watch.jpg"],
+      "description": "This 42mm watch features a black dial with a date window and a genuine brown leather strap that ages beautifully over time.",
+      "feature_resolution": "Quartz Movement, 5 ATM Water Resistance, Interchangeable Straps.",
+      "tags": ["Watch", "Fossil", "Accessories", "Leather"],
+      "available_options": { "dial_colors": ["Black", "Blue"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Insured Shipping"]
+    }
+  },
+  {
+    "product_id": 17,
+    "name": "Casio G-Shock DW5600 Digital Watch",
+    "type_filter": "Digital Watch",
+    "brand": "Casio",
+    "rating": 4.9,
+    "price": 75.00,
+    "availability": "In Stock",
+    "overview_desc": "The ultimate tough watch for extreme environments and daily utility.",
+    "product_page": {
+      "images": ["casio_gshock.jpg"],
+      "description": "The original square G-Shock design. Shock resistant, 200m water resistant, and features an EL backlight with Afterglow.",
+      "feature_resolution": "Shock Resistant, Multi-function Alarm, 2-Year Battery.",
+      "tags": ["Casio", "Watch", "Digital", "Durable"],
+      "available_options": { "colors": ["Black", "Military Green"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 18,
+    "name": "Ray-Ban Classic Aviator Sunglasses",
+    "type_filter": "Sunglasses",
+    "brand": "Ray-Ban",
+    "rating": 4.9,
+    "price": 165.00,
+    "availability": "In Stock",
+    "overview_desc": "The world's most iconic sunglass model, designed for aviators in 1937.",
+    "product_page": {
+      "images": ["rayban_aviator.jpg"],
+      "description": "Features G-15 polarized lenses that provide a high level of clarity and protection from harmful UV rays. Metal frames with a gold finish.",
+      "feature_resolution": "Polarized Lenses, 100% UV Protection, Metal Frame.",
+      "tags": ["Eyewear", "Ray-Ban", "Luxury", "Classic"],
+      "available_options": { "frame_size": ["Standard", "Large"] },
+      "wishlist": "Available",
+      "reviews": [{"user": "Fahad N.", "rating": 5, "comment": "Simply the best sunglasses ever made."}],
+      "shipping_methods": ["Insured Shipping"]
+    }
+  },
+  {
+    "product_id": 19,
+    "name": "Premium Leather Reversible Belt",
+    "type_filter": "Leather Belt",
+    "brand": "Formal Essentials",
+    "rating": 4.5,
+    "price": 25.00,
+    "availability": "In Stock",
+    "overview_desc": "A versatile 2-in-1 leather belt for formal and casual outfits.",
+    "product_page": {
+      "images": ["leather_belt.jpg"],
+      "description": "Crafted from top-grain leather, this belt features a twist buckle that allows you to switch between Black and Tan sides easily.",
+      "feature_resolution": "Reversible Design, Genuine Leather, Polished Nickel Buckle.",
+      "tags": ["Accessories", "Formal", "Leather"],
+      "available_options": { "waist_sizes": ["32", "34", "36", "38", "40"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  },
+  {
+    "product_id": 20,
+    "name": "Men's Premium Leather Bifold Wallet",
+    "type_filter": "Wallet",
+    "brand": "Leather Goods Co.",
+    "rating": 4.7,
+    "price": 35.00,
+    "availability": "In Stock",
+    "overview_desc": "Handcrafted bifold wallet with RFID protection.",
+    "product_page": {
+      "images": ["leather_wallet.jpg"],
+      "description": "Keep your essentials organized. Features 8 card slots, two cash compartments, and an ID window, all wrapped in premium textured leather.",
+      "feature_resolution": "RFID Blocking, Hand-Stitched, Slim Profile.",
+      "tags": ["Accessories", "Wallet", "Leather", "Safety"],
+      "available_options": { "colors": ["Dark Brown", "Midnight Black"] },
+      "wishlist": "Available",
+      "reviews": [],
+      "shipping_methods": ["Standard Delivery"]
+    }
+  }
+
+]
