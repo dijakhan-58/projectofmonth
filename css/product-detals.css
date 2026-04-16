@@ -1,0 +1,22 @@
+@media (max-width: 1440px) {}
+
+@media (max-width: 1024px) {}
+
+@media (max-width: 768px) {}
+
+/* Mobile L */
+@media (max-width: 425px) {
+    .wrapper-for-arrows {
+        position: relative;
+        width: 400px;
+        border-radius: 2rem;
+        box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+        overflow: hidden;
+        display: grid;
+        place-items: center;
+    }
+}
+
+@media (max-width: 375px) {}
+
+@media (max-width: 320px) {}
