@@ -376,3 +376,54 @@ function toggleNmDrop(e, id) {
   e.preventDefault();
   document.getElementById(id).classList.toggle("open");
 }
+
+
+
+
+
+
+const team = [
+  { name: "Asim Khan", role: "developer", img: "https://placehold.co/110x110/eef1fb/050842?text=AK" },
+  { name: "Khadija", role: "Marketing Director", img: "https://placehold.co/110x110/eef1fb/050842?text=K" },
+  { name: "Absar", role: "Lead Developer", img: "https://placehold.co/110x110/eef1fb/050842?text=AB" },
+  { name: "Dua", role: "UI/UX Designer", img: "https://placehold.co/110x110/eef1fb/050842?text=D" },
+  { name: "Abdul Rehman", role: "Operations Manager", img: "https://placehold.co/110x110/eef1fb/050842?text=AR" },
+  { name: "Aleena", role: "Customer Support", img: "https://placehold.co/110x110/eef1fb/050842?text=AL" },
+  { name: "Nabahat", role: "Software Engineer", img: "https://placehold.co/110x110/eef1fb/050842?text=N" },
+  { name: "Hana Fahad", role: "HR Manager", img: "https://placehold.co/110x110/eef1fb/050842?text=HF" },
+  { name: "Mahnoor", role: "Sales Executive", img: "https://placehold.co/110x110/eef1fb/050842?text=M" },
+];
+
+const inner = document.getElementById("teamInner");
+
+for (let i = 0; i < team.length; i += 3) {
+  const group = team.slice(i, i + 3);
+  const active = i === 0 ? "active" : "";
+
+  inner.innerHTML += `
+    <div class="carousel-item ${active}">
+      <div class="row g-4 justify-content-center">
+        ${group.map((m) => `
+          <div class="col-md-4">
+            <div class="team-card">
+              <div class="team-img-wrap">
+                <img src="${m.img}" alt="${m.name}"/>
+              </div>
+              <div class="team-name">${m.name}</div>
+              <div class="team-role">${m.role}</div>
+            </div>
+          </div>
+        `).join("")}
+      </div>
+    </div>`;
+}
+
+/* Hamburger */
+document.getElementById("navToggler").onclick = () => {
+  const m = document.getElementById("navMob");
+  const o = m.classList.toggle("open");
+  document.getElementById("togIcon").className = o
+    ? "bi bi-x-lg"
+    : "bi bi-list";
+};
+
