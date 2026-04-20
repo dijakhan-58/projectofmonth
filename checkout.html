@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
   <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
   <head>
@@ -55,53 +55,76 @@
       rel="stylesheet"
       type="text/css"
     />
- 
   </head>
-   <style type="text/css">
-      body {
-        font-family: "Open Sans", sans-serif;
+  <style type="text/css">
+    body {
+      font-family: "Open Sans", sans-serif;
+    }
+    .font-ct,
+    h1,
+    h2,
+    h3,
+    .des_deal,
+    .item-time-w,
+    .item-time-w .name-time,
+    .static-menu a.main-menu,
+    .container-megamenu.vertical .vertical-wrapper ul li > a strong,
+    .container-megamenu.vertical
+      .vertical-wrapper
+      ul.megamenu
+      li
+      .sub-menu
+      .content
+      .static-menu
+      .menu
+      ul
+      li
+      a.main-menu,
+    .horizontal ul.megamenu > li > a,
+    .footertitle,
+    .module h3.modtitle span,
+    .breadcrumb li a,
+    .item-title a,
+    .best-seller-custom .item-info,
+    .product-box-desc,
+    .product_page_price .price-new,
+    .list-group-item a,
+    #menu ul.nav > li > a,
+    .megamenuToogle-pattern,
+    .right-block .caption h4,
+    .price,
+    .box-price {
+      font-family: Raleway, sans-serif;
+    }
+    /* 1. Shrink the logo size */
+    .logo-img {
+      max-height: 70px; /* Adjust this value to make it smaller or larger */
+      width: auto; /* Keeps the aspect ratio perfect */
+      display: block;
+    }
+
+    /* 2. Force alignment with the Search Bar */
+    .header-center .row {
+      display: flex;
+      align-items: center; /* This aligns the logo and search bar vertically */
+      justify-content: space-between;
+    }
+
+    /* 3. Handle Mobile (Stacking) */
+    @media (max-width: 991px) {
+      .header-center .row {
+        display: block; /* Standard block layout for mobile */
+        text-align: center;
       }
-      .font-ct,
-      h1,
-      h2,
-      h3,
-      .des_deal,
-      .item-time-w,
-      .item-time-w .name-time,
-      .static-menu a.main-menu,
-      .container-megamenu.vertical .vertical-wrapper ul li > a strong,
-      .container-megamenu.vertical
-        .vertical-wrapper
-        ul.megamenu
-        li
-        .sub-menu
-        .content
-        .static-menu
-        .menu
-        ul
-        li
-        a.main-menu,
-      .horizontal ul.megamenu > li > a,
-      .footertitle,
-      .module h3.modtitle span,
-      .breadcrumb li a,
-      .item-title a,
-      .best-seller-custom .item-info,
-      .product-box-desc,
-      .product_page_price .price-new,
-      .list-group-item a,
-      #menu ul.nav > li > a,
-      .megamenuToogle-pattern,
-      .right-block .caption h4,
-      .price,
-      .box-price {
-        font-family: Raleway, sans-serif;
+      .logo-img {
+        margin: 0 auto 15px auto; /* Centers logo on mobile */
       }
-    </style>
+    }
+  </style>
   <body class="res layout-1">
     <div id="wrapper" class="wrapper-fluid banners-effect-5">
       <!-- Header Container  -->
-   <header id="header" class="typeheader-2">
+      <header id="header" class="typeheader-2">
         <!-- Header Top -->
         <div class="header-top hidden-compact">
           <div class="container">
@@ -992,7 +1015,9 @@
                                           </div>
                                           <div class="row">
                                             <div class="col-md-3">
-                                              <a href="category.html" class="title-submenu"
+                                              <a
+                                                href="category.html"
+                                                class="title-submenu"
                                                 >Automotive</a
                                               >
                                               <div class="row">
@@ -1025,7 +1050,6 @@
                                                           Parts</a
                                                         >
                                                       </li>
-                                                      
                                                     </ul>
                                                   </div>
                                                 </div>
@@ -1798,7 +1822,7 @@
                                   <a href="product.html"
                                     ><img
                                       width="60px"
-                                      src="image/catalog/demo/product/funiture/10.jpg"
+                                      src="image/catalog/demo/product/furniture/p1.jpg"
                                       alt="Xitefun Causal Wear Fancy Shoes"
                                       title="Xitefun Causal Wear Fancy Shoes"
                                       class="img-thumbnail"

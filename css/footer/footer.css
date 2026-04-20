@@ -1,15 +1,5 @@
 @charset "UTF-8";
-/* [2] */
-/* [8] */
-/*===============================================
- [SASS DIRECTORY ]
- [1] Minxin Link
- [2] Minxin Button
- [3] Minxin Triangle
- [4] Minxin LABEL PRODUCT
- [5] Minxin Scrollbars
- [6] Minxin Dev Custom
- ==============================================*/
+
 .no-margin {
   margin: 0 !important; }
 
@@ -117,7 +107,7 @@
         width: 40px;
         padding: 0; }
       .lib-list-item-product2 .image-dev .list-button-dev li:hover {
-        background: #ff5e00; }
+        background: #ffbf00; }
         .lib-list-item-product2 .image-dev .list-button-dev li:hover a, .lib-list-item-product2 .image-dev .list-button-dev li:hover button {
           color: #fff; }
   .lib-list-item-product2 .caption-dev {
@@ -258,12 +248,12 @@
     height: auto; }
   .typefooter-2 .news-letter .block_content .input-box input {
     height: 40px;
-    border-color: #ff5e00; }
+    border-color: #ffbf00; }
   .typefooter-2 .news-letter .block_content .subcribe button {
     height: 40px;
     z-index: 9; }
   .typefooter-2 .socials-wrap ul li a {
-    background-color: #ff5e00;
+    background-color: #ffbf00;
     color: #ebebeb; }
   .typefooter-2 .socials-wrap ul li a:hover {
     color: #fff !important; }
