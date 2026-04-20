@@ -3084,4 +3084,287 @@
 
 
 
+
+
+
+.header-center {
+  background: #fff;
+  padding: 15px 0;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  position: relative;
+  z-index: 1000;
+}
+
+.header-center .container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+
+.navbar-logo {
+  padding: 0 !important;
+  text-align: left;
+}
+
+.navbar-logo .logo img {
+  max-height: 120px;
+  width: auto;
+  transition: all 0.3s ease;
+}
+
+.navbar-logo .logo img:hover {
+  transform: scale(1.05);
+}
+.header-center-right {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 20px;
+}
+
+.header_search {
+  flex: 1;
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.sosearchpro-wrapper {
+  position: relative;
+}
+
+#search0 {
+  position: relative;
+  display: flex;
+  align-items: stretch;
+  border: 2px solid #e0e0e0;
+  border-radius: 50px;
+  overflow: hidden;
+  background: #fff;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+  transition: all 0.3s ease;
+}
+
+#search0:hover {
+  box-shadow: 0 6px 20px rgba(0,0,0,0.15);
+  border-color: #000000;
+}
+
+#search0:focus-within {
+  border-color: #0f0f10;
+  box-shadow: 0 0 0 3px rgba(0,123,255,0.1);
+}
+
+.select_category {
+  flex-shrink: 0;
+}
+
+.select_category select {
+  border: none !important;
+  background: #f8f9fa;
+  padding: 12px 12px; 
+  border-radius: 50px 0 0 50px;
+  font-size: 14px;
+  color: #333;
+  min-width: 140px; 
+  cursor: pointer;
+}
+
+.select_category select:focus {
+  outline: none;
+  background: #e9ecef;
+}
+
+.autosearch-input {
+  flex: 1;
+  border: none !important;
+  padding: 15px 15px; 
+  font-size: 16px;
+  background: transparent;
+  color: #333;
+  max-width: 300px; 
+}
+
+.autosearch-input::placeholder {
+  color: #999;
+  font-weight: 400;
+}
+
+.autosearch-input:focus {
+  outline: none;
+  box-shadow: none;
+}
+
+.input-group-btn {
+  flex-shrink: 0;
+}
+
+.button-search {
+  border: none !important;
+  background: linear-gradient(135deg, #ffc107, #e0a800) !important;
+  color: #333 !important; 
+  padding: 15px 18px !important;
+  border-radius: 0 50px 50px 0 !important;
+  font-size: 16px !important;
+  transition: all 0.3s ease !important;
+  box-shadow: none !important;
+}
+
+.button-search:hover {
+  background: linear-gradient(135deg, #e0a800, #d39e00) !important;
+  color: #333 !important;
+  box-shadow: 0 4px 12px rgba(255,193,7,0.4);
+}
+
+.button-search i {
+  font-size: 18px;
+  color: #333 !important; 
+}
+
+.phone-header {
+  flex-shrink: 0;
+  text-align: right;
+}
+
+.telephone {
+  font-family: 'Arial', sans-serif;
+}
+
+.contact-us {
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.contact-us .text {
+  color: #666;
+  font-weight: 500;
+  display: block;
+  margin-bottom: 2px;
+}
+
+.contact-us .phone {
+  color: #ffbf00;
+  font-weight: 700;
+  font-size: 16px;
+  display: block;
+  margin-bottom: 5px;
+}
+
+.contact-us a {
+  color: #ffbf00 !important;
+  text-decoration: none;
+  font-weight: 600;
+  transition: all 0.3s ease;
+}
+
+.contact-us a:hover {
+  color: black !important;
+  text-decoration: underline;
+}
+
+@media (max-width: 991px) {
+  .header-center-right {
+    flex-direction: column;
+    gap: 15px;
+    padding: 0 10px;
+  }
+  
+  .header_search {
+    max-width: 100%;
+    order: 2;
+  }
+  
+  .phone-header {
+    order: 1;
+    text-align: center;
+  }
+  
+  .navbar-logo {
+    order: 0;
+  }
+  
+  .autosearch-input {
+    max-width: none; 
+  }
+}
+
+@media (max-width: 767px) {
+  .navbar-logo {
+    text-align: center;
+    margin-bottom: 15px;
+  }
+  
+  #search0 {
+    margin: 0 10px;
+  }
+  
+  .select_category select {
+    min-width: 120px;
+    padding: 12px 10px;
+  }
+  
+  .autosearch-input {
+    padding: 12px 15px;
+    font-size: 15px;
+  }
+  
+  .button-search {
+    padding: 12px 15px !important;
+  }
+}
+
+@media (max-width: 480px) {
+  .header-center {
+    padding: 10px 0;
+  }
+  
+  .navbar-logo .logo img {
+    max-height: 40px;
+  }
+  
+  .select_category select {
+    min-width: 100px;
+    font-size: 13px;
+  }
+}
+
+/* Dropdown Menu */
+.dropdown-menu {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  background: white;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  box-shadow: 0 8px 25px rgba(0,0,0,0.15);
+  max-height: 300px;
+  overflow-y: auto;
+  z-index: 1001;
+  display: none;
+}
+
+.dropdown-menu.show {
+  display: block;
+  animation: fadeInUp 0.3s ease;
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@media (max-width: 767px) {
+  .hidden-xs {
+    display: none !important;
+  }
+}
+
+
+
   
